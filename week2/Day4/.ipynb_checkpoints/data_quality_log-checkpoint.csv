@@ -1,0 +1,8 @@
+Column,Issue,Action,Reason
+NAME,Uppercase/lowercase mismatch and special symbols,Removed unwanted symbols and converted to Title Case,Maintain consistency
+EMAIL,Uppercase/lowercase mismatch and special symbols,Removed unwanted symbols and converted to Lowercase,Maintain consistent email formatting
+MOBILE,Missing values and special symbols,Removed unwanted symbols and flagged missing values,Avoid incorrect contact information
+DOB,Mixed date formats,Converted into datetime,Standardize dates
+AGE,Missing values and unwanted column,Applied median imputation and removed unwanted column,Maintain data quality
+COURSE,Special characters and missing values,Replaced unwanted symbols and filled missing values,Maintain consistent course names
+DOJ,Mixed date formats,Standardized date format,Consistent date representation
