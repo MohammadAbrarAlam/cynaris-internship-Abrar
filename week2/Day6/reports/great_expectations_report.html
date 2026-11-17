@@ -1,0 +1,639 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Data Quality Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            background-color: #f4f4f4;
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        .status {
+            font-weight: bold;
+            font-size: 18px;
+        }
+
+        pre {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            white-space: pre-wrap;
+            overflow-wrap: anywhere;
+        }
+
+        .scale-labels {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 8px;
+            font-size: 12px;
+            color: #666;
+        }
+
+        .progress-bar {
+            height: 100%;
+            width: {success_percent}%;
+            background: #198754;
+            transition: width 0.5s;
+        }
+    </style>
+</head>
+<body>
+    <h1>Student Data Quality Report</h1>
+
+    <h2>Great Expectations Validation</h2>
+
+    <p class="status">
+        Overall Status: FAILED
+    </p>
+
+    <p>Total Expectations: 8</p>
+
+    <h2>Validation Results</h2>
+
+    <pre>{
+    &quot;success&quot;: false,
+    &quot;results&quot;: [
+        {
+            &quot;success&quot;: true,
+            &quot;expectation_config&quot;: {
+                &quot;type&quot;: &quot;expect_column_values_to_not_be_null&quot;,
+                &quot;kwargs&quot;: {
+                    &quot;batch_id&quot;: &quot;student_data_source-student_data&quot;,
+                    &quot;column&quot;: &quot;roll-no&quot;
+                },
+                &quot;meta&quot;: {},
+                &quot;severity&quot;: &quot;critical&quot;
+            },
+            &quot;result&quot;: {
+                &quot;element_count&quot;: 20,
+                &quot;unexpected_count&quot;: 0,
+                &quot;unexpected_percent&quot;: 0.0,
+                &quot;partial_unexpected_list&quot;: [],
+                &quot;partial_unexpected_counts&quot;: [],
+                &quot;partial_unexpected_index_list&quot;: []
+            },
+            &quot;meta&quot;: {},
+            &quot;exception_info&quot;: {
+                &quot;raised_exception&quot;: false,
+                &quot;exception_traceback&quot;: null,
+                &quot;exception_message&quot;: null
+            }
+        },
+        {
+            &quot;success&quot;: true,
+            &quot;expectation_config&quot;: {
+                &quot;type&quot;: &quot;expect_column_values_to_be_unique&quot;,
+                &quot;kwargs&quot;: {
+                    &quot;batch_id&quot;: &quot;student_data_source-student_data&quot;,
+                    &quot;column&quot;: &quot;roll-no&quot;
+                },
+                &quot;meta&quot;: {},
+                &quot;severity&quot;: &quot;critical&quot;
+            },
+            &quot;result&quot;: {
+                &quot;element_count&quot;: 20,
+                &quot;unexpected_count&quot;: 0,
+                &quot;unexpected_percent&quot;: 0.0,
+                &quot;partial_unexpected_list&quot;: [],
+                &quot;missing_count&quot;: 0,
+                &quot;missing_percent&quot;: 0.0,
+                &quot;unexpected_percent_total&quot;: 0.0,
+                &quot;unexpected_percent_nonmissing&quot;: 0.0,
+                &quot;partial_unexpected_counts&quot;: [],
+                &quot;partial_unexpected_index_list&quot;: []
+            },
+            &quot;meta&quot;: {},
+            &quot;exception_info&quot;: {
+                &quot;raised_exception&quot;: false,
+                &quot;exception_traceback&quot;: null,
+                &quot;exception_message&quot;: null
+            }
+        },
+        {
+            &quot;success&quot;: true,
+            &quot;expectation_config&quot;: {
+                &quot;type&quot;: &quot;expect_column_values_to_not_be_null&quot;,
+                &quot;kwargs&quot;: {
+                    &quot;batch_id&quot;: &quot;student_data_source-student_data&quot;,
+                    &quot;column&quot;: &quot;name&quot;
+                },
+                &quot;meta&quot;: {},
+                &quot;severity&quot;: &quot;critical&quot;
+            },
+            &quot;result&quot;: {
+                &quot;element_count&quot;: 20,
+                &quot;unexpected_count&quot;: 0,
+                &quot;unexpected_percent&quot;: 0.0,
+                &quot;partial_unexpected_list&quot;: [],
+                &quot;partial_unexpected_counts&quot;: [],
+                &quot;partial_unexpected_index_list&quot;: []
+            },
+            &quot;meta&quot;: {},
+            &quot;exception_info&quot;: {
+                &quot;raised_exception&quot;: false,
+                &quot;exception_traceback&quot;: null,
+                &quot;exception_message&quot;: null
+            }
+        },
+        {
+            &quot;success&quot;: false,
+            &quot;expectation_config&quot;: {
+                &quot;type&quot;: &quot;expect_column_values_to_match_regex&quot;,
+                &quot;kwargs&quot;: {
+                    &quot;batch_id&quot;: &quot;student_data_source-student_data&quot;,
+                    &quot;column&quot;: &quot;email&quot;,
+                    &quot;regex&quot;: &quot;^[\\w.+-]+@[\\w-]+(?:\\.[\\w-]+)+$&quot;
+                },
+                &quot;meta&quot;: {},
+                &quot;severity&quot;: &quot;critical&quot;
+            },
+            &quot;result&quot;: {
+                &quot;element_count&quot;: 20,
+                &quot;unexpected_count&quot;: 1,
+                &quot;unexpected_percent&quot;: 5.0,
+                &quot;partial_unexpected_list&quot;: [
+                    &quot;ali@@gmail.com&quot;
+                ],
+                &quot;missing_count&quot;: 0,
+                &quot;missing_percent&quot;: 0.0,
+                &quot;unexpected_percent_total&quot;: 5.0,
+                &quot;unexpected_percent_nonmissing&quot;: 5.0,
+                &quot;partial_unexpected_counts&quot;: [
+                    {
+                        &quot;value&quot;: &quot;ali@@gmail.com&quot;,
+                        &quot;count&quot;: 1
+                    }
+                ],
+                &quot;partial_unexpected_index_list&quot;: [
+                    4
+                ]
+            },
+            &quot;meta&quot;: {},
+            &quot;exception_info&quot;: {
+                &quot;raised_exception&quot;: false,
+                &quot;exception_traceback&quot;: null,
+                &quot;exception_message&quot;: null
+            }
+        },
+        {
+            &quot;success&quot;: true,
+            &quot;expectation_config&quot;: {
+                &quot;type&quot;: &quot;expect_column_values_to_be_between&quot;,
+                &quot;kwargs&quot;: {
+                    &quot;batch_id&quot;: &quot;student_data_source-student_data&quot;,
+                    &quot;column&quot;: &quot;age&quot;,
+                    &quot;min_value&quot;: 5.0,
+                    &quot;max_value&quot;: 100.0
+                },
+                &quot;meta&quot;: {},
+                &quot;severity&quot;: &quot;critical&quot;
+            },
+            &quot;result&quot;: {
+                &quot;element_count&quot;: 20,
+                &quot;unexpected_count&quot;: 0,
+                &quot;unexpected_percent&quot;: 0.0,
+                &quot;partial_unexpected_list&quot;: [],
+                &quot;missing_count&quot;: 2,
+                &quot;missing_percent&quot;: 10.0,
+                &quot;unexpected_percent_total&quot;: 0.0,
+                &quot;unexpected_percent_nonmissing&quot;: 0.0,
+                &quot;partial_unexpected_counts&quot;: [],
+                &quot;partial_unexpected_index_list&quot;: []
+            },
+            &quot;meta&quot;: {},
+            &quot;exception_info&quot;: {
+                &quot;raised_exception&quot;: false,
+                &quot;exception_traceback&quot;: null,
+                &quot;exception_message&quot;: null
+            }
+        },
+        {
+            &quot;success&quot;: false,
+            &quot;expectation_config&quot;: {
+                &quot;type&quot;: &quot;expect_column_values_to_match_regex&quot;,
+                &quot;kwargs&quot;: {
+                    &quot;batch_id&quot;: &quot;student_data_source-student_data&quot;,
+                    &quot;column&quot;: &quot;mobile&quot;,
+                    &quot;regex&quot;: &quot;^\\d{10}$&quot;
+                },
+                &quot;meta&quot;: {},
+                &quot;severity&quot;: &quot;critical&quot;
+            },
+            &quot;result&quot;: {
+                &quot;element_count&quot;: 20,
+                &quot;unexpected_count&quot;: 4,
+                &quot;unexpected_percent&quot;: 20.0,
+                &quot;partial_unexpected_list&quot;: [
+                    &quot;98765-43210&quot;,
+                    &quot;98765-43216&quot;,
+                    &quot;98765/43220&quot;,
+                    &quot;98765/43223&quot;
+                ],
+                &quot;missing_count&quot;: 0,
+                &quot;missing_percent&quot;: 0.0,
+                &quot;unexpected_percent_total&quot;: 20.0,
+                &quot;unexpected_percent_nonmissing&quot;: 20.0,
+                &quot;partial_unexpected_counts&quot;: [
+                    {
+                        &quot;value&quot;: &quot;98765-43210&quot;,
+                        &quot;count&quot;: 1
+                    },
+                    {
+                        &quot;value&quot;: &quot;98765-43216&quot;,
+                        &quot;count&quot;: 1
+                    },
+                    {
+                        &quot;value&quot;: &quot;98765/43220&quot;,
+                        &quot;count&quot;: 1
+                    },
+                    {
+                        &quot;value&quot;: &quot;98765/43223&quot;,
+                        &quot;count&quot;: 1
+                    }
+                ],
+                &quot;partial_unexpected_index_list&quot;: [
+                    0,
+                    6,
+                    10,
+                    13
+                ]
+            },
+            &quot;meta&quot;: {},
+            &quot;exception_info&quot;: {
+                &quot;raised_exception&quot;: false,
+                &quot;exception_traceback&quot;: null,
+                &quot;exception_message&quot;: null
+            }
+        },
+        {
+            &quot;success&quot;: true,
+            &quot;expectation_config&quot;: {
+                &quot;type&quot;: &quot;expect_column_values_to_not_be_null&quot;,
+                &quot;kwargs&quot;: {
+                    &quot;batch_id&quot;: &quot;student_data_source-student_data&quot;,
+                    &quot;column&quot;: &quot;course&quot;
+                },
+                &quot;meta&quot;: {},
+                &quot;severity&quot;: &quot;critical&quot;
+            },
+            &quot;result&quot;: {
+                &quot;element_count&quot;: 20,
+                &quot;unexpected_count&quot;: 0,
+                &quot;unexpected_percent&quot;: 0.0,
+                &quot;partial_unexpected_list&quot;: [],
+                &quot;partial_unexpected_counts&quot;: [],
+                &quot;partial_unexpected_index_list&quot;: []
+            },
+            &quot;meta&quot;: {},
+            &quot;exception_info&quot;: {
+                &quot;raised_exception&quot;: false,
+                &quot;exception_traceback&quot;: null,
+                &quot;exception_message&quot;: null
+            }
+        },
+        {
+            &quot;success&quot;: true,
+            &quot;expectation_config&quot;: {
+                &quot;type&quot;: &quot;expect_column_values_to_be_between&quot;,
+                &quot;kwargs&quot;: {
+                    &quot;batch_id&quot;: &quot;student_data_source-student_data&quot;,
+                    &quot;column&quot;: &quot;doj&quot;,
+                    &quot;min_value&quot;: &quot;2024-07-01T00:00:00&quot;,
+                    &quot;max_value&quot;: &quot;2024-12-31T00:00:00&quot;
+                },
+                &quot;meta&quot;: {},
+                &quot;severity&quot;: &quot;critical&quot;
+            },
+            &quot;result&quot;: {
+                &quot;element_count&quot;: 20,
+                &quot;unexpected_count&quot;: 0,
+                &quot;unexpected_percent&quot;: 0.0,
+                &quot;partial_unexpected_list&quot;: [],
+                &quot;missing_count&quot;: 0,
+                &quot;missing_percent&quot;: 0.0,
+                &quot;unexpected_percent_total&quot;: 0.0,
+                &quot;unexpected_percent_nonmissing&quot;: 0.0,
+                &quot;partial_unexpected_counts&quot;: [],
+                &quot;partial_unexpected_index_list&quot;: []
+            },
+            &quot;meta&quot;: {},
+            &quot;exception_info&quot;: {
+                &quot;raised_exception&quot;: false,
+                &quot;exception_traceback&quot;: null,
+                &quot;exception_message&quot;: null
+            }
+        }
+    ],
+    &quot;suite_name&quot;: &quot;student_data_quality_suite&quot;,
+    &quot;suite_parameters&quot;: {},
+    &quot;statistics&quot;: {
+        &quot;evaluated_expectations&quot;: 8,
+        &quot;successful_expectations&quot;: 6,
+        &quot;unsuccessful_expectations&quot;: 2,
+        &quot;success_percent&quot;: 75.0
+    },
+    &quot;meta&quot;: {
+        &quot;great_expectations_version&quot;: &quot;1.25.0&quot;,
+        &quot;batch_spec&quot;: {
+            &quot;batch_data&quot;: &quot;PandasDataFrame&quot;
+        },
+        &quot;batch_markers&quot;: {
+            &quot;ge_load_time&quot;: &quot;20261116T173117.395090Z&quot;,
+            &quot;pandas_data_fingerprint&quot;: &quot;a4e6864916e0b29d49d2e8cdaa603040&quot;
+        },
+        &quot;active_batch_definition&quot;: {
+            &quot;datasource_name&quot;: &quot;student_data_source&quot;,
+            &quot;data_connector_name&quot;: &quot;fluent&quot;,
+            &quot;data_asset_name&quot;: &quot;student_data&quot;,
+            &quot;batch_identifiers&quot;: {
+                &quot;dataframe&quot;: &quot;&lt;DATAFRAME&gt;&quot;
+            }
+        }
+    },
+    &quot;id&quot;: null
+}</pre>
+ 
+# Generate HTML Validation Report
+
+report_folder = Path(__file__).resolve().parents[1] / "reports"
+report_folder.mkdir(parents=True, exist_ok=True)
+
+report_file = report_folder / "great_expectations_report.html"
+
+# Get validation statistics
+statistics = results.statistics
+
+total_checks = statistics["evaluated_expectations"]
+passed_checks = statistics["successful_expectations"]
+failed_checks = statistics["unsuccessful_expectations"]
+success_percent = statistics["success_percent"]
+
+status = "PASSED" if results.success else "FAILED"
+
+# Convert validation results into JSON
+results_json = html.escape(
+    json.dumps(results.to_json_dict(), indent=4, default=str)
+)
+
+# Generate HTML report
+html_report = f"""
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Student Data Quality Report</title>
+
+    <style>
+        body {{
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            background-color: #f4f6f9;
+            color: #333;
+        }}
+
+        h1, h2 {{
+            color: #243447;
+        }}
+
+        .card {{
+            background: white;
+            padding: 22px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+        }}
+
+        .status {{
+            font-size: 18px;
+            font-weight: bold;
+        }}
+
+        .passed {{
+            color: #198754;
+            font-weight: bold;
+        }}
+
+        .failed {{
+            color: #dc3545;
+            font-weight: bold;
+        }}
+
+        .summary {{
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }}
+
+        .summary-item {{
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            flex: 1;
+            min-width: 130px;
+        }}
+
+        .number {{
+            font-size: 28px;
+            font-weight: bold;
+        }}
+
+        /* Overall validation visual scale */
+
+        .validation-score {{
+            font-size: 32px;
+            font-weight: bold;
+            margin: 12px 0;
+        }}
+
+        .scale-track {{
+            position: relative;
+            height: 18px;
+            width: 100%;
+            background: #dc3545;
+            border-radius: 10px;
+            overflow: hidden;
+        }}
+
+        .scale-passed {{
+            height: 100%;
+            width: {success_percent}%;
+            background: #198754;
+            border-radius: 10px 0 0 10px;
+        }}
+
+        .scale-labels {{
+            display: flex;
+            justify-content: space-between;
+            margin-top: 9px;
+            font-size: 12px;
+            color: #666;
+        }}
+
+        .scale-legend {{
+            display: flex;
+            gap: 20px;
+            margin-top: 18px;
+            flex-wrap: wrap;
+        }}
+
+        .legend-item {{
+            font-size: 14px;
+        }}
+
+        table {{
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+        }}
+
+        th, td {{
+            padding: 12px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }}
+
+        th {{
+            background: #e9eef5;
+        }}
+
+        pre {{
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            white-space: pre-wrap;
+            overflow-wrap: anywhere;
+            overflow-x: auto;
+        }}
+
+        li {{
+            margin-bottom: 12px;
+            line-height: 1.5;
+        }}
+    </style>
+</head>
+
+<body>
+
+    <h1>Student Data Quality Report</h1>
+    <p>Great Expectations Validation Report</p>
+
+    <!-- Overall Validation -->
+    <div class="card">
+
+        <h2>Overall Validation</h2>
+
+        <p class="status">
+            Status:
+            <span class="{'passed' if results.success else 'failed'}">
+                {status}
+            </span>
+        </p>
+
+        <div class="validation-score">
+            {success_percent}%
+        </div>
+
+        <p>Validation Success Rate</p>
+
+        <div class="scale-track">
+            <div class="scale-passed"></div>
+        </div>
+
+        <div class="scale-labels">
+            <span>0%</span>
+            <span>25%</span>
+            <span>50%</span>
+            <span>75%</span>
+            <span>100%</span>
+        </div>
+
+        <div class="scale-legend">
+            <span class="legend-item passed">
+                &#9632; Passed: {passed_checks}
+            </span>
+
+            <span class="legend-item failed">
+                &#9632; Failed: {failed_checks}
+            </span>
+        </div>
+
+    </div>
+
+    <!-- Summary Cards -->
+    <div class="summary">
+
+        <div class="summary-item">
+            <p>Total Expectations</p>
+            <div class="number">{total_checks}</div>
+        </div>
+
+        <div class="summary-item">
+            <p>Passed Checks</p>
+            <div class="number passed">{passed_checks}</div>
+        </div>
+
+        <div class="summary-item">
+            <p>Failed Checks</p>
+            <div class="number failed">{failed_checks}</div>
+        </div>
+
+    </div>
+
+    <!-- Validation Results -->
+    <div class="card">
+
+        <h2>Validation Results</h2>
+
+        <pre>{results_json}</pre>
+
+    </div>
+
+    <!-- Recommendations -->
+    <div class="card">
+
+        <h2>Recommendations</h2>
+
+        <ol>
+            <li>Fix invalid email addresses.</li>
+            <li>Standardize mobile number formats.</li>
+            <li>Investigate the two missing ages.</li>
+            <li>Add a separate not-null expectation for age.</li>
+            <li>Check duplicate roll numbers before dashboard reporting.</li>
+            <li>Validate all data before using it in the BI Dashboard.</li>
+        </ol>
+
+    </div>
+
+</body>
+</html>
+"""
+
+
+    report_file.write_text(html_report, encoding="utf-8")
+
+    print("HTML report generated successfully!")
+    print("Report location:", report_file)
+
+<div class="card">
+    <h2>Recommendations</h2>
+    <ol>
+        <li>Fix invalid email addresses.</li>
+        <li>Standardize mobile number formats.</li>
+        <li>Investigate the two missing ages.</li>
+        <li>Add a separate not-null expectation for age.</li>
+        <li>Check duplicate roll numbers before dashboard reporting.</li>
+        <li>Validate all data before using it in the BI Dashboard.</li>
+    </ol>
+</div>
+
+</body>
+</html>

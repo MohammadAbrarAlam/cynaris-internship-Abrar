@@ -149,7 +149,17 @@ print("NumPy Time:", numpy_time)
 - Explore NumPy in the data science stack.
 - Learn how NumPy supports efficient numerical computation.
 
-# 15. Git & GitHub Workflow
+# 15. Scaling Numeric Data
+
+Scaling makes numeric values easier to compare when they use different ranges.
+The NumPy notebook demonstrates two common approaches:
+
+- **Min-max scaling** maps values to the range 0–1.
+- **Standardization** centers values around 0 and scales them to a standard deviation of 1.
+
+Both examples handle constant arrays by returning zeros, avoiding division by zero.
+
+# 16. Git & GitHub Workflow
 
 # Create Feature Branch
 
@@ -182,9 +192,9 @@ Completed NumPy practical tasks covering array creation, vectorised operations, 
 
 Included `numpy_analysis.ipynb` and `README.md`.
 
-# 16. Learning Outcome
+# 17. Learning Outcome
 
-Learned how to create and manipulate NumPy arrays, perform numerical operations, apply statistical functions, filter data, and understand NumPy performance.
+Learned how to create and manipulate NumPy arrays, perform numerical operations, scale numeric data, apply statistical functions, filter data, and understand NumPy performance.
 
 ---
 

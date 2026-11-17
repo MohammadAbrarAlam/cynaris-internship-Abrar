@@ -1,0 +1,106 @@
+
+contract:
+  name: Student Data Contract
+  version: "1.0"
+  description: Data quality rules for the student dataset
+
+producer:
+  name: Data Analyst
+  responsibility:
+    - Provide complete student records
+    - Maintain accurate and valid data
+    - Follow the agreed data format
+
+consumer:
+  name: BI Dashboard
+  responsibility:
+    - Use validated student data
+    - Report data quality issues
+    - Display correct student information
+
+dataset:
+  name: student_data
+  format: Excel
+  file: student_data.xlsx
+
+  columns:
+    roll-no:
+      type: integer
+      required: true
+      unique: true
+      description: Unique student roll number
+
+    name:
+      type: string
+      required: true
+      description: Student full name
+
+    email:
+      type: string
+      required: true
+      format: valid_email
+
+    contact:
+      type: string
+      required: false
+
+    mobile:
+      type: string
+      required: true
+      format: 10_digit_number
+
+    address:
+      type: string
+      required: false
+
+    dob:
+      type: date
+      required: true
+
+    age:
+      type: integer
+      required: true
+      min: 5
+      max: 100
+
+    course:
+      type: string
+      required: true
+
+    doj:
+      type: date
+      required: true
+
+data_quality_rules:
+  completeness: Required fields must not be empty
+  accuracy: Age should match date of birth
+  consistency: Use consistent formats for course and mobile
+  timeliness: Joining date must be within the expected date range
+  uniqueness: Roll numbers must be unique
+  validity: Email, mobile, age and dates must follow valid formats
+
+privacy:
+  classification: Confidential
+  pii_fields:
+    - name
+    - email
+    - contact
+    - mobile
+    - address
+    - dob
+
+  access:
+    - Only authorized users can access student data
+    - Do not share personal information publicly
+
+validation:
+  tool: Great Expectations
+  expected_checks:
+    - Roll number is not null
+    - Roll number is unique
+    - Student name is not null
+    - Email format is valid
+    - Age is between 5 and 100
+    - Mobile number contains 10 digits
+    - Course is not null
+    - Joining date is within the expected range
