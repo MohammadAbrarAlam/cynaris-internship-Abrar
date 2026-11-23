@@ -208,7 +208,8 @@ Add controls for:
 4. Enable public access if permitted.
 5. Copy and test the dashboard link.
 
-**Dashboard Link:** [View Dashboard](ADD_PUBLIC_DASHBOARD_LINK)
+**Dashboard Link:** (https://datastudio.google.com/u/0/reporting/645303b6-ff2d-41bf-b929-e76cdcbf7da0/page/IGAEG).
+2. Click **Create → Report → Add Data**.
 
 ## 14. Business Insights
 
