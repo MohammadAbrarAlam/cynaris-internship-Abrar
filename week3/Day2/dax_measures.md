@@ -570,12 +570,15 @@ git commit -m "docs: add dax-measures documentation"
 **Push Changes**
 
 ```bash
-git push origin feature/week-3-day-1
+git push origin feature/week-3-day-2
 ```
 
 **Pull Request Title:**
 
 Week 3 Day 1 – DAX Measures and Date Calculations Documentation
+
+`Description:` 
+  Created detailed DAX documentation for the Power BI Superstore Sales Dashboard, covering basic and advanced measures, total orders, unique customers, sales, profit, date extraction (year, month, day, and quarter), time intelligence functions, KPI calculations, and practical examples. Also documented DAX functions, viva questions, and GitHub workflow.
 
 # 19. Project Folder Structure
 
