@@ -1,0 +1,1001 @@
+Customer Age,City,State,Zone,Category,Product,SKU,Quantity,Unit Price,Gross Sales,Coupon Code,Discount %,Discount Amount,GST Rate,Net Sales,GST Amount,Payment Mode,Order Status,Sales Channel,Sales Employee,Delivery Partner,Delivery Days,Customer Rating,COGS,Profit,Profit Margin %,Shipping Charges,Invoice Amount
+19,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,NONE,0%,0,18,4200,756,Debit Card,Delivered,Amazon,Priya Verma,BlueDart,1,3.5,2600,1600,38.1,0,4956
+18,Mumbai,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,NONE,0%,0,18,21000,3780,Net Banking,Returned,Website,Online Self,BlueDart,4,,13000,8000,38.1,0,24780
+42,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,WELCOME10,10%,200,12,1800,216,Net Banking,Delivered,Amazon,Amit Singh,Ecom Express,7,3.7,950,850,47.22,0,2016
+35,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,WELCOME10,10%,350,18,3150,567,UPI,Delivered,Mobile App,Online Self,BlueDart,1,4,2100,1050,33.33,0,3717
+65,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,SAVE20,20%,600,18,2400,432,COD,Delivered,Flipkart,Rahul Sharma,BlueDart,3,4.2,1800,600,25,0,2832
+53,Chennai,Tamil Nadu,South,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,NONE,0%,0,5,4000,200,Credit Card,Delivered,Flipkart,Priya Verma,Shadowfax,7,2.6,1750,2250,56.25,0,4200
+32,Mumbai,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,FESTIVE15,15%,2520,18,14280,2570.4,Debit Card,Delivered,Flipkart,Sneha Nair,XpressBees,8,2.6,10400,3880,27.17,0,16850.4
+41,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,SAVE20,20%,2000,12,8000,960,Credit Card,Returned,Amazon,Rahul Sharma,XpressBees,1,,4750,3250,40.62,0,8960
+35,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,FESTIVE15,15%,120,5,680,34,Debit Card,Delivered,Amazon,Priya Verma,XpressBees,8,4.9,350,330,48.53,50,764
+55,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,2,650,1300,NONE,0%,0,18,1300,234,Debit Card,Delivered,Mobile App,Online Self,XpressBees,8,2.6,500,800,61.54,0,1534
+21,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,SAVE20,20%,1200,12,4800,576,Credit Card,Cancelled,Mobile App,Online Self,Ecom Express,7,,2850,1950,40.62,0,5376
+41,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,SAVE20,20%,800,12,3200,384,UPI,Returned,Amazon,Priya Verma,Delhivery,5,,1900,1300,40.62,0,3584
+62,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,1,650,650,FESTIVE15,15%,97.5,18,552.5,99.45,UPI,Delivered,Amazon,Sneha Nair,XpressBees,6,4.2,250,302.5,54.75,50,701.95
+42,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,WELCOME10,10%,600,12,5400,648,Net Banking,Delivered,Amazon,Sneha Nair,Shadowfax,3,3.1,2850,2550,47.22,0,6048
+19,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,NONE,0%,0,18,8400,1512,UPI,Delivered,Website,Online Self,Ecom Express,5,3.5,5200,3200,38.1,0,9912
+53,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,WELCOME10,10%,420,18,3780,680.4,Credit Card,Delivered,Website,Online Self,Shadowfax,3,4.6,2600,1180,31.22,0,4460.4
+62,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,FESTIVE15,15%,225,18,1275,229.5,Net Banking,Delivered,Amazon,Rahul Sharma,Shadowfax,1,4.9,900,375,29.41,0,1504.5
+44,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,4,650,2600,NONE,0%,0,18,2600,468,UPI,Delivered,Website,Online Self,Delhivery,7,3.3,1000,1600,61.54,0,3068
+55,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,SAVE20,20%,2520,18,10080,1814.4,Credit Card,Delivered,Amazon,Amit Singh,XpressBees,6,4.2,7800,2280,22.62,0,11894.4
+25,Delhi,Delhi,North,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,NONE,0%,0,5,4000,200,Credit Card,Delivered,Amazon,Priya Verma,Shadowfax,1,4.5,1750,2250,56.25,0,4200
+64,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,FESTIVE15,15%,1050,18,5950,1071,Debit Card,Delivered,Flipkart,Amit Singh,Delhivery,7,3.9,4200,1750,29.41,0,7021
+19,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,WELCOME10,10%,200,12,1800,216,Credit Card,Returned,Flipkart,Sneha Nair,Ecom Express,2,,950,850,47.22,0,2016
+19,Mumbai,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,WELCOME10,10%,420,18,3780,680.4,COD,Returned,Website,Online Self,Shadowfax,7,,2600,1180,31.22,0,4460.4
+45,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,WELCOME10,10%,1000,12,9000,1080,Debit Card,Delivered,Amazon,Rahul Sharma,Shadowfax,2,2.7,4750,4250,47.22,0,10080
+52,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,1,650,650,NONE,0%,0,18,650,117,Net Banking,Delivered,Website,Online Self,XpressBees,1,4.2,250,400,61.54,50,817
+35,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,SAVE20,20%,300,18,1200,216,UPI,Delivered,Mobile App,Online Self,BlueDart,4,3.9,900,300,25,0,1416
+50,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,FESTIVE15,15%,1575,18,8925,1606.5,Debit Card,Delivered,Flipkart,Rahul Sharma,XpressBees,7,3.4,6300,2625,29.41,0,10531.5
+20,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,FESTIVE15,15%,2520,18,14280,2570.4,COD,Delivered,Mobile App,Online Self,XpressBees,8,4.2,10400,3880,27.17,0,16850.4
+46,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,WELCOME10,10%,840,18,7560,1360.8,UPI,Delivered,Amazon,Rahul Sharma,Shadowfax,8,3,5200,2360,31.22,0,8920.8
+27,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,4,650,2600,WELCOME10,10%,260,18,2340,421.2,COD,Delivered,Amazon,Sneha Nair,Delhivery,6,2.6,1000,1340,57.26,0,2761.2
+31,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,WELCOME10,10%,1680,18,15120,2721.6,Credit Card,Delivered,Website,Online Self,Delhivery,3,3.9,10400,4720,31.22,0,17841.6
+43,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,2,650,1300,NONE,0%,0,18,1300,234,Credit Card,Delivered,Flipkart,Priya Verma,Delhivery,4,4.2,500,800,61.54,0,1534
+28,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,NONE,0%,0,18,3500,630,Debit Card,Returned,Amazon,Priya Verma,Shadowfax,4,,2100,1400,40,0,4130
+50,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,UPI,Delivered,Amazon,Amit Singh,BlueDart,7,3.9,5200,1520,22.62,0,7929.6
+23,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,5,650,3250,FESTIVE15,15%,487.5,18,2762.5,497.25,Debit Card,Cancelled,Flipkart,Priya Verma,Shadowfax,6,,1250,1512.5,54.75,0,3259.75
+47,Jaipur,Rajasthan,North,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,SAVE20,20%,1200,18,4800,864,Credit Card,Returned,Flipkart,Priya Verma,Delhivery,6,,3600,1200,25,0,5664
+61,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,WELCOME10,10%,840,18,7560,1360.8,Credit Card,Cancelled,Website,Online Self,XpressBees,2,,5200,2360,31.22,0,8920.8
+38,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,4,650,2600,NONE,0%,0,18,2600,468,Debit Card,Delivered,Flipkart,Sneha Nair,XpressBees,8,3.6,1000,1600,61.54,0,3068
+21,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,WELCOME10,10%,600,18,5400,972,Net Banking,Delivered,Flipkart,Sneha Nair,XpressBees,8,4.1,3600,1800,33.33,0,6372
+19,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,FESTIVE15,15%,675,18,3825,688.5,Net Banking,Delivered,Amazon,Sneha Nair,Delhivery,5,4.9,2700,1125,29.41,0,4513.5
+53,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,Debit Card,Delivered,Website,Online Self,XpressBees,5,3.6,3800,3400,47.22,0,8064
+55,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,SAVE20,20%,800,5,3200,160,UPI,Delivered,Amazon,Amit Singh,Shadowfax,7,4,1750,1450,45.31,0,3360
+38,Jaipur,Rajasthan,North,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,SAVE20,20%,1200,18,4800,864,Net Banking,Delivered,Flipkart,Rahul Sharma,Shadowfax,4,4,3600,1200,25,0,5664
+64,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,NONE,0%,0,18,6000,1080,COD,Returned,Website,Online Self,Ecom Express,8,,3600,2400,40,0,7080
+46,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,NONE,0%,0,18,17500,3150,COD,Cancelled,Flipkart,Sneha Nair,BlueDart,5,,10500,7000,40,0,20650
+47,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,3,650,1950,SAVE20,20%,390,18,1560,280.8,Credit Card,Delivered,Mobile App,Online Self,Ecom Express,2,4.4,750,810,51.92,0,1840.8
+38,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,UPI,Delivered,Website,Online Self,Ecom Express,8,4.7,8400,4200,33.33,0,14868
+45,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,Debit Card,Delivered,Flipkart,Rahul Sharma,BlueDart,3,4.7,8400,4200,33.33,0,14868
+33,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,SAVE20,20%,1600,12,6400,768,COD,Cancelled,Amazon,Priya Verma,Shadowfax,4,,3800,2600,40.62,0,7168
+20,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,2,650,1300,FESTIVE15,15%,195,18,1105,198.9,COD,Delivered,Amazon,Rahul Sharma,BlueDart,2,2.6,500,605,54.75,0,1303.9
+55,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,NONE,0%,0,18,4200,756,Debit Card,Delivered,Flipkart,Amit Singh,BlueDart,4,2.5,2600,1600,38.1,0,4956
+43,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,FESTIVE15,15%,120,5,680,34,COD,Returned,Mobile App,Online Self,Delhivery,1,,350,330,48.53,50,764
+39,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,FESTIVE15,15%,2100,18,11900,2142,UPI,Cancelled,Flipkart,Amit Singh,BlueDart,7,,8400,3500,29.41,0,14042
+39,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,NONE,0%,0,12,6000,720,Net Banking,Returned,Flipkart,Rahul Sharma,Shadowfax,4,,2850,3150,52.5,0,6720
+31,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,WELCOME10,10%,320,5,2880,144,Net Banking,Delivered,Website,Online Self,Delhivery,3,2.9,1400,1480,51.39,0,3024
+23,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,WELCOME10,10%,700,18,6300,1134,Credit Card,Delivered,Mobile App,Online Self,Shadowfax,3,3.2,4200,2100,33.33,0,7434
+50,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,NONE,0%,0,18,21000,3780,UPI,Delivered,Flipkart,Rahul Sharma,BlueDart,5,3.4,13000,8000,38.1,0,24780
+25,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,WELCOME10,10%,420,18,3780,680.4,Net Banking,Delivered,Mobile App,Online Self,Ecom Express,3,2.7,2600,1180,31.22,0,4460.4
+22,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,5,650,3250,FESTIVE15,15%,487.5,18,2762.5,497.25,Net Banking,Delivered,Mobile App,Online Self,BlueDart,7,3.8,1250,1512.5,54.75,0,3259.75
+54,Chennai,Tamil Nadu,South,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,SAVE20,20%,600,18,2400,432,COD,Delivered,Amazon,Amit Singh,Ecom Express,2,3.7,1800,600,25,0,2832
+20,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,NONE,0%,0,12,10000,1200,Net Banking,Delivered,Amazon,Amit Singh,XpressBees,7,2.6,4750,5250,52.5,0,11200
+46,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,FESTIVE15,15%,1575,18,8925,1606.5,UPI,Delivered,Website,Online Self,Ecom Express,4,3.2,6300,2625,29.41,0,10531.5
+47,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,SAVE20,20%,840,18,3360,604.8,UPI,Delivered,Mobile App,Online Self,XpressBees,5,4.8,2600,760,22.62,0,3964.8
+59,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,Net Banking,Delivered,Mobile App,Online Self,BlueDart,5,3.7,5200,1520,22.62,0,7929.6
+39,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,4,650,2600,SAVE20,20%,520,18,2080,374.4,Credit Card,Delivered,Amazon,Rahul Sharma,Shadowfax,1,3,1000,1080,51.92,0,2454.4
+47,Chennai,Tamil Nadu,South,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,FESTIVE15,15%,675,18,3825,688.5,Credit Card,Delivered,Mobile App,Online Self,Delhivery,5,2.5,2700,1125,29.41,0,4513.5
+63,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,4,650,2600,SAVE20,20%,520,18,2080,374.4,COD,Delivered,Amazon,Sneha Nair,Ecom Express,1,4.8,1000,1080,51.92,0,2454.4
+24,Kolkata,West Bengal,East,Beauty,Face Serum,SKU-BT-401,2,650,1300,SAVE20,20%,260,18,1040,187.2,Net Banking,Cancelled,Amazon,Amit Singh,Shadowfax,4,,500,540,51.92,0,1227.2
+41,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,WELCOME10,10%,1750,18,15750,2835,Net Banking,Cancelled,Amazon,Sneha Nair,XpressBees,1,,10500,5250,33.33,0,18585
+18,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,2,650,1300,NONE,0%,0,18,1300,234,COD,Delivered,Flipkart,Sneha Nair,Ecom Express,2,4.1,500,800,61.54,0,1534
+49,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,NONE,0%,0,5,2400,120,COD,Returned,Website,Online Self,Ecom Express,8,,1050,1350,56.25,0,2520
+49,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,WELCOME10,10%,350,18,3150,567,COD,Delivered,Mobile App,Online Self,XpressBees,5,4.3,2100,1050,33.33,0,3717
+19,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,WELCOME10,10%,700,18,6300,1134,COD,Delivered,Mobile App,Online Self,Delhivery,1,4.9,4200,2100,33.33,0,7434
+36,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,WELCOME10,10%,840,18,7560,1360.8,Debit Card,Cancelled,Amazon,Amit Singh,Delhivery,7,,5200,2360,31.22,0,8920.8
+55,Jaipur,Rajasthan,North,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,SAVE20,20%,1500,18,6000,1080,UPI,Delivered,Amazon,Amit Singh,Shadowfax,4,4.1,4500,1500,25,0,7080
+34,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,NONE,0%,0,18,21000,3780,Credit Card,Cancelled,Flipkart,Sneha Nair,Shadowfax,2,,13000,8000,38.1,0,24780
+24,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,2,650,1300,SAVE20,20%,260,18,1040,187.2,COD,Delivered,Mobile App,Online Self,Delhivery,5,2.6,500,540,51.92,0,1227.2
+33,Chennai,Tamil Nadu,South,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,NONE,0%,0,18,4500,810,Credit Card,Delivered,Amazon,Rahul Sharma,BlueDart,3,2.8,2700,1800,40,0,5310
+34,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,SAVE20,20%,800,12,3200,384,Credit Card,Delivered,Website,Online Self,Delhivery,1,3.6,1900,1300,40.62,0,3584
+54,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,FESTIVE15,15%,225,18,1275,229.5,UPI,Cancelled,Amazon,Sneha Nair,Delhivery,4,,900,375,29.41,0,1504.5
+37,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,SAVE20,20%,700,18,2800,504,Credit Card,Cancelled,Amazon,Priya Verma,Shadowfax,7,,2100,700,25,0,3304
+18,Kolkata,West Bengal,East,Beauty,Face Serum,SKU-BT-401,3,650,1950,FESTIVE15,15%,292.5,18,1657.5,298.35,Debit Card,Returned,Mobile App,Online Self,BlueDart,6,,750,907.5,54.75,0,1955.85
+32,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,FESTIVE15,15%,1500,12,8500,1020,COD,Delivered,Website,Online Self,BlueDart,5,2.6,4750,3750,44.12,0,9520
+64,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,WELCOME10,10%,400,5,3600,180,COD,Cancelled,Amazon,Amit Singh,Ecom Express,3,,1750,1850,51.39,0,3780
+60,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,WELCOME10,10%,450,18,4050,729,UPI,Delivered,Mobile App,Online Self,Delhivery,4,4.1,2700,1350,33.33,0,4779
+44,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,SAVE20,20%,2000,12,8000,960,Net Banking,Delivered,Flipkart,Rahul Sharma,BlueDart,3,4.9,4750,3250,40.62,0,8960
+60,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,SAVE20,20%,2520,18,10080,1814.4,Credit Card,Returned,Website,Online Self,Ecom Express,1,,7800,2280,22.62,0,11894.4
+55,Mumbai,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,SAVE20,20%,2520,18,10080,1814.4,UPI,Cancelled,Amazon,Priya Verma,BlueDart,1,,7800,2280,22.62,0,11894.4
+45,Delhi,Delhi,North,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,FESTIVE15,15%,240,5,1360,68,Debit Card,Delivered,Website,Online Self,XpressBees,7,4.8,700,660,48.53,0,1428
+28,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,WELCOME10,10%,1000,12,9000,1080,COD,Cancelled,Flipkart,Priya Verma,Delhivery,5,,4750,4250,47.22,0,10080
+34,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,NONE,0%,0,5,2400,120,Net Banking,Delivered,Website,Online Self,Delhivery,6,3.2,1050,1350,56.25,0,2520
+37,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,FESTIVE15,15%,1200,12,6800,816,Net Banking,Delivered,Mobile App,Online Self,Delhivery,5,2.7,3800,3000,44.12,0,7616
+34,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,FESTIVE15,15%,1575,18,8925,1606.5,Net Banking,Delivered,Amazon,Rahul Sharma,BlueDart,7,4.1,6300,2625,29.41,0,10531.5
+56,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,4,650,2600,FESTIVE15,15%,390,18,2210,397.8,Net Banking,Returned,Mobile App,Online Self,Ecom Express,8,,1000,1210,54.75,0,2607.8
+49,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,WELCOME10,10%,1050,18,9450,1701,Net Banking,Delivered,Mobile App,Online Self,BlueDart,7,3.6,6300,3150,33.33,0,11151
+60,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,5,650,3250,WELCOME10,10%,325,18,2925,526.5,Debit Card,Cancelled,Amazon,Rahul Sharma,Shadowfax,7,,1250,1675,57.26,0,3451.5
+43,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,SAVE20,20%,2000,12,8000,960,Credit Card,Delivered,Amazon,Priya Verma,Ecom Express,5,3.9,4750,3250,40.62,0,8960
+56,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,SAVE20,20%,840,18,3360,604.8,Net Banking,Delivered,Website,Online Self,Ecom Express,7,4.7,2600,760,22.62,0,3964.8
+28,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,NONE,0%,0,18,16800,3024,Debit Card,Delivered,Website,Online Self,BlueDart,2,3.4,10400,6400,38.1,0,19824
+50,Chennai,Tamil Nadu,South,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,WELCOME10,10%,80,5,720,36,COD,Cancelled,Amazon,Priya Verma,Shadowfax,7,,350,370,51.39,50,806
+24,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,NONE,0%,0,18,4200,756,Debit Card,Delivered,Amazon,Sneha Nair,Shadowfax,5,3.1,2600,1600,38.1,0,4956
+59,Chennai,Tamil Nadu,South,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,SAVE20,20%,800,5,3200,160,Credit Card,Cancelled,Mobile App,Online Self,XpressBees,2,,1750,1450,45.31,0,3360
+25,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,FESTIVE15,15%,450,18,2550,459,UPI,Delivered,Flipkart,Sneha Nair,Shadowfax,1,4.4,1800,750,29.41,0,3009
+21,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,SAVE20,20%,3360,18,13440,2419.2,COD,Cancelled,Website,Online Self,XpressBees,7,,10400,3040,22.62,0,15859.2
+29,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,SAVE20,20%,3500,18,14000,2520,Debit Card,Cancelled,Flipkart,Rahul Sharma,Ecom Express,4,,10500,3500,25,0,16520
+41,Mumbai,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,FESTIVE15,15%,630,18,3570,642.6,Net Banking,Cancelled,Mobile App,Online Self,BlueDart,4,,2600,970,27.17,0,4212.6
+18,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,SAVE20,20%,4200,18,16800,3024,UPI,Delivered,Flipkart,Priya Verma,XpressBees,8,2.6,13000,3800,22.62,0,19824
+46,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,WELCOME10,10%,2100,18,18900,3402,Credit Card,Cancelled,Flipkart,Sneha Nair,Delhivery,1,,13000,5900,31.22,0,22302
+24,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,NONE,0%,0,18,3000,540,UPI,Delivered,Flipkart,Priya Verma,BlueDart,7,3.1,1800,1200,40,0,3540
+20,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,FESTIVE15,15%,1125,18,6375,1147.5,UPI,Delivered,Website,Online Self,Shadowfax,7,4.2,4500,1875,29.41,0,7522.5
+51,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,SAVE20,20%,1600,12,6400,768,COD,Delivered,Amazon,Rahul Sharma,Ecom Express,7,5,3800,2600,40.62,0,7168
+41,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,WELCOME10,10%,750,18,6750,1215,Debit Card,Delivered,Website,Online Self,Shadowfax,8,4.2,4500,2250,33.33,0,7965
+51,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,WELCOME10,10%,750,18,6750,1215,Debit Card,Cancelled,Website,Online Self,Ecom Express,7,,4500,2250,33.33,0,7965
+54,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,1,650,650,NONE,0%,0,18,650,117,Credit Card,Returned,Mobile App,Online Self,Ecom Express,3,,250,400,61.54,50,817
+27,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,SAVE20,20%,480,5,1920,96,Credit Card,Delivered,Amazon,Sneha Nair,Delhivery,7,3.1,1050,870,45.31,0,2016
+40,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,NONE,0%,0,18,6000,1080,COD,Cancelled,Website,Online Self,Shadowfax,5,,3600,2400,40,0,7080
+33,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,NONE,0%,0,18,21000,3780,Net Banking,Delivered,Website,Online Self,Delhivery,3,4.7,13000,8000,38.1,0,24780
+64,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,WELCOME10,10%,450,18,4050,729,Credit Card,Cancelled,Mobile App,Online Self,BlueDart,1,,2700,1350,33.33,0,4779
+53,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,FESTIVE15,15%,2100,18,11900,2142,Net Banking,Delivered,Website,Online Self,Ecom Express,1,4.6,8400,3500,29.41,0,14042
+61,Mumbai,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,NONE,0%,0,5,4000,200,Net Banking,Delivered,Mobile App,Online Self,Shadowfax,4,2.8,1750,2250,56.25,0,4200
+30,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,2,650,1300,WELCOME10,10%,130,18,1170,210.6,Credit Card,Cancelled,Website,Online Self,Delhivery,4,,500,670,57.26,0,1380.6
+48,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,FESTIVE15,15%,225,18,1275,229.5,Debit Card,Delivered,Website,Online Self,Delhivery,5,3,900,375,29.41,0,1504.5
+28,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,2,650,1300,WELCOME10,10%,130,18,1170,210.6,Credit Card,Delivered,Amazon,Rahul Sharma,XpressBees,8,5,500,670,57.26,0,1380.6
+29,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,2,650,1300,FESTIVE15,15%,195,18,1105,198.9,Credit Card,Cancelled,Mobile App,Online Self,Shadowfax,2,,500,605,54.75,0,1303.9
+32,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,NONE,0%,0,12,2000,240,Net Banking,Delivered,Flipkart,Amit Singh,Ecom Express,6,3.6,950,1050,52.5,0,2240
+25,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,WELCOME10,10%,1000,12,9000,1080,UPI,Delivered,Flipkart,Sneha Nair,Ecom Express,6,4.5,4750,4250,47.22,0,10080
+22,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,NONE,0%,0,12,6000,720,UPI,Cancelled,Website,Online Self,Delhivery,4,,2850,3150,52.5,0,6720
+26,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,NONE,0%,0,18,21000,3780,COD,Delivered,Flipkart,Rahul Sharma,Shadowfax,3,4.6,13000,8000,38.1,0,24780
+45,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,WELCOME10,10%,600,12,5400,648,Credit Card,Returned,Website,Online Self,Delhivery,5,,2850,2550,47.22,0,6048
+28,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,NONE,0%,0,18,7000,1260,Net Banking,Cancelled,Mobile App,Online Self,BlueDart,1,,4200,2800,40,0,8260
+48,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,WELCOME10,10%,80,5,720,36,COD,Delivered,Amazon,Amit Singh,XpressBees,1,4.6,350,370,51.39,50,806
+64,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,NONE,0%,0,18,7000,1260,UPI,Delivered,Amazon,Rahul Sharma,XpressBees,5,3.2,4200,2800,40,0,8260
+49,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,WELCOME10,10%,1750,18,15750,2835,Net Banking,Delivered,Website,Online Self,Shadowfax,5,2.7,10500,5250,33.33,0,18585
+51,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,FESTIVE15,15%,1890,18,10710,1927.8,UPI,Delivered,Website,Online Self,BlueDart,7,5,7800,2910,27.17,0,12637.8
+40,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,FESTIVE15,15%,1050,18,5950,1071,UPI,Cancelled,Amazon,Sneha Nair,Shadowfax,1,,4200,1750,29.41,0,7021
+60,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,SAVE20,20%,900,18,3600,648,Credit Card,Delivered,Flipkart,Sneha Nair,Ecom Express,8,3.9,2700,900,25,0,4248
+22,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,1,650,650,WELCOME10,10%,65,18,585,105.3,COD,Delivered,Amazon,Sneha Nair,Ecom Express,2,4.8,250,335,57.26,50,740.3
+40,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,1,650,650,FESTIVE15,15%,97.5,18,552.5,99.45,Debit Card,Delivered,Website,Online Self,BlueDart,6,3.6,250,302.5,54.75,50,701.95
+39,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,SAVE20,20%,1400,18,5600,1008,Debit Card,Cancelled,Flipkart,Sneha Nair,Shadowfax,1,,4200,1400,25,0,6608
+38,Kolkata,West Bengal,East,Beauty,Face Serum,SKU-BT-401,5,650,3250,WELCOME10,10%,325,18,2925,526.5,Net Banking,Returned,Mobile App,Online Self,Ecom Express,4,,1250,1675,57.26,0,3451.5
+32,Kolkata,West Bengal,East,Beauty,Face Serum,SKU-BT-401,4,650,2600,NONE,0%,0,18,2600,468,Net Banking,Delivered,Flipkart,Priya Verma,Delhivery,4,4.1,1000,1600,61.54,0,3068
+53,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,SAVE20,20%,800,12,3200,384,UPI,Delivered,Flipkart,Rahul Sharma,Shadowfax,4,3.5,1900,1300,40.62,0,3584
+53,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,NONE,0%,0,12,8000,960,Credit Card,Returned,Flipkart,Sneha Nair,Shadowfax,8,,3800,4200,52.5,0,8960
+52,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,Debit Card,Delivered,Website,Online Self,BlueDart,8,4.9,8400,4200,33.33,0,14868
+59,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,SAVE20,20%,900,18,3600,648,UPI,Delivered,Amazon,Amit Singh,Ecom Express,7,2.5,2700,900,25,0,4248
+32,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,FESTIVE15,15%,600,12,3400,408,UPI,Cancelled,Mobile App,Online Self,Delhivery,2,,1900,1500,44.12,0,3808
+49,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,UPI,Returned,Website,Online Self,BlueDart,1,,8400,4200,33.33,0,14868
+18,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,SAVE20,20%,1200,18,4800,864,Net Banking,Delivered,Flipkart,Rahul Sharma,Shadowfax,1,3.6,3600,1200,25,0,5664
+51,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,SAVE20,20%,800,5,3200,160,Debit Card,Delivered,Website,Online Self,Shadowfax,1,2.8,1750,1450,45.31,0,3360
+40,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,SAVE20,20%,700,18,2800,504,UPI,Delivered,Flipkart,Rahul Sharma,XpressBees,5,3.5,2100,700,25,0,3304
+65,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,FESTIVE15,15%,630,18,3570,642.6,UPI,Delivered,Amazon,Amit Singh,XpressBees,8,3.3,2600,970,27.17,0,4212.6
+33,Jaipur,Rajasthan,North,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,FESTIVE15,15%,360,5,2040,102,UPI,Returned,Amazon,Amit Singh,XpressBees,5,,1050,990,48.53,0,2142
+22,Mumbai,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,SAVE20,20%,640,5,2560,128,Net Banking,Cancelled,Amazon,Amit Singh,Ecom Express,7,,1400,1160,45.31,0,2688
+52,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,WELCOME10,10%,600,18,5400,972,COD,Delivered,Mobile App,Online Self,Shadowfax,6,2.5,3600,1800,33.33,0,6372
+39,Pune,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,Credit Card,Delivered,Mobile App,Online Self,Ecom Express,4,3.1,3800,3400,47.22,0,8064
+44,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,FESTIVE15,15%,525,18,2975,535.5,Credit Card,Delivered,Mobile App,Online Self,Ecom Express,3,5,2100,875,29.41,0,3510.5
+65,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,NONE,0%,0,18,14000,2520,COD,Cancelled,Amazon,Amit Singh,Ecom Express,3,,8400,5600,40,0,16520
+22,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,NONE,0%,0,18,12600,2268,UPI,Delivered,Flipkart,Amit Singh,Shadowfax,1,4.4,7800,4800,38.1,0,14868
+36,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,FESTIVE15,15%,240,5,1360,68,Debit Card,Delivered,Flipkart,Sneha Nair,Shadowfax,4,3.1,700,660,48.53,0,1428
+50,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,FESTIVE15,15%,2520,18,14280,2570.4,UPI,Cancelled,Website,Online Self,Ecom Express,3,,10400,3880,27.17,0,16850.4
+41,Chennai,Tamil Nadu,South,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,NONE,0%,0,5,800,40,COD,Delivered,Mobile App,Online Self,XpressBees,8,4.6,350,450,56.25,50,890
+61,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,SAVE20,20%,1200,18,4800,864,Debit Card,Delivered,Mobile App,Online Self,XpressBees,7,4.7,3600,1200,25,0,5664
+59,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,4,650,2600,SAVE20,20%,520,18,2080,374.4,COD,Delivered,Flipkart,Priya Verma,Delhivery,2,4.2,1000,1080,51.92,0,2454.4
+19,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,NONE,0%,0,18,7000,1260,COD,Returned,Flipkart,Sneha Nair,XpressBees,8,,4200,2800,40,0,8260
+62,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,WELCOME10,10%,450,18,4050,729,UPI,Delivered,Amazon,Amit Singh,Shadowfax,2,4.6,2700,1350,33.33,0,4779
+53,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,SAVE20,20%,300,18,1200,216,UPI,Delivered,Amazon,Priya Verma,Ecom Express,4,4.7,900,300,25,0,1416
+22,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,SAVE20,20%,1200,12,4800,576,UPI,Delivered,Website,Online Self,Ecom Express,8,3.1,2850,1950,40.62,0,5376
+28,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,WELCOME10,10%,300,18,2700,486,Debit Card,Cancelled,Website,Online Self,XpressBees,5,,1800,900,33.33,0,3186
+63,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,SAVE20,20%,2000,12,8000,960,Net Banking,Cancelled,Flipkart,Sneha Nair,Shadowfax,6,,4750,3250,40.62,0,8960
+61,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,FESTIVE15,15%,2625,18,14875,2677.5,Credit Card,Cancelled,Website,Online Self,BlueDart,2,,10500,4375,29.41,0,17552.5
+32,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,FESTIVE15,15%,1260,18,7140,1285.2,Debit Card,Returned,Amazon,Rahul Sharma,Ecom Express,8,,5200,1940,27.17,0,8425.2
+31,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,3,650,1950,NONE,0%,0,18,1950,351,COD,Delivered,Flipkart,Amit Singh,Shadowfax,3,3.7,750,1200,61.54,0,2301
+44,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,3,650,1950,SAVE20,20%,390,18,1560,280.8,Net Banking,Delivered,Flipkart,Amit Singh,Shadowfax,7,3.1,750,810,51.92,0,1840.8
+59,Jaipur,Rajasthan,North,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,SAVE20,20%,320,5,1280,64,COD,Delivered,Flipkart,Priya Verma,XpressBees,1,3.4,700,580,45.31,0,1344
+39,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,2,650,1300,FESTIVE15,15%,195,18,1105,198.9,Debit Card,Delivered,Flipkart,Priya Verma,XpressBees,6,4.6,500,605,54.75,0,1303.9
+28,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,WELCOME10,10%,1000,12,9000,1080,COD,Delivered,Flipkart,Priya Verma,XpressBees,8,4.7,4750,4250,47.22,0,10080
+46,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,WELCOME10,10%,600,18,5400,972,Debit Card,Delivered,Flipkart,Amit Singh,XpressBees,3,2.8,3600,1800,33.33,0,6372
+52,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,Debit Card,Returned,Mobile App,Online Self,Ecom Express,6,,5200,1520,22.62,0,7929.6
+58,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,WELCOME10,10%,1680,18,15120,2721.6,COD,Cancelled,Mobile App,Online Self,Shadowfax,2,,10400,4720,31.22,0,17841.6
+24,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,SAVE20,20%,320,5,1280,64,UPI,Delivered,Amazon,Sneha Nair,Shadowfax,4,4.7,700,580,45.31,0,1344
+32,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,NONE,0%,0,12,8000,960,UPI,Delivered,Website,Online Self,BlueDart,1,5,3800,4200,52.5,0,8960
+61,Chennai,Tamil Nadu,South,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,WELCOME10,10%,240,5,2160,108,Debit Card,Delivered,Amazon,Amit Singh,Shadowfax,8,2.5,1050,1110,51.39,0,2268
+60,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,1,650,650,FESTIVE15,15%,97.5,18,552.5,99.45,UPI,Delivered,Amazon,Priya Verma,Delhivery,8,4.9,250,302.5,54.75,50,701.95
+57,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,NONE,0%,0,18,10500,1890,COD,Delivered,Flipkart,Priya Verma,XpressBees,1,4.2,6300,4200,40,0,12390
+57,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,SAVE20,20%,2000,12,8000,960,COD,Cancelled,Flipkart,Amit Singh,Ecom Express,5,,4750,3250,40.62,0,8960
+58,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,SAVE20,20%,3360,18,13440,2419.2,Credit Card,Delivered,Website,Online Self,BlueDart,5,3.4,10400,3040,22.62,0,15859.2
+35,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,WELCOME10,10%,1750,18,15750,2835,Debit Card,Delivered,Website,Online Self,BlueDart,6,4.6,10500,5250,33.33,0,18585
+52,Chennai,Tamil Nadu,South,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,SAVE20,20%,900,18,3600,648,Credit Card,Delivered,Mobile App,Online Self,Shadowfax,2,3.2,2700,900,25,0,4248
+33,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,SAVE20,20%,600,18,2400,432,Credit Card,Delivered,Amazon,Sneha Nair,Delhivery,4,3.1,1800,600,25,0,2832
+41,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,Debit Card,Delivered,Amazon,Sneha Nair,XpressBees,1,4,3800,3400,47.22,0,8064
+49,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,1,650,650,SAVE20,20%,130,18,520,93.6,UPI,Returned,Flipkart,Sneha Nair,XpressBees,6,,250,270,51.92,50,663.6
+22,Delhi,Delhi,North,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,NONE,0%,0,5,800,40,UPI,Returned,Mobile App,Online Self,XpressBees,8,,350,450,56.25,50,890
+50,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,FESTIVE15,15%,900,18,5100,918,UPI,Delivered,Flipkart,Rahul Sharma,Delhivery,2,2.6,3600,1500,29.41,0,6018
+27,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,2,650,1300,NONE,0%,0,18,1300,234,Credit Card,Delivered,Flipkart,Priya Verma,Delhivery,2,4.7,500,800,61.54,0,1534
+35,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,SAVE20,20%,2100,18,8400,1512,UPI,Delivered,Amazon,Rahul Sharma,Shadowfax,4,3.7,6300,2100,25,0,9912
+46,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,NONE,0%,0,12,8000,960,UPI,Cancelled,Amazon,Sneha Nair,Shadowfax,2,,3800,4200,52.5,0,8960
+48,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,SAVE20,20%,1400,18,5600,1008,UPI,Delivered,Mobile App,Online Self,Ecom Express,2,4.5,4200,1400,25,0,6608
+42,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,WELCOME10,10%,300,18,2700,486,COD,Cancelled,Amazon,Rahul Sharma,XpressBees,4,,1800,900,33.33,0,3186
+59,Jaipur,Rajasthan,North,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,SAVE20,20%,160,5,640,32,Credit Card,Delivered,Flipkart,Amit Singh,XpressBees,8,4.7,350,290,45.31,50,722
+53,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,SAVE20,20%,900,18,3600,648,Debit Card,Delivered,Flipkart,Rahul Sharma,Shadowfax,1,3.3,2700,900,25,0,4248
+34,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,Net Banking,Cancelled,Mobile App,Online Self,XpressBees,8,,5200,1520,22.62,0,7929.6
+22,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,FESTIVE15,15%,1260,18,7140,1285.2,Net Banking,Cancelled,Website,Online Self,Ecom Express,1,,5200,1940,27.17,0,8425.2
+62,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,SAVE20,20%,3360,18,13440,2419.2,Debit Card,Delivered,Amazon,Rahul Sharma,BlueDart,3,4.2,10400,3040,22.62,0,15859.2
+61,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,1,650,650,NONE,0%,0,18,650,117,COD,Returned,Amazon,Rahul Sharma,Ecom Express,6,,250,400,61.54,50,817
+56,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,FESTIVE15,15%,360,5,2040,102,Debit Card,Cancelled,Mobile App,Online Self,Delhivery,8,,1050,990,48.53,0,2142
+65,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,WELCOME10,10%,1260,18,11340,2041.2,COD,Delivered,Website,Online Self,BlueDart,3,4.3,7800,3540,31.22,0,13381.2
+51,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,Net Banking,Delivered,Website,Online Self,Delhivery,8,4.1,3800,3400,47.22,0,8064
+40,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,FESTIVE15,15%,1500,12,8500,1020,Credit Card,Delivered,Flipkart,Amit Singh,Shadowfax,8,3.9,4750,3750,44.12,0,9520
+35,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,FESTIVE15,15%,1500,12,8500,1020,Net Banking,Returned,Flipkart,Rahul Sharma,Shadowfax,4,,4750,3750,44.12,0,9520
+44,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,SAVE20,20%,320,5,1280,64,Credit Card,Cancelled,Flipkart,Rahul Sharma,Ecom Express,4,,700,580,45.31,0,1344
+38,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,WELCOME10,10%,600,18,5400,972,Net Banking,Cancelled,Flipkart,Amit Singh,Ecom Express,4,,3600,1800,33.33,0,6372
+43,Delhi,Delhi,North,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,SAVE20,20%,320,5,1280,64,Debit Card,Delivered,Flipkart,Rahul Sharma,Ecom Express,3,3.6,700,580,45.31,0,1344
+18,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,NONE,0%,0,18,17500,3150,UPI,Returned,Amazon,Rahul Sharma,Ecom Express,4,,10500,7000,40,0,20650
+45,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,1,650,650,WELCOME10,10%,65,18,585,105.3,Net Banking,Returned,Amazon,Sneha Nair,XpressBees,1,,250,335,57.26,50,740.3
+63,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,FESTIVE15,15%,1200,12,6800,816,UPI,Cancelled,Website,Online Self,Ecom Express,4,,3800,3000,44.12,0,7616
+39,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,FESTIVE15,15%,2625,18,14875,2677.5,Net Banking,Delivered,Website,Online Self,BlueDart,1,2.6,10500,4375,29.41,0,17552.5
+38,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,FESTIVE15,15%,1890,18,10710,1927.8,Credit Card,Delivered,Flipkart,Sneha Nair,Shadowfax,5,3.2,7800,2910,27.17,0,12637.8
+55,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,WELCOME10,10%,1000,12,9000,1080,Net Banking,Delivered,Mobile App,Online Self,BlueDart,4,3.2,4750,4250,47.22,0,10080
+32,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,FESTIVE15,15%,2625,18,14875,2677.5,Debit Card,Delivered,Website,Online Self,Ecom Express,8,3.7,10500,4375,29.41,0,17552.5
+38,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,FESTIVE15,15%,300,12,1700,204,Net Banking,Returned,Mobile App,Online Self,Delhivery,6,,950,750,44.12,0,1904
+35,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,WELCOME10,10%,240,5,2160,108,Credit Card,Delivered,Amazon,Rahul Sharma,XpressBees,6,3,1050,1110,51.39,0,2268
+47,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,4,650,2600,WELCOME10,10%,260,18,2340,421.2,COD,Delivered,Amazon,Priya Verma,XpressBees,3,3.6,1000,1340,57.26,0,2761.2
+27,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,5,650,3250,NONE,0%,0,18,3250,585,UPI,Delivered,Website,Online Self,Shadowfax,7,3.2,1250,2000,61.54,0,3835
+40,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,NONE,0%,0,5,1600,80,Credit Card,Delivered,Mobile App,Online Self,Delhivery,6,4.7,700,900,56.25,0,1680
+52,Delhi,Delhi,North,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,FESTIVE15,15%,240,5,1360,68,UPI,Cancelled,Amazon,Rahul Sharma,Delhivery,6,,700,660,48.53,0,1428
+46,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,FESTIVE15,15%,1200,12,6800,816,Net Banking,Cancelled,Flipkart,Amit Singh,Shadowfax,4,,3800,3000,44.12,0,7616
+33,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,NONE,0%,0,18,4500,810,COD,Delivered,Flipkart,Sneha Nair,XpressBees,8,2.9,2700,1800,40,0,5310
+40,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,WELCOME10,10%,1260,18,11340,2041.2,COD,Delivered,Mobile App,Online Self,Ecom Express,6,2.9,7800,3540,31.22,0,13381.2
+57,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,NONE,0%,0,18,6000,1080,Debit Card,Cancelled,Website,Online Self,Shadowfax,4,,3600,2400,40,0,7080
+60,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,FESTIVE15,15%,900,18,5100,918,Debit Card,Returned,Amazon,Sneha Nair,Ecom Express,7,,3600,1500,29.41,0,6018
+57,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,4,650,2600,NONE,0%,0,18,2600,468,Debit Card,Delivered,Amazon,Rahul Sharma,XpressBees,5,2.8,1000,1600,61.54,0,3068
+19,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,4,650,2600,NONE,0%,0,18,2600,468,Net Banking,Cancelled,Flipkart,Priya Verma,Ecom Express,1,,1000,1600,61.54,0,3068
+50,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,FESTIVE15,15%,900,12,5100,612,COD,Delivered,Website,Online Self,Delhivery,7,4.5,2850,2250,44.12,0,5712
+23,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,WELCOME10,10%,350,18,3150,567,Debit Card,Delivered,Amazon,Rahul Sharma,Ecom Express,8,3.9,2100,1050,33.33,0,3717
+24,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,WELCOME10,10%,350,18,3150,567,Debit Card,Delivered,Mobile App,Online Self,Shadowfax,6,4.8,2100,1050,33.33,0,3717
+25,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,SAVE20,20%,4200,18,16800,3024,Debit Card,Returned,Amazon,Priya Verma,Ecom Express,2,,13000,3800,22.62,0,19824
+25,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,3,650,1950,NONE,0%,0,18,1950,351,Net Banking,Delivered,Mobile App,Online Self,Shadowfax,6,3.6,750,1200,61.54,0,2301
+32,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,FESTIVE15,15%,1890,18,10710,1927.8,Debit Card,Delivered,Amazon,Sneha Nair,Ecom Express,1,4.4,7800,2910,27.17,0,12637.8
+19,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,WELCOME10,10%,1050,18,9450,1701,UPI,Delivered,Website,Online Self,XpressBees,3,2.7,6300,3150,33.33,0,11151
+20,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,SAVE20,20%,3360,18,13440,2419.2,Debit Card,Delivered,Mobile App,Online Self,Shadowfax,2,3.9,10400,3040,22.62,0,15859.2
+18,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,WELCOME10,10%,840,18,7560,1360.8,Debit Card,Cancelled,Website,Online Self,Ecom Express,1,,5200,2360,31.22,0,8920.8
+65,Pune,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,NONE,0%,0,12,4000,480,Net Banking,Cancelled,Website,Online Self,Shadowfax,2,,1900,2100,52.5,0,4480
+29,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,1,650,650,FESTIVE15,15%,97.5,18,552.5,99.45,COD,Delivered,Amazon,Sneha Nair,Ecom Express,8,2.6,250,302.5,54.75,50,701.95
+55,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,UPI,Returned,Amazon,Amit Singh,Ecom Express,6,,5200,1520,22.62,0,7929.6
+21,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,FESTIVE15,15%,480,5,2720,136,Net Banking,Cancelled,Mobile App,Online Self,BlueDart,5,,1400,1320,48.53,0,2856
+23,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,WELCOME10,10%,450,18,4050,729,COD,Delivered,Amazon,Sneha Nair,XpressBees,8,4.6,2700,1350,33.33,0,4779
+47,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,SAVE20,20%,800,5,3200,160,UPI,Returned,Amazon,Priya Verma,BlueDart,7,,1750,1450,45.31,0,3360
+61,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,NONE,0%,0,18,3500,630,COD,Delivered,Amazon,Sneha Nair,BlueDart,1,3.8,2100,1400,40,0,4130
+45,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,NONE,0%,0,18,10500,1890,UPI,Cancelled,Mobile App,Online Self,XpressBees,2,,6300,4200,40,0,12390
+64,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,WELCOME10,10%,840,18,7560,1360.8,COD,Delivered,Mobile App,Online Self,XpressBees,1,3,5200,2360,31.22,0,8920.8
+20,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,WELCOME10,10%,1260,18,11340,2041.2,Credit Card,Returned,Mobile App,Online Self,Delhivery,4,,7800,3540,31.22,0,13381.2
+33,Pune,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,Debit Card,Delivered,Mobile App,Online Self,Shadowfax,6,2.5,3800,3400,47.22,0,8064
+41,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,NONE,0%,0,12,2000,240,Net Banking,Cancelled,Amazon,Priya Verma,Ecom Express,1,,950,1050,52.5,0,2240
+41,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,NONE,0%,0,18,3500,630,Debit Card,Returned,Website,Online Self,Ecom Express,7,,2100,1400,40,0,4130
+35,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,NONE,0%,0,12,10000,1200,Net Banking,Returned,Amazon,Priya Verma,XpressBees,7,,4750,5250,52.5,0,11200
+39,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,WELCOME10,10%,1680,18,15120,2721.6,UPI,Delivered,Amazon,Amit Singh,Ecom Express,8,4.6,10400,4720,31.22,0,17841.6
+21,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,SAVE20,20%,3500,18,14000,2520,Credit Card,Returned,Mobile App,Online Self,XpressBees,5,,10500,3500,25,0,16520
+64,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,SAVE20,20%,700,18,2800,504,Credit Card,Delivered,Website,Online Self,Shadowfax,5,3.4,2100,700,25,0,3304
+63,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,FESTIVE15,15%,120,5,680,34,COD,Delivered,Website,Online Self,Ecom Express,8,4.4,350,330,48.53,50,764
+43,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,2,650,1300,NONE,0%,0,18,1300,234,Net Banking,Returned,Website,Online Self,XpressBees,3,,500,800,61.54,0,1534
+57,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,2,650,1300,SAVE20,20%,260,18,1040,187.2,Debit Card,Returned,Website,Online Self,Ecom Express,3,,500,540,51.92,0,1227.2
+52,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,WELCOME10,10%,1680,18,15120,2721.6,Debit Card,Delivered,Website,Online Self,BlueDart,5,2.7,10400,4720,31.22,0,17841.6
+58,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,3,650,1950,NONE,0%,0,18,1950,351,Debit Card,Returned,Amazon,Sneha Nair,BlueDart,7,,750,1200,61.54,0,2301
+63,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,WELCOME10,10%,840,18,7560,1360.8,UPI,Delivered,Flipkart,Priya Verma,BlueDart,7,3,5200,2360,31.22,0,8920.8
+65,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,WELCOME10,10%,320,5,2880,144,Credit Card,Delivered,Flipkart,Amit Singh,BlueDart,3,4.3,1400,1480,51.39,0,3024
+19,Delhi,Delhi,North,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,WELCOME10,10%,160,5,1440,72,Net Banking,Delivered,Amazon,Rahul Sharma,Shadowfax,7,2.6,700,740,51.39,0,1512
+31,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,WELCOME10,10%,2100,18,18900,3402,Debit Card,Cancelled,Flipkart,Rahul Sharma,BlueDart,4,,13000,5900,31.22,0,22302
+47,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,Debit Card,Delivered,Amazon,Amit Singh,Ecom Express,3,2.6,5200,1520,22.62,0,7929.6
+36,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,5,650,3250,NONE,0%,0,18,3250,585,Debit Card,Cancelled,Amazon,Priya Verma,XpressBees,2,,1250,2000,61.54,0,3835
+50,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,WELCOME10,10%,350,18,3150,567,COD,Returned,Mobile App,Online Self,Delhivery,5,,2100,1050,33.33,0,3717
+60,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,5,650,3250,SAVE20,20%,650,18,2600,468,COD,Delivered,Website,Online Self,XpressBees,5,4.3,1250,1350,51.92,0,3068
+37,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,SAVE20,20%,2800,18,11200,2016,Credit Card,Returned,Flipkart,Sneha Nair,Delhivery,5,,8400,2800,25,0,13216
+46,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,WELCOME10,10%,400,12,3600,432,Credit Card,Delivered,Amazon,Sneha Nair,Delhivery,4,4,1900,1700,47.22,0,4032
+63,Kolkata,West Bengal,East,Beauty,Face Serum,SKU-BT-401,2,650,1300,NONE,0%,0,18,1300,234,Net Banking,Delivered,Amazon,Priya Verma,Shadowfax,2,4.2,500,800,61.54,0,1534
+64,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,2,650,1300,SAVE20,20%,260,18,1040,187.2,UPI,Delivered,Flipkart,Sneha Nair,BlueDart,5,2.6,500,540,51.92,0,1227.2
+57,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,FESTIVE15,15%,1575,18,8925,1606.5,Net Banking,Delivered,Amazon,Priya Verma,Delhivery,2,3.9,6300,2625,29.41,0,10531.5
+54,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,WELCOME10,10%,700,18,6300,1134,Net Banking,Returned,Flipkart,Priya Verma,Ecom Express,2,,4200,2100,33.33,0,7434
+54,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,COD,Cancelled,Mobile App,Online Self,BlueDart,3,,3800,3400,47.22,0,8064
+63,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,SAVE20,20%,2800,18,11200,2016,Debit Card,Delivered,Mobile App,Online Self,BlueDart,4,4.6,8400,2800,25,0,13216
+34,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,SAVE20,20%,600,18,2400,432,COD,Cancelled,Website,Online Self,Shadowfax,4,,1800,600,25,0,2832
+65,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,NONE,0%,0,18,1500,270,Debit Card,Delivered,Amazon,Rahul Sharma,XpressBees,1,2.7,900,600,40,0,1770
+62,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,SAVE20,20%,600,18,2400,432,Net Banking,Delivered,Website,Online Self,Shadowfax,3,3.2,1800,600,25,0,2832
+31,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,2,650,1300,NONE,0%,0,18,1300,234,Debit Card,Delivered,Mobile App,Online Self,XpressBees,8,2.9,500,800,61.54,0,1534
+22,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,Debit Card,Delivered,Mobile App,Online Self,Delhivery,1,3.3,8400,4200,33.33,0,14868
+50,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,2,650,1300,FESTIVE15,15%,195,18,1105,198.9,Net Banking,Delivered,Website,Online Self,XpressBees,8,4.3,500,605,54.75,0,1303.9
+44,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,NONE,0%,0,12,6000,720,Net Banking,Delivered,Flipkart,Sneha Nair,Shadowfax,5,2.9,2850,3150,52.5,0,6720
+64,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,4,650,2600,SAVE20,20%,520,18,2080,374.4,UPI,Cancelled,Amazon,Amit Singh,Shadowfax,4,,1000,1080,51.92,0,2454.4
+21,Jaipur,Rajasthan,North,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,NONE,0%,0,18,1500,270,Net Banking,Delivered,Flipkart,Rahul Sharma,Shadowfax,1,3.2,900,600,40,0,1770
+35,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,UPI,Delivered,Amazon,Rahul Sharma,XpressBees,8,3.9,8400,4200,33.33,0,14868
+45,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,NONE,0%,0,18,17500,3150,Debit Card,Delivered,Amazon,Sneha Nair,Ecom Express,1,3.4,10500,7000,40,0,20650
+26,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,SAVE20,20%,640,5,2560,128,Net Banking,Delivered,Flipkart,Rahul Sharma,Delhivery,2,3.8,1400,1160,45.31,0,2688
+25,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,NONE,0%,0,12,4000,480,Debit Card,Returned,Amazon,Rahul Sharma,XpressBees,4,,1900,2100,52.5,0,4480
+28,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,SAVE20,20%,1400,18,5600,1008,UPI,Delivered,Flipkart,Sneha Nair,BlueDart,1,3.2,4200,1400,25,0,6608
+52,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,3,650,1950,FESTIVE15,15%,292.5,18,1657.5,298.35,Net Banking,Returned,Mobile App,Online Self,Ecom Express,4,,750,907.5,54.75,0,1955.85
+21,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,SAVE20,20%,640,5,2560,128,UPI,Cancelled,Mobile App,Online Self,BlueDart,7,,1400,1160,45.31,0,2688
+21,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,1,650,650,NONE,0%,0,18,650,117,Credit Card,Delivered,Mobile App,Online Self,Delhivery,1,2.8,250,400,61.54,50,817
+25,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,WELCOME10,10%,350,18,3150,567,COD,Returned,Flipkart,Sneha Nair,Shadowfax,5,,2100,1050,33.33,0,3717
+32,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,1,650,650,NONE,0%,0,18,650,117,Net Banking,Delivered,Flipkart,Rahul Sharma,XpressBees,5,4.8,250,400,61.54,50,817
+26,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,NONE,0%,0,18,4500,810,COD,Delivered,Flipkart,Rahul Sharma,Delhivery,7,2.9,2700,1800,40,0,5310
+56,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,NONE,0%,0,18,21000,3780,UPI,Cancelled,Flipkart,Sneha Nair,BlueDart,4,,13000,8000,38.1,0,24780
+54,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,UPI,Returned,Flipkart,Rahul Sharma,Shadowfax,3,,5200,1520,22.62,0,7929.6
+47,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,WELCOME10,10%,350,18,3150,567,Net Banking,Delivered,Flipkart,Sneha Nair,Shadowfax,2,5,2100,1050,33.33,0,3717
+51,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,NONE,0%,0,18,7500,1350,COD,Cancelled,Mobile App,Online Self,BlueDart,4,,4500,3000,40,0,8850
+43,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,WELCOME10,10%,1260,18,11340,2041.2,Debit Card,Delivered,Flipkart,Rahul Sharma,Ecom Express,2,2.8,7800,3540,31.22,0,13381.2
+20,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,5,650,3250,FESTIVE15,15%,487.5,18,2762.5,497.25,UPI,Delivered,Website,Online Self,BlueDart,8,2.9,1250,1512.5,54.75,0,3259.75
+41,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,FESTIVE15,15%,225,18,1275,229.5,Credit Card,Cancelled,Mobile App,Online Self,XpressBees,8,,900,375,29.41,0,1504.5
+52,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,WELCOME10,10%,400,5,3600,180,Debit Card,Delivered,Flipkart,Sneha Nair,BlueDart,8,2.9,1750,1850,51.39,0,3780
+18,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,FESTIVE15,15%,900,12,5100,612,Credit Card,Delivered,Flipkart,Amit Singh,Delhivery,3,4.7,2850,2250,44.12,0,5712
+60,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,FESTIVE15,15%,450,18,2550,459,Net Banking,Returned,Website,Online Self,BlueDart,2,,1800,750,29.41,0,3009
+50,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,WELCOME10,10%,2100,18,18900,3402,COD,Returned,Mobile App,Online Self,Delhivery,2,,13000,5900,31.22,0,22302
+32,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,UPI,Delivered,Website,Online Self,Shadowfax,7,4.3,8400,4200,33.33,0,14868
+28,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,WELCOME10,10%,600,18,5400,972,COD,Returned,Mobile App,Online Self,XpressBees,1,,3600,1800,33.33,0,6372
+22,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,WELCOME10,10%,1680,18,15120,2721.6,Credit Card,Returned,Mobile App,Online Self,Delhivery,6,,10400,4720,31.22,0,17841.6
+45,Jaipur,Rajasthan,North,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,SAVE20,20%,800,5,3200,160,Debit Card,Returned,Mobile App,Online Self,Delhivery,4,,1750,1450,45.31,0,3360
+31,Chennai,Tamil Nadu,South,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,WELCOME10,10%,160,5,1440,72,COD,Delivered,Amazon,Sneha Nair,BlueDart,2,4.8,700,740,51.39,0,1512
+49,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,SAVE20,20%,1500,18,6000,1080,COD,Returned,Amazon,Priya Verma,BlueDart,3,,4500,1500,25,0,7080
+54,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,5,650,3250,FESTIVE15,15%,487.5,18,2762.5,497.25,Debit Card,Returned,Mobile App,Online Self,Ecom Express,2,,1250,1512.5,54.75,0,3259.75
+24,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,NONE,0%,0,12,10000,1200,UPI,Delivered,Amazon,Priya Verma,Delhivery,7,2.6,4750,5250,52.5,0,11200
+36,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,NONE,0%,0,5,1600,80,Credit Card,Returned,Website,Online Self,Shadowfax,1,,700,900,56.25,0,1680
+23,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,2,650,1300,SAVE20,20%,260,18,1040,187.2,Net Banking,Delivered,Flipkart,Amit Singh,XpressBees,4,2.6,500,540,51.92,0,1227.2
+47,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,SAVE20,20%,2520,18,10080,1814.4,COD,Cancelled,Website,Online Self,Delhivery,8,,7800,2280,22.62,0,11894.4
+43,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,SAVE20,20%,2520,18,10080,1814.4,UPI,Cancelled,Mobile App,Online Self,BlueDart,3,,7800,2280,22.62,0,11894.4
+38,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,FESTIVE15,15%,1575,18,8925,1606.5,Net Banking,Delivered,Flipkart,Priya Verma,Delhivery,8,4.9,6300,2625,29.41,0,10531.5
+34,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,SAVE20,20%,300,18,1200,216,UPI,Delivered,Flipkart,Sneha Nair,Delhivery,2,4.5,900,300,25,0,1416
+19,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,NONE,0%,0,5,2400,120,Net Banking,Delivered,Flipkart,Sneha Nair,Shadowfax,8,3.2,1050,1350,56.25,0,2520
+55,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,NONE,0%,0,18,3500,630,UPI,Delivered,Website,Online Self,Shadowfax,3,4,2100,1400,40,0,4130
+50,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,FESTIVE15,15%,1575,18,8925,1606.5,Net Banking,Delivered,Website,Online Self,BlueDart,8,2.8,6300,2625,29.41,0,10531.5
+65,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,FESTIVE15,15%,225,18,1275,229.5,UPI,Returned,Mobile App,Online Self,BlueDart,1,,900,375,29.41,0,1504.5
+50,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,WELCOME10,10%,1750,18,15750,2835,Net Banking,Returned,Amazon,Amit Singh,Shadowfax,7,,10500,5250,33.33,0,18585
+19,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,WELCOME10,10%,450,18,4050,729,UPI,Delivered,Amazon,Amit Singh,Ecom Express,1,4.5,2700,1350,33.33,0,4779
+29,Jaipur,Rajasthan,North,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,WELCOME10,10%,150,18,1350,243,Net Banking,Delivered,Amazon,Amit Singh,BlueDart,5,4.4,900,450,33.33,0,1593
+31,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,NONE,0%,0,18,14000,2520,COD,Delivered,Amazon,Rahul Sharma,Ecom Express,2,3.3,8400,5600,40,0,16520
+65,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,SAVE20,20%,320,5,1280,64,Net Banking,Delivered,Mobile App,Online Self,Shadowfax,6,3.1,700,580,45.31,0,1344
+25,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,FESTIVE15,15%,1050,18,5950,1071,Credit Card,Returned,Flipkart,Rahul Sharma,Ecom Express,3,,4200,1750,29.41,0,7021
+29,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,NONE,0%,0,12,6000,720,Debit Card,Returned,Mobile App,Online Self,BlueDart,5,,2850,3150,52.5,0,6720
+37,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,1,650,650,FESTIVE15,15%,97.5,18,552.5,99.45,UPI,Delivered,Mobile App,Online Self,BlueDart,1,3.6,250,302.5,54.75,50,701.95
+50,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,WELCOME10,10%,200,12,1800,216,COD,Delivered,Mobile App,Online Self,Shadowfax,6,3.4,950,850,47.22,0,2016
+50,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,NONE,0%,0,18,3500,630,UPI,Cancelled,Website,Online Self,XpressBees,1,,2100,1400,40,0,4130
+32,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,NONE,0%,0,18,21000,3780,Debit Card,Returned,Amazon,Priya Verma,XpressBees,3,,13000,8000,38.1,0,24780
+24,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,SAVE20,20%,800,12,3200,384,Net Banking,Returned,Flipkart,Priya Verma,XpressBees,5,,1900,1300,40.62,0,3584
+32,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,FESTIVE15,15%,1260,18,7140,1285.2,COD,Delivered,Amazon,Sneha Nair,Shadowfax,2,2.5,5200,1940,27.17,0,8425.2
+48,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,WELCOME10,10%,600,18,5400,972,Credit Card,Cancelled,Website,Online Self,BlueDart,3,,3600,1800,33.33,0,6372
+41,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,NONE,0%,0,12,6000,720,Debit Card,Returned,Mobile App,Online Self,Ecom Express,3,,2850,3150,52.5,0,6720
+37,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,NONE,0%,0,18,4500,810,Credit Card,Delivered,Mobile App,Online Self,BlueDart,1,4.2,2700,1800,40,0,5310
+23,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,NONE,0%,0,18,14000,2520,COD,Cancelled,Mobile App,Online Self,BlueDart,6,,8400,5600,40,0,16520
+48,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,WELCOME10,10%,600,12,5400,648,Credit Card,Cancelled,Mobile App,Online Self,Delhivery,7,,2850,2550,47.22,0,6048
+31,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,NONE,0%,0,12,8000,960,Credit Card,Delivered,Amazon,Amit Singh,Delhivery,5,3.5,3800,4200,52.5,0,8960
+55,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,4,650,2600,FESTIVE15,15%,390,18,2210,397.8,Net Banking,Cancelled,Flipkart,Sneha Nair,Ecom Express,5,,1000,1210,54.75,0,2607.8
+39,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,SAVE20,20%,4200,18,16800,3024,Debit Card,Delivered,Mobile App,Online Self,Delhivery,7,4.1,13000,3800,22.62,0,19824
+20,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,WELCOME10,10%,1680,18,15120,2721.6,Net Banking,Delivered,Amazon,Sneha Nair,Delhivery,2,2.9,10400,4720,31.22,0,17841.6
+34,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,2,650,1300,SAVE20,20%,260,18,1040,187.2,Debit Card,Delivered,Amazon,Priya Verma,BlueDart,5,2.5,500,540,51.92,0,1227.2
+33,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,NONE,0%,0,18,3000,540,UPI,Returned,Flipkart,Sneha Nair,BlueDart,2,,1800,1200,40,0,3540
+62,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,FESTIVE15,15%,1890,18,10710,1927.8,UPI,Delivered,Amazon,Priya Verma,XpressBees,3,4.9,7800,2910,27.17,0,12637.8
+41,Jaipur,Rajasthan,North,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,SAVE20,20%,1200,18,4800,864,UPI,Delivered,Website,Online Self,Delhivery,6,3.2,3600,1200,25,0,5664
+43,Mumbai,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,SAVE20,20%,480,5,1920,96,Net Banking,Delivered,Amazon,Rahul Sharma,XpressBees,8,5,1050,870,45.31,0,2016
+65,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,FESTIVE15,15%,600,12,3400,408,Credit Card,Cancelled,Amazon,Sneha Nair,Delhivery,2,,1900,1500,44.12,0,3808
+27,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,NONE,0%,0,18,7500,1350,Debit Card,Delivered,Mobile App,Online Self,XpressBees,4,3.5,4500,3000,40,0,8850
+44,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,WELCOME10,10%,240,5,2160,108,UPI,Delivered,Website,Online Self,Ecom Express,6,4.3,1050,1110,51.39,0,2268
+64,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,SAVE20,20%,480,5,1920,96,Net Banking,Delivered,Mobile App,Online Self,Delhivery,5,5,1050,870,45.31,0,2016
+59,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,WELCOME10,10%,700,18,6300,1134,UPI,Returned,Flipkart,Priya Verma,Shadowfax,8,,4200,2100,33.33,0,7434
+26,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,SAVE20,20%,1200,12,4800,576,Net Banking,Delivered,Flipkart,Priya Verma,Shadowfax,5,4.3,2850,1950,40.62,0,5376
+40,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,Net Banking,Delivered,Flipkart,Priya Verma,Ecom Express,1,4,5200,1520,22.62,0,7929.6
+42,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,WELCOME10,10%,300,18,2700,486,Net Banking,Returned,Flipkart,Rahul Sharma,Shadowfax,8,,1800,900,33.33,0,3186
+27,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,SAVE20,20%,2000,12,8000,960,UPI,Delivered,Amazon,Priya Verma,BlueDart,2,2.8,4750,3250,40.62,0,8960
+38,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,FESTIVE15,15%,900,12,5100,612,Credit Card,Delivered,Flipkart,Rahul Sharma,Delhivery,8,3,2850,2250,44.12,0,5712
+56,Delhi,Delhi,North,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,WELCOME10,10%,160,5,1440,72,Debit Card,Delivered,Amazon,Rahul Sharma,Shadowfax,3,2.7,700,740,51.39,0,1512
+38,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,SAVE20,20%,1500,18,6000,1080,COD,Cancelled,Flipkart,Amit Singh,XpressBees,5,,4500,1500,25,0,7080
+58,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,WELCOME10,10%,150,18,1350,243,UPI,Delivered,Amazon,Sneha Nair,XpressBees,4,2.9,900,450,33.33,0,1593
+45,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,FESTIVE15,15%,1890,18,10710,1927.8,UPI,Cancelled,Website,Online Self,Delhivery,1,,7800,2910,27.17,0,12637.8
+55,Chennai,Tamil Nadu,South,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,SAVE20,20%,600,18,2400,432,Credit Card,Cancelled,Amazon,Rahul Sharma,Delhivery,6,,1800,600,25,0,2832
+22,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,SAVE20,20%,800,12,3200,384,COD,Delivered,Amazon,Priya Verma,Shadowfax,6,4.2,1900,1300,40.62,0,3584
+30,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,2,650,1300,NONE,0%,0,18,1300,234,Credit Card,Delivered,Amazon,Amit Singh,Ecom Express,1,4.3,500,800,61.54,0,1534
+30,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,SAVE20,20%,4200,18,16800,3024,Credit Card,Delivered,Flipkart,Rahul Sharma,BlueDart,6,2.9,13000,3800,22.62,0,19824
+49,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,SAVE20,20%,1500,18,6000,1080,COD,Cancelled,Flipkart,Priya Verma,BlueDart,4,,4500,1500,25,0,7080
+26,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,2,650,1300,NONE,0%,0,18,1300,234,UPI,Delivered,Amazon,Sneha Nair,BlueDart,3,2.5,500,800,61.54,0,1534
+21,Mumbai,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,WELCOME10,10%,160,5,1440,72,Credit Card,Delivered,Website,Online Self,Shadowfax,8,4.9,700,740,51.39,0,1512
+59,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,Credit Card,Delivered,Amazon,Priya Verma,BlueDart,3,3.9,3800,3400,47.22,0,8064
+52,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,Net Banking,Delivered,Website,Online Self,Shadowfax,4,4.7,8400,4200,33.33,0,14868
+46,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,WELCOME10,10%,150,18,1350,243,UPI,Returned,Amazon,Amit Singh,Delhivery,8,,900,450,33.33,0,1593
+55,Chennai,Tamil Nadu,South,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,SAVE20,20%,1500,18,6000,1080,Debit Card,Cancelled,Website,Online Self,Delhivery,8,,4500,1500,25,0,7080
+52,Jaipur,Rajasthan,North,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,NONE,0%,0,5,1600,80,Credit Card,Delivered,Website,Online Self,Shadowfax,3,4.3,700,900,56.25,0,1680
+36,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,WELCOME10,10%,450,18,4050,729,UPI,Returned,Amazon,Amit Singh,XpressBees,6,,2700,1350,33.33,0,4779
+37,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,5,650,3250,NONE,0%,0,18,3250,585,Credit Card,Delivered,Amazon,Priya Verma,Shadowfax,6,4.1,1250,2000,61.54,0,3835
+63,Chennai,Tamil Nadu,South,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,WELCOME10,10%,600,18,5400,972,COD,Delivered,Website,Online Self,BlueDart,3,4.1,3600,1800,33.33,0,6372
+24,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,SAVE20,20%,400,12,1600,192,Debit Card,Delivered,Website,Online Self,XpressBees,7,4.1,950,650,40.62,0,1792
+44,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,SAVE20,20%,1200,12,4800,576,UPI,Delivered,Amazon,Amit Singh,BlueDart,4,3.5,2850,1950,40.62,0,5376
+19,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,NONE,0%,0,18,1500,270,UPI,Cancelled,Flipkart,Amit Singh,Shadowfax,3,,900,600,40,0,1770
+23,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,5,650,3250,SAVE20,20%,650,18,2600,468,UPI,Cancelled,Flipkart,Sneha Nair,Shadowfax,5,,1250,1350,51.92,0,3068
+54,Chennai,Tamil Nadu,South,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,NONE,0%,0,18,7500,1350,Debit Card,Returned,Website,Online Self,Ecom Express,3,,4500,3000,40,0,8850
+34,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,NONE,0%,0,12,4000,480,UPI,Delivered,Mobile App,Online Self,Shadowfax,8,3.4,1900,2100,52.5,0,4480
+28,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,NONE,0%,0,5,2400,120,Net Banking,Cancelled,Mobile App,Online Self,Ecom Express,4,,1050,1350,56.25,0,2520
+60,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,2,650,1300,WELCOME10,10%,130,18,1170,210.6,COD,Delivered,Amazon,Priya Verma,Ecom Express,7,4.8,500,670,57.26,0,1380.6
+62,Pune,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,SAVE20,20%,800,12,3200,384,Credit Card,Delivered,Amazon,Sneha Nair,Shadowfax,2,4.9,1900,1300,40.62,0,3584
+26,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,SAVE20,20%,2000,12,8000,960,COD,Delivered,Flipkart,Amit Singh,BlueDart,6,4.1,4750,3250,40.62,0,8960
+51,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,SAVE20,20%,1600,12,6400,768,COD,Returned,Website,Online Self,Shadowfax,2,,3800,2600,40.62,0,7168
+42,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,SAVE20,20%,3500,18,14000,2520,Credit Card,Delivered,Flipkart,Sneha Nair,Ecom Express,6,3.8,10500,3500,25,0,16520
+28,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,NONE,0%,0,12,2000,240,Credit Card,Delivered,Flipkart,Priya Verma,Ecom Express,2,4.3,950,1050,52.5,0,2240
+27,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,WELCOME10,10%,200,12,1800,216,Debit Card,Delivered,Flipkart,Rahul Sharma,Delhivery,5,3,950,850,47.22,0,2016
+61,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,NONE,0%,0,12,6000,720,UPI,Cancelled,Amazon,Amit Singh,Shadowfax,8,,2850,3150,52.5,0,6720
+61,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,NONE,0%,0,18,4200,756,Credit Card,Delivered,Website,Online Self,Ecom Express,3,3.4,2600,1600,38.1,0,4956
+46,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,2,650,1300,FESTIVE15,15%,195,18,1105,198.9,Net Banking,Delivered,Amazon,Amit Singh,XpressBees,6,2.9,500,605,54.75,0,1303.9
+29,Mumbai,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,WELCOME10,10%,320,5,2880,144,UPI,Cancelled,Amazon,Sneha Nair,Delhivery,6,,1400,1480,51.39,0,3024
+59,Chennai,Tamil Nadu,South,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,WELCOME10,10%,600,18,5400,972,UPI,Delivered,Website,Online Self,XpressBees,4,4.5,3600,1800,33.33,0,6372
+59,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,FESTIVE15,15%,2520,18,14280,2570.4,UPI,Returned,Website,Online Self,XpressBees,1,,10400,3880,27.17,0,16850.4
+65,Chennai,Tamil Nadu,South,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,NONE,0%,0,18,7500,1350,UPI,Delivered,Flipkart,Rahul Sharma,XpressBees,8,3.6,4500,3000,40,0,8850
+50,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,NONE,0%,0,18,6000,1080,UPI,Returned,Mobile App,Online Self,Shadowfax,5,,3600,2400,40,0,7080
+59,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,NONE,0%,0,18,4200,756,Net Banking,Returned,Amazon,Priya Verma,Ecom Express,4,,2600,1600,38.1,0,4956
+36,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,SAVE20,20%,1200,18,4800,864,Net Banking,Cancelled,Website,Online Self,BlueDart,3,,3600,1200,25,0,5664
+50,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,4,650,2600,SAVE20,20%,520,18,2080,374.4,UPI,Delivered,Website,Online Self,XpressBees,8,2.7,1000,1080,51.92,0,2454.4
+30,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,NONE,0%,0,18,16800,3024,Credit Card,Delivered,Flipkart,Sneha Nair,BlueDart,7,3.8,10400,6400,38.1,0,19824
+29,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,FESTIVE15,15%,600,12,3400,408,UPI,Delivered,Amazon,Priya Verma,Ecom Express,1,3.1,1900,1500,44.12,0,3808
+22,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,5,650,3250,NONE,0%,0,18,3250,585,Credit Card,Delivered,Flipkart,Priya Verma,Ecom Express,3,2.6,1250,2000,61.54,0,3835
+40,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,COD,Delivered,Amazon,Amit Singh,Delhivery,6,2.7,5200,1520,22.62,0,7929.6
+21,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,5,650,3250,WELCOME10,10%,325,18,2925,526.5,COD,Returned,Flipkart,Rahul Sharma,Ecom Express,4,,1250,1675,57.26,0,3451.5
+44,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,FESTIVE15,15%,300,12,1700,204,UPI,Returned,Mobile App,Online Self,Ecom Express,2,,950,750,44.12,0,1904
+32,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,FESTIVE15,15%,225,18,1275,229.5,Debit Card,Cancelled,Amazon,Rahul Sharma,BlueDart,2,,900,375,29.41,0,1504.5
+39,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,NONE,0%,0,12,6000,720,COD,Delivered,Mobile App,Online Self,BlueDart,8,2.6,2850,3150,52.5,0,6720
+45,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,WELCOME10,10%,400,12,3600,432,Debit Card,Delivered,Website,Online Self,Shadowfax,7,3.4,1900,1700,47.22,0,4032
+23,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,4,650,2600,NONE,0%,0,18,2600,468,Debit Card,Delivered,Flipkart,Sneha Nair,Ecom Express,2,2.7,1000,1600,61.54,0,3068
+57,Pune,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,NONE,0%,0,12,6000,720,Debit Card,Delivered,Website,Online Self,Ecom Express,7,4.2,2850,3150,52.5,0,6720
+54,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,FESTIVE15,15%,600,12,3400,408,UPI,Delivered,Flipkart,Priya Verma,XpressBees,1,3.2,1900,1500,44.12,0,3808
+27,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,SAVE20,20%,400,12,1600,192,COD,Delivered,Website,Online Self,Ecom Express,4,4.2,950,650,40.62,0,1792
+33,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,NONE,0%,0,12,6000,720,Net Banking,Delivered,Mobile App,Online Self,Ecom Express,6,3.3,2850,3150,52.5,0,6720
+55,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,WELCOME10,10%,300,18,2700,486,COD,Delivered,Amazon,Rahul Sharma,BlueDart,6,4.5,1800,900,33.33,0,3186
+57,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,FESTIVE15,15%,525,18,2975,535.5,Net Banking,Returned,Mobile App,Online Self,Shadowfax,2,,2100,875,29.41,0,3510.5
+39,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,5,650,3250,FESTIVE15,15%,487.5,18,2762.5,497.25,Net Banking,Cancelled,Flipkart,Sneha Nair,Ecom Express,2,,1250,1512.5,54.75,0,3259.75
+47,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,WELCOME10,10%,600,12,5400,648,Credit Card,Delivered,Website,Online Self,BlueDart,6,4.3,2850,2550,47.22,0,6048
+41,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,FESTIVE15,15%,225,18,1275,229.5,UPI,Delivered,Mobile App,Online Self,Delhivery,4,2.7,900,375,29.41,0,1504.5
+63,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,3,650,1950,WELCOME10,10%,195,18,1755,315.9,Credit Card,Delivered,Mobile App,Online Self,BlueDart,8,3.2,750,1005,57.26,0,2070.9
+49,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,SAVE20,20%,3500,18,14000,2520,Debit Card,Cancelled,Amazon,Amit Singh,Delhivery,4,,10500,3500,25,0,16520
+38,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,NONE,0%,0,18,21000,3780,UPI,Delivered,Flipkart,Rahul Sharma,Shadowfax,7,4.6,13000,8000,38.1,0,24780
+28,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,SAVE20,20%,700,18,2800,504,Credit Card,Delivered,Flipkart,Amit Singh,Delhivery,6,4.7,2100,700,25,0,3304
+32,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,2,650,1300,FESTIVE15,15%,195,18,1105,198.9,COD,Delivered,Flipkart,Rahul Sharma,Shadowfax,4,4.3,500,605,54.75,0,1303.9
+42,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,SAVE20,20%,400,12,1600,192,Debit Card,Delivered,Flipkart,Rahul Sharma,XpressBees,1,4,950,650,40.62,0,1792
+51,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,2,650,1300,NONE,0%,0,18,1300,234,Net Banking,Cancelled,Amazon,Rahul Sharma,Shadowfax,7,,500,800,61.54,0,1534
+23,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,NONE,0%,0,5,3200,160,COD,Returned,Mobile App,Online Self,XpressBees,7,,1400,1800,56.25,0,3360
+53,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,SAVE20,20%,1200,18,4800,864,Debit Card,Returned,Flipkart,Rahul Sharma,XpressBees,2,,3600,1200,25,0,5664
+32,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,1,650,650,NONE,0%,0,18,650,117,Credit Card,Delivered,Website,Online Self,BlueDart,3,2.7,250,400,61.54,50,817
+54,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,NONE,0%,0,18,10500,1890,UPI,Returned,Website,Online Self,Delhivery,2,,6300,4200,40,0,12390
+59,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,FESTIVE15,15%,600,12,3400,408,Credit Card,Cancelled,Flipkart,Sneha Nair,Delhivery,6,,1900,1500,44.12,0,3808
+29,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,NONE,0%,0,18,7000,1260,Credit Card,Delivered,Mobile App,Online Self,XpressBees,5,4.1,4200,2800,40,0,8260
+58,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,NONE,0%,0,18,4500,810,Debit Card,Delivered,Mobile App,Online Self,Ecom Express,6,4.4,2700,1800,40,0,5310
+62,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,SAVE20,20%,1600,12,6400,768,UPI,Cancelled,Mobile App,Online Self,BlueDart,3,,3800,2600,40.62,0,7168
+26,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,1,650,650,NONE,0%,0,18,650,117,Net Banking,Delivered,Flipkart,Amit Singh,Shadowfax,1,3.7,250,400,61.54,50,817
+41,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,WELCOME10,10%,200,12,1800,216,Credit Card,Delivered,Amazon,Priya Verma,BlueDart,1,2.5,950,850,47.22,0,2016
+22,Kolkata,West Bengal,East,Beauty,Face Serum,SKU-BT-401,4,650,2600,NONE,0%,0,18,2600,468,Debit Card,Delivered,Website,Online Self,BlueDart,3,4.1,1000,1600,61.54,0,3068
+37,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,1,650,650,WELCOME10,10%,65,18,585,105.3,Debit Card,Delivered,Website,Online Self,XpressBees,1,3.9,250,335,57.26,50,740.3
+40,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,FESTIVE15,15%,480,5,2720,136,Net Banking,Returned,Amazon,Sneha Nair,XpressBees,3,,1400,1320,48.53,0,2856
+45,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,SAVE20,20%,640,5,2560,128,COD,Cancelled,Flipkart,Amit Singh,Shadowfax,8,,1400,1160,45.31,0,2688
+21,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,Credit Card,Cancelled,Flipkart,Rahul Sharma,Ecom Express,4,,8400,4200,33.33,0,14868
+20,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,SAVE20,20%,1500,18,6000,1080,UPI,Delivered,Website,Online Self,Ecom Express,2,4.9,4500,1500,25,0,7080
+48,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,SAVE20,20%,300,18,1200,216,Net Banking,Delivered,Flipkart,Priya Verma,Ecom Express,7,2.7,900,300,25,0,1416
+52,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,SAVE20,20%,800,12,3200,384,Net Banking,Returned,Website,Online Self,XpressBees,5,,1900,1300,40.62,0,3584
+18,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,FESTIVE15,15%,600,12,3400,408,UPI,Delivered,Website,Online Self,BlueDart,1,3,1900,1500,44.12,0,3808
+22,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,5,650,3250,NONE,0%,0,18,3250,585,Net Banking,Delivered,Flipkart,Sneha Nair,Delhivery,2,2.6,1250,2000,61.54,0,3835
+58,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,Credit Card,Delivered,Amazon,Amit Singh,BlueDart,6,4.1,8400,4200,33.33,0,14868
+62,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,NONE,0%,0,5,2400,120,Net Banking,Delivered,Mobile App,Online Self,Delhivery,4,4.9,1050,1350,56.25,0,2520
+60,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,2,650,1300,WELCOME10,10%,130,18,1170,210.6,Credit Card,Returned,Amazon,Sneha Nair,Shadowfax,7,,500,670,57.26,0,1380.6
+23,Kolkata,West Bengal,East,Beauty,Face Serum,SKU-BT-401,3,650,1950,WELCOME10,10%,195,18,1755,315.9,Net Banking,Cancelled,Flipkart,Amit Singh,BlueDart,6,,750,1005,57.26,0,2070.9
+26,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,NONE,0%,0,18,12600,2268,UPI,Cancelled,Flipkart,Priya Verma,Ecom Express,1,,7800,4800,38.1,0,14868
+41,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,NONE,0%,0,18,4200,756,Net Banking,Returned,Flipkart,Sneha Nair,Delhivery,6,,2600,1600,38.1,0,4956
+29,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,FESTIVE15,15%,2520,18,14280,2570.4,Credit Card,Delivered,Mobile App,Online Self,XpressBees,3,4.5,10400,3880,27.17,0,16850.4
+39,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,4,650,2600,SAVE20,20%,520,18,2080,374.4,Debit Card,Returned,Amazon,Priya Verma,Delhivery,4,,1000,1080,51.92,0,2454.4
+64,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,NONE,0%,0,18,10500,1890,Debit Card,Delivered,Flipkart,Priya Verma,XpressBees,1,4.2,6300,4200,40,0,12390
+36,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,WELCOME10,10%,240,5,2160,108,Debit Card,Cancelled,Amazon,Rahul Sharma,Delhivery,2,,1050,1110,51.39,0,2268
+36,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,WELCOME10,10%,240,5,2160,108,Net Banking,Cancelled,Website,Online Self,Shadowfax,1,,1050,1110,51.39,0,2268
+51,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,NONE,0%,0,12,10000,1200,Debit Card,Delivered,Mobile App,Online Self,XpressBees,1,2.8,4750,5250,52.5,0,11200
+34,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,SAVE20,20%,400,12,1600,192,Credit Card,Delivered,Mobile App,Online Self,Delhivery,2,3.7,950,650,40.62,0,1792
+50,Jaipur,Rajasthan,North,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,WELCOME10,10%,150,18,1350,243,UPI,Delivered,Flipkart,Rahul Sharma,Ecom Express,2,3.2,900,450,33.33,0,1593
+30,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,FESTIVE15,15%,225,18,1275,229.5,Credit Card,Cancelled,Website,Online Self,Ecom Express,8,,900,375,29.41,0,1504.5
+46,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,WELCOME10,10%,300,18,2700,486,Debit Card,Delivered,Mobile App,Online Self,Shadowfax,8,3.5,1800,900,33.33,0,3186
+33,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,3,650,1950,NONE,0%,0,18,1950,351,Credit Card,Delivered,Mobile App,Online Self,Delhivery,6,4.6,750,1200,61.54,0,2301
+18,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,SAVE20,20%,2100,18,8400,1512,Credit Card,Delivered,Amazon,Priya Verma,Shadowfax,8,4.9,6300,2100,25,0,9912
+55,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,FESTIVE15,15%,2100,18,11900,2142,Net Banking,Delivered,Website,Online Self,Shadowfax,3,4.2,8400,3500,29.41,0,14042
+62,Mumbai,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,FESTIVE15,15%,480,5,2720,136,COD,Delivered,Mobile App,Online Self,Delhivery,6,3.7,1400,1320,48.53,0,2856
+20,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,FESTIVE15,15%,120,5,680,34,UPI,Delivered,Flipkart,Sneha Nair,XpressBees,5,4.8,350,330,48.53,50,764
+38,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,Debit Card,Delivered,Mobile App,Online Self,BlueDart,6,4.4,5200,1520,22.62,0,7929.6
+20,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,NONE,0%,0,18,3500,630,Net Banking,Delivered,Amazon,Priya Verma,Delhivery,7,3.3,2100,1400,40,0,4130
+37,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,NONE,0%,0,18,3500,630,Net Banking,Delivered,Flipkart,Rahul Sharma,Delhivery,1,4.7,2100,1400,40,0,4130
+34,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,WELCOME10,10%,1680,18,15120,2721.6,UPI,Delivered,Website,Online Self,XpressBees,3,4.8,10400,4720,31.22,0,17841.6
+38,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,SAVE20,20%,2100,18,8400,1512,Debit Card,Delivered,Flipkart,Sneha Nair,Delhivery,6,3.2,6300,2100,25,0,9912
+41,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,SAVE20,20%,2100,18,8400,1512,UPI,Delivered,Website,Online Self,Delhivery,8,4,6300,2100,25,0,9912
+59,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,WELCOME10,10%,1680,18,15120,2721.6,Debit Card,Delivered,Website,Online Self,BlueDart,4,4.8,10400,4720,31.22,0,17841.6
+40,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,NONE,0%,0,18,12600,2268,UPI,Returned,Mobile App,Online Self,BlueDart,8,,7800,4800,38.1,0,14868
+38,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,SAVE20,20%,320,5,1280,64,Net Banking,Delivered,Flipkart,Amit Singh,XpressBees,7,2.5,700,580,45.31,0,1344
+62,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,FESTIVE15,15%,450,18,2550,459,Credit Card,Delivered,Amazon,Priya Verma,XpressBees,3,3.4,1800,750,29.41,0,3009
+28,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,WELCOME10,10%,420,18,3780,680.4,COD,Delivered,Website,Online Self,XpressBees,1,4,2600,1180,31.22,0,4460.4
+30,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,Credit Card,Delivered,Flipkart,Rahul Sharma,Ecom Express,1,2.7,5200,1520,22.62,0,7929.6
+38,Chennai,Tamil Nadu,South,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,NONE,0%,0,5,3200,160,COD,Delivered,Website,Online Self,XpressBees,3,2.9,1400,1800,56.25,0,3360
+48,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,3,650,1950,SAVE20,20%,390,18,1560,280.8,Debit Card,Returned,Website,Online Self,BlueDart,4,,750,810,51.92,0,1840.8
+50,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,SAVE20,20%,800,5,3200,160,Debit Card,Delivered,Website,Online Self,XpressBees,8,4.2,1750,1450,45.31,0,3360
+23,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,5,650,3250,FESTIVE15,15%,487.5,18,2762.5,497.25,Debit Card,Delivered,Flipkart,Amit Singh,Delhivery,7,2.8,1250,1512.5,54.75,0,3259.75
+54,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,WELCOME10,10%,1750,18,15750,2835,Net Banking,Returned,Website,Online Self,Delhivery,8,,10500,5250,33.33,0,18585
+37,Delhi,Delhi,North,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,SAVE20,20%,480,5,1920,96,Debit Card,Delivered,Flipkart,Rahul Sharma,Shadowfax,2,4.5,1050,870,45.31,0,2016
+43,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,FESTIVE15,15%,240,5,1360,68,Net Banking,Delivered,Website,Online Self,XpressBees,1,4.3,700,660,48.53,0,1428
+61,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,SAVE20,20%,700,18,2800,504,COD,Delivered,Website,Online Self,XpressBees,5,2.9,2100,700,25,0,3304
+58,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,WELCOME10,10%,240,5,2160,108,Net Banking,Returned,Mobile App,Online Self,Delhivery,2,,1050,1110,51.39,0,2268
+18,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,WELCOME10,10%,700,18,6300,1134,COD,Delivered,Flipkart,Rahul Sharma,Shadowfax,3,2.9,4200,2100,33.33,0,7434
+21,Pune,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,WELCOME10,10%,1000,12,9000,1080,UPI,Returned,Mobile App,Online Self,XpressBees,2,,4750,4250,47.22,0,10080
+53,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,NONE,0%,0,12,10000,1200,Net Banking,Returned,Flipkart,Amit Singh,Delhivery,5,,4750,5250,52.5,0,11200
+30,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,COD,Delivered,Amazon,Priya Verma,Shadowfax,5,3.7,3800,3400,47.22,0,8064
+23,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,WELCOME10,10%,600,12,5400,648,Debit Card,Cancelled,Website,Online Self,Shadowfax,6,,2850,2550,47.22,0,6048
+25,Pune,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,Debit Card,Delivered,Amazon,Priya Verma,Shadowfax,8,4,3800,3400,47.22,0,8064
+36,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,FESTIVE15,15%,2625,18,14875,2677.5,Debit Card,Delivered,Amazon,Sneha Nair,Shadowfax,5,3.8,10500,4375,29.41,0,17552.5
+65,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,NONE,0%,0,18,8400,1512,COD,Delivered,Flipkart,Amit Singh,BlueDart,7,2.9,5200,3200,38.1,0,9912
+28,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,SAVE20,20%,1500,18,6000,1080,UPI,Delivered,Mobile App,Online Self,BlueDart,2,3.4,4500,1500,25,0,7080
+49,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,NONE,0%,0,18,14000,2520,Credit Card,Delivered,Mobile App,Online Self,Shadowfax,2,2.8,8400,5600,40,0,16520
+18,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,FESTIVE15,15%,1200,12,6800,816,COD,Delivered,Website,Online Self,Delhivery,2,3.4,3800,3000,44.12,0,7616
+38,Chennai,Tamil Nadu,South,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,WELCOME10,10%,400,5,3600,180,UPI,Delivered,Website,Online Self,Ecom Express,2,3.3,1750,1850,51.39,0,3780
+22,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,SAVE20,20%,1600,12,6400,768,COD,Delivered,Amazon,Rahul Sharma,Shadowfax,2,4.7,3800,2600,40.62,0,7168
+53,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,SAVE20,20%,1200,18,4800,864,Credit Card,Cancelled,Mobile App,Online Self,XpressBees,7,,3600,1200,25,0,5664
+55,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,WELCOME10,10%,1260,18,11340,2041.2,Debit Card,Delivered,Flipkart,Priya Verma,Shadowfax,3,4.4,7800,3540,31.22,0,13381.2
+44,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,COD,Delivered,Flipkart,Rahul Sharma,BlueDart,2,2.8,3800,3400,47.22,0,8064
+64,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,SAVE20,20%,800,5,3200,160,Net Banking,Cancelled,Amazon,Amit Singh,Ecom Express,5,,1750,1450,45.31,0,3360
+21,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,NONE,0%,0,18,4500,810,UPI,Delivered,Mobile App,Online Self,BlueDart,5,3.9,2700,1800,40,0,5310
+55,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,NONE,0%,0,18,21000,3780,Debit Card,Delivered,Mobile App,Online Self,Ecom Express,3,3.3,13000,8000,38.1,0,24780
+60,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,NONE,0%,0,18,21000,3780,Credit Card,Returned,Website,Online Self,Delhivery,1,,13000,8000,38.1,0,24780
+23,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,5,650,3250,SAVE20,20%,650,18,2600,468,Credit Card,Delivered,Website,Online Self,XpressBees,4,4.2,1250,1350,51.92,0,3068
+25,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,WELCOME10,10%,700,18,6300,1134,Debit Card,Delivered,Mobile App,Online Self,BlueDart,2,3.1,4200,2100,33.33,0,7434
+35,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,NONE,0%,0,12,6000,720,UPI,Returned,Website,Online Self,Ecom Express,7,,2850,3150,52.5,0,6720
+44,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,SAVE20,20%,2000,12,8000,960,COD,Delivered,Flipkart,Sneha Nair,BlueDart,3,4.5,4750,3250,40.62,0,8960
+52,Jaipur,Rajasthan,North,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,FESTIVE15,15%,225,18,1275,229.5,Debit Card,Delivered,Mobile App,Online Self,Ecom Express,1,3.8,900,375,29.41,0,1504.5
+47,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,FESTIVE15,15%,1200,12,6800,816,Net Banking,Returned,Amazon,Sneha Nair,Shadowfax,2,,3800,3000,44.12,0,7616
+54,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,FESTIVE15,15%,300,12,1700,204,Net Banking,Cancelled,Website,Online Self,Ecom Express,5,,950,750,44.12,0,1904
+21,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,UPI,Delivered,Mobile App,Online Self,Ecom Express,6,3.3,8400,4200,33.33,0,14868
+23,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,SAVE20,20%,3360,18,13440,2419.2,Debit Card,Delivered,Amazon,Amit Singh,BlueDart,8,2.8,10400,3040,22.62,0,15859.2
+49,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,SAVE20,20%,3500,18,14000,2520,UPI,Delivered,Amazon,Priya Verma,XpressBees,6,4.6,10500,3500,25,0,16520
+42,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,NONE,0%,0,12,10000,1200,Net Banking,Delivered,Flipkart,Sneha Nair,Delhivery,8,2.6,4750,5250,52.5,0,11200
+23,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,WELCOME10,10%,420,18,3780,680.4,Debit Card,Delivered,Website,Online Self,Shadowfax,6,3.6,2600,1180,31.22,0,4460.4
+59,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,WELCOME10,10%,750,18,6750,1215,Net Banking,Delivered,Amazon,Sneha Nair,Shadowfax,2,4,4500,2250,33.33,0,7965
+53,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,WELCOME10,10%,450,18,4050,729,Net Banking,Returned,Website,Online Self,XpressBees,7,,2700,1350,33.33,0,4779
+42,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,NONE,0%,0,5,4000,200,Debit Card,Cancelled,Website,Online Self,BlueDart,1,,1750,2250,56.25,0,4200
+44,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,SAVE20,20%,2800,18,11200,2016,Credit Card,Delivered,Flipkart,Rahul Sharma,Shadowfax,4,3.9,8400,2800,25,0,13216
+25,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,NONE,0%,0,18,16800,3024,Net Banking,Delivered,Amazon,Rahul Sharma,Delhivery,4,2.8,10400,6400,38.1,0,19824
+33,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,3,650,1950,WELCOME10,10%,195,18,1755,315.9,UPI,Returned,Amazon,Priya Verma,XpressBees,7,,750,1005,57.26,0,2070.9
+40,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,Debit Card,Cancelled,Flipkart,Rahul Sharma,XpressBees,7,,3800,3400,47.22,0,8064
+51,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,NONE,0%,0,5,3200,160,UPI,Delivered,Flipkart,Rahul Sharma,BlueDart,7,3.5,1400,1800,56.25,0,3360
+47,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,NONE,0%,0,12,10000,1200,Debit Card,Delivered,Mobile App,Online Self,Shadowfax,4,4.8,4750,5250,52.5,0,11200
+46,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,FESTIVE15,15%,630,18,3570,642.6,COD,Returned,Amazon,Sneha Nair,Shadowfax,3,,2600,970,27.17,0,4212.6
+26,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,WELCOME10,10%,1680,18,15120,2721.6,Credit Card,Delivered,Mobile App,Online Self,XpressBees,6,3.3,10400,4720,31.22,0,17841.6
+29,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,FESTIVE15,15%,1575,18,8925,1606.5,Net Banking,Delivered,Mobile App,Online Self,Shadowfax,6,3.1,6300,2625,29.41,0,10531.5
+56,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,FESTIVE15,15%,450,18,2550,459,UPI,Cancelled,Mobile App,Online Self,Ecom Express,2,,1800,750,29.41,0,3009
+32,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,1,650,650,SAVE20,20%,130,18,520,93.6,UPI,Delivered,Mobile App,Online Self,XpressBees,4,3.1,250,270,51.92,50,663.6
+27,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,WELCOME10,10%,1750,18,15750,2835,UPI,Returned,Flipkart,Rahul Sharma,Delhivery,3,,10500,5250,33.33,0,18585
+39,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,NONE,0%,0,18,4500,810,Credit Card,Delivered,Flipkart,Priya Verma,Ecom Express,4,3.4,2700,1800,40,0,5310
+37,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,WELCOME10,10%,1050,18,9450,1701,Credit Card,Cancelled,Mobile App,Online Self,Ecom Express,6,,6300,3150,33.33,0,11151
+62,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,1,650,650,WELCOME10,10%,65,18,585,105.3,COD,Delivered,Mobile App,Online Self,Delhivery,8,3.6,250,335,57.26,50,740.3
+45,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,WELCOME10,10%,1750,18,15750,2835,Debit Card,Delivered,Amazon,Rahul Sharma,Ecom Express,8,3.5,10500,5250,33.33,0,18585
+26,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,WELCOME10,10%,450,18,4050,729,Credit Card,Cancelled,Website,Online Self,Ecom Express,3,,2700,1350,33.33,0,4779
+60,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,WELCOME10,10%,600,12,5400,648,Net Banking,Delivered,Mobile App,Online Self,Shadowfax,6,4.2,2850,2550,47.22,0,6048
+52,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,3,650,1950,WELCOME10,10%,195,18,1755,315.9,Net Banking,Delivered,Mobile App,Online Self,Ecom Express,2,2.7,750,1005,57.26,0,2070.9
+23,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,4,650,2600,WELCOME10,10%,260,18,2340,421.2,COD,Cancelled,Amazon,Priya Verma,Shadowfax,7,,1000,1340,57.26,0,2761.2
+36,Delhi,Delhi,North,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,NONE,0%,0,5,4000,200,Credit Card,Delivered,Flipkart,Priya Verma,XpressBees,7,2.5,1750,2250,56.25,0,4200
+59,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,FESTIVE15,15%,120,5,680,34,Credit Card,Delivered,Flipkart,Rahul Sharma,BlueDart,8,3.7,350,330,48.53,50,764
+35,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,FESTIVE15,15%,675,18,3825,688.5,COD,Delivered,Website,Online Self,Shadowfax,7,3.2,2700,1125,29.41,0,4513.5
+29,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,SAVE20,20%,400,12,1600,192,COD,Delivered,Mobile App,Online Self,Delhivery,7,3.3,950,650,40.62,0,1792
+65,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,1,650,650,FESTIVE15,15%,97.5,18,552.5,99.45,COD,Delivered,Website,Online Self,Ecom Express,6,4.7,250,302.5,54.75,50,701.95
+41,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,FESTIVE15,15%,1260,18,7140,1285.2,UPI,Delivered,Flipkart,Rahul Sharma,XpressBees,1,3.3,5200,1940,27.17,0,8425.2
+56,Chennai,Tamil Nadu,South,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,FESTIVE15,15%,1125,18,6375,1147.5,Net Banking,Delivered,Amazon,Priya Verma,Shadowfax,1,3.1,4500,1875,29.41,0,7522.5
+33,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,Net Banking,Cancelled,Website,Online Self,Ecom Express,2,,3800,3400,47.22,0,8064
+32,Kolkata,West Bengal,East,Beauty,Face Serum,SKU-BT-401,4,650,2600,FESTIVE15,15%,390,18,2210,397.8,UPI,Delivered,Website,Online Self,BlueDart,1,2.8,1000,1210,54.75,0,2607.8
+55,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,SAVE20,20%,3360,18,13440,2419.2,Debit Card,Returned,Amazon,Sneha Nair,Shadowfax,1,,10400,3040,22.62,0,15859.2
+65,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,WELCOME10,10%,150,18,1350,243,Debit Card,Delivered,Amazon,Priya Verma,Ecom Express,7,3.5,900,450,33.33,0,1593
+57,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,NONE,0%,0,18,6000,1080,Debit Card,Delivered,Flipkart,Priya Verma,Delhivery,4,2.7,3600,2400,40,0,7080
+21,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,FESTIVE15,15%,240,5,1360,68,Net Banking,Delivered,Flipkart,Amit Singh,Ecom Express,8,3.6,700,660,48.53,0,1428
+43,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,WELCOME10,10%,700,18,6300,1134,UPI,Delivered,Mobile App,Online Self,BlueDart,6,4.6,4200,2100,33.33,0,7434
+54,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,FESTIVE15,15%,1575,18,8925,1606.5,Debit Card,Delivered,Flipkart,Rahul Sharma,Shadowfax,2,4.1,6300,2625,29.41,0,10531.5
+19,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,NONE,0%,0,12,10000,1200,COD,Returned,Mobile App,Online Self,BlueDart,3,,4750,5250,52.5,0,11200
+31,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,WELCOME10,10%,150,18,1350,243,Net Banking,Cancelled,Mobile App,Online Self,BlueDart,4,,900,450,33.33,0,1593
+42,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,3,650,1950,SAVE20,20%,390,18,1560,280.8,Credit Card,Delivered,Website,Online Self,Ecom Express,5,5,750,810,51.92,0,1840.8
+38,Jaipur,Rajasthan,North,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,SAVE20,20%,160,5,640,32,COD,Delivered,Website,Online Self,XpressBees,3,2.7,350,290,45.31,50,722
+56,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,NONE,0%,0,18,3000,540,Net Banking,Delivered,Website,Online Self,Ecom Express,1,4.1,1800,1200,40,0,3540
+60,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,FESTIVE15,15%,1050,18,5950,1071,Debit Card,Delivered,Flipkart,Rahul Sharma,Shadowfax,6,4.5,4200,1750,29.41,0,7021
+46,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,FESTIVE15,15%,1890,18,10710,1927.8,Debit Card,Cancelled,Website,Online Self,Ecom Express,8,,7800,2910,27.17,0,12637.8
+57,Jaipur,Rajasthan,North,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,FESTIVE15,15%,225,18,1275,229.5,Credit Card,Delivered,Flipkart,Rahul Sharma,Shadowfax,3,4.9,900,375,29.41,0,1504.5
+44,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,SAVE20,20%,2800,18,11200,2016,Debit Card,Returned,Flipkart,Amit Singh,Ecom Express,5,,8400,2800,25,0,13216
+64,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,FESTIVE15,15%,450,18,2550,459,COD,Returned,Website,Online Self,Delhivery,5,,1800,750,29.41,0,3009
+20,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,WELCOME10,10%,600,12,5400,648,Debit Card,Delivered,Flipkart,Priya Verma,Delhivery,7,4.1,2850,2550,47.22,0,6048
+19,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,FESTIVE15,15%,1260,18,7140,1285.2,COD,Cancelled,Website,Online Self,XpressBees,4,,5200,1940,27.17,0,8425.2
+63,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,SAVE20,20%,1200,12,4800,576,COD,Delivered,Amazon,Priya Verma,BlueDart,3,3.3,2850,1950,40.62,0,5376
+35,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,FESTIVE15,15%,1890,18,10710,1927.8,Debit Card,Cancelled,Mobile App,Online Self,BlueDart,3,,7800,2910,27.17,0,12637.8
+54,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,SAVE20,20%,2800,18,11200,2016,Net Banking,Delivered,Website,Online Self,XpressBees,8,2.6,8400,2800,25,0,13216
+34,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,WELCOME10,10%,1750,18,15750,2835,Net Banking,Returned,Website,Online Self,Ecom Express,6,,10500,5250,33.33,0,18585
+35,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,SAVE20,20%,2000,12,8000,960,Credit Card,Delivered,Flipkart,Amit Singh,BlueDart,6,4.8,4750,3250,40.62,0,8960
+25,Jaipur,Rajasthan,North,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,NONE,0%,0,18,7500,1350,UPI,Delivered,Flipkart,Amit Singh,Shadowfax,3,2.9,4500,3000,40,0,8850
+56,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,SAVE20,20%,1200,12,4800,576,UPI,Cancelled,Website,Online Self,Delhivery,5,,2850,1950,40.62,0,5376
+61,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,4,650,2600,NONE,0%,0,18,2600,468,UPI,Cancelled,Amazon,Amit Singh,BlueDart,2,,1000,1600,61.54,0,3068
+60,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,Net Banking,Delivered,Mobile App,Online Self,XpressBees,3,4,5200,1520,22.62,0,7929.6
+22,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,FESTIVE15,15%,900,12,5100,612,Net Banking,Delivered,Website,Online Self,XpressBees,4,3.1,2850,2250,44.12,0,5712
+37,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,FESTIVE15,15%,1050,18,5950,1071,Net Banking,Delivered,Flipkart,Rahul Sharma,Shadowfax,6,4.7,4200,1750,29.41,0,7021
+38,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,WELCOME10,10%,240,5,2160,108,Net Banking,Delivered,Website,Online Self,Delhivery,8,4.5,1050,1110,51.39,0,2268
+50,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,FESTIVE15,15%,225,18,1275,229.5,Credit Card,Delivered,Website,Online Self,XpressBees,2,2.8,900,375,29.41,0,1504.5
+25,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,NONE,0%,0,18,14000,2520,UPI,Returned,Mobile App,Online Self,BlueDart,7,,8400,5600,40,0,16520
+35,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,WELCOME10,10%,1050,18,9450,1701,Credit Card,Cancelled,Website,Online Self,Shadowfax,6,,6300,3150,33.33,0,11151
+49,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,WELCOME10,10%,700,18,6300,1134,UPI,Returned,Flipkart,Sneha Nair,Shadowfax,8,,4200,2100,33.33,0,7434
+34,Delhi,Delhi,North,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,FESTIVE15,15%,120,5,680,34,UPI,Cancelled,Mobile App,Online Self,Shadowfax,1,,350,330,48.53,50,764
+40,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,WELCOME10,10%,600,12,5400,648,Credit Card,Returned,Website,Online Self,BlueDart,1,,2850,2550,47.22,0,6048
+56,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,SAVE20,20%,800,12,3200,384,UPI,Delivered,Website,Online Self,BlueDart,6,4.7,1900,1300,40.62,0,3584
+51,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,FESTIVE15,15%,1125,18,6375,1147.5,Credit Card,Returned,Amazon,Sneha Nair,Ecom Express,5,,4500,1875,29.41,0,7522.5
+46,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,FESTIVE15,15%,600,12,3400,408,COD,Returned,Amazon,Amit Singh,Shadowfax,6,,1900,1500,44.12,0,3808
+51,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,FESTIVE15,15%,1050,18,5950,1071,Credit Card,Delivered,Flipkart,Sneha Nair,Ecom Express,8,4.3,4200,1750,29.41,0,7021
+38,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,FESTIVE15,15%,1050,18,5950,1071,Credit Card,Delivered,Amazon,Priya Verma,Ecom Express,4,2.7,4200,1750,29.41,0,7021
+51,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,WELCOME10,10%,240,5,2160,108,Debit Card,Cancelled,Website,Online Self,Delhivery,3,,1050,1110,51.39,0,2268
+61,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,SAVE20,20%,1600,12,6400,768,UPI,Delivered,Amazon,Priya Verma,XpressBees,7,4.6,3800,2600,40.62,0,7168
+34,Kolkata,West Bengal,East,Beauty,Face Serum,SKU-BT-401,1,650,650,NONE,0%,0,18,650,117,Debit Card,Delivered,Website,Online Self,Shadowfax,3,2.9,250,400,61.54,50,817
+32,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,FESTIVE15,15%,630,18,3570,642.6,Net Banking,Delivered,Website,Online Self,XpressBees,8,4.2,2600,970,27.17,0,4212.6
+33,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,NONE,0%,0,18,16800,3024,Debit Card,Returned,Amazon,Rahul Sharma,Shadowfax,3,,10400,6400,38.1,0,19824
+61,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,WELCOME10,10%,1050,18,9450,1701,Net Banking,Delivered,Flipkart,Sneha Nair,XpressBees,4,3.4,6300,3150,33.33,0,11151
+61,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,SAVE20,20%,320,5,1280,64,Credit Card,Delivered,Amazon,Amit Singh,Delhivery,3,4.6,700,580,45.31,0,1344
+41,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,NONE,0%,0,18,7000,1260,UPI,Delivered,Website,Online Self,Ecom Express,7,3.6,4200,2800,40,0,8260
+24,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,5,650,3250,NONE,0%,0,18,3250,585,Credit Card,Returned,Mobile App,Online Self,Shadowfax,4,,1250,2000,61.54,0,3835
+43,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,4,650,2600,FESTIVE15,15%,390,18,2210,397.8,Debit Card,Delivered,Amazon,Amit Singh,BlueDart,6,3.5,1000,1210,54.75,0,2607.8
+60,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,NONE,0%,0,18,4200,756,COD,Cancelled,Amazon,Priya Verma,Shadowfax,7,,2600,1600,38.1,0,4956
+44,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,1,650,650,FESTIVE15,15%,97.5,18,552.5,99.45,COD,Delivered,Flipkart,Rahul Sharma,Shadowfax,5,2.7,250,302.5,54.75,50,701.95
+62,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,NONE,0%,0,18,4500,810,UPI,Delivered,Amazon,Rahul Sharma,Shadowfax,7,3.9,2700,1800,40,0,5310
+21,Delhi,Delhi,North,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,SAVE20,20%,160,5,640,32,COD,Cancelled,Mobile App,Online Self,XpressBees,6,,350,290,45.31,50,722
+30,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,4,650,2600,NONE,0%,0,18,2600,468,Net Banking,Delivered,Amazon,Amit Singh,Ecom Express,2,3.7,1000,1600,61.54,0,3068
+42,Pune,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,NONE,0%,0,12,2000,240,Credit Card,Delivered,Flipkart,Amit Singh,Delhivery,3,5,950,1050,52.5,0,2240
+49,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,WELCOME10,10%,350,18,3150,567,Net Banking,Delivered,Amazon,Rahul Sharma,BlueDart,2,3.8,2100,1050,33.33,0,3717
+50,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,WELCOME10,10%,150,18,1350,243,UPI,Delivered,Flipkart,Amit Singh,Ecom Express,1,3.7,900,450,33.33,0,1593
+40,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,5,650,3250,SAVE20,20%,650,18,2600,468,Credit Card,Cancelled,Amazon,Sneha Nair,Ecom Express,2,,1250,1350,51.92,0,3068
+63,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,FESTIVE15,15%,900,18,5100,918,UPI,Delivered,Flipkart,Amit Singh,XpressBees,6,3.5,3600,1500,29.41,0,6018
+20,Pune,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,FESTIVE15,15%,1200,12,6800,816,Net Banking,Returned,Flipkart,Priya Verma,Delhivery,4,,3800,3000,44.12,0,7616
+56,Chennai,Tamil Nadu,South,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,SAVE20,20%,480,5,1920,96,Net Banking,Returned,Website,Online Self,BlueDart,6,,1050,870,45.31,0,2016
+65,Kolkata,West Bengal,East,Beauty,Face Serum,SKU-BT-401,4,650,2600,FESTIVE15,15%,390,18,2210,397.8,UPI,Returned,Website,Online Self,BlueDart,3,,1000,1210,54.75,0,2607.8
+19,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,FESTIVE15,15%,300,12,1700,204,Net Banking,Returned,Mobile App,Online Self,Shadowfax,3,,950,750,44.12,0,1904
+37,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,FESTIVE15,15%,3150,18,17850,3213,Net Banking,Cancelled,Website,Online Self,BlueDart,3,,13000,4850,27.17,0,21063
+36,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,SAVE20,20%,600,18,2400,432,Net Banking,Returned,Mobile App,Online Self,Delhivery,2,,1800,600,25,0,2832
+46,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,SAVE20,20%,4200,18,16800,3024,COD,Delivered,Mobile App,Online Self,Shadowfax,4,3.4,13000,3800,22.62,0,19824
+37,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,NONE,0%,0,18,7500,1350,Net Banking,Cancelled,Website,Online Self,Ecom Express,7,,4500,3000,40,0,8850
+50,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,WELCOME10,10%,600,12,5400,648,UPI,Cancelled,Amazon,Sneha Nair,Ecom Express,8,,2850,2550,47.22,0,6048
+30,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,SAVE20,20%,2000,12,8000,960,Credit Card,Delivered,Website,Online Self,Shadowfax,7,2.8,4750,3250,40.62,0,8960
+58,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,SAVE20,20%,840,18,3360,604.8,Net Banking,Delivered,Website,Online Self,Delhivery,8,4.6,2600,760,22.62,0,3964.8
+54,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,SAVE20,20%,900,18,3600,648,Debit Card,Returned,Mobile App,Online Self,Delhivery,4,,2700,900,25,0,4248
+31,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,SAVE20,20%,3500,18,14000,2520,Debit Card,Delivered,Website,Online Self,Delhivery,7,3,10500,3500,25,0,16520
+28,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,SAVE20,20%,2100,18,8400,1512,COD,Delivered,Mobile App,Online Self,Delhivery,3,4.6,6300,2100,25,0,9912
+28,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,NONE,0%,0,12,6000,720,Debit Card,Returned,Mobile App,Online Self,BlueDart,1,,2850,3150,52.5,0,6720
+34,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,NONE,0%,0,12,4000,480,Debit Card,Delivered,Website,Online Self,BlueDart,4,2.8,1900,2100,52.5,0,4480
+18,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,FESTIVE15,15%,360,5,2040,102,Debit Card,Delivered,Flipkart,Sneha Nair,BlueDart,7,2.6,1050,990,48.53,0,2142
+49,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,SAVE20,20%,800,5,3200,160,COD,Delivered,Amazon,Priya Verma,Shadowfax,3,3.2,1750,1450,45.31,0,3360
+24,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,NONE,0%,0,18,16800,3024,Credit Card,Returned,Mobile App,Online Self,Ecom Express,3,,10400,6400,38.1,0,19824
+52,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,SAVE20,20%,300,18,1200,216,Credit Card,Returned,Amazon,Amit Singh,Shadowfax,7,,900,300,25,0,1416
+47,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,NONE,0%,0,18,14000,2520,COD,Delivered,Amazon,Rahul Sharma,Delhivery,7,4.1,8400,5600,40,0,16520
+52,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,2,650,1300,FESTIVE15,15%,195,18,1105,198.9,Debit Card,Delivered,Mobile App,Online Self,Shadowfax,8,4.1,500,605,54.75,0,1303.9
+60,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,SAVE20,20%,4200,18,16800,3024,Credit Card,Delivered,Website,Online Self,Delhivery,1,3.6,13000,3800,22.62,0,19824
+63,Mumbai,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,SAVE20,20%,160,5,640,32,UPI,Delivered,Mobile App,Online Self,XpressBees,1,4.9,350,290,45.31,50,722
+49,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,WELCOME10,10%,350,18,3150,567,UPI,Returned,Flipkart,Amit Singh,Ecom Express,2,,2100,1050,33.33,0,3717
+49,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,4,650,2600,SAVE20,20%,520,18,2080,374.4,Credit Card,Delivered,Website,Online Self,BlueDart,6,4.8,1000,1080,51.92,0,2454.4
+57,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,FESTIVE15,15%,360,5,2040,102,Credit Card,Delivered,Amazon,Priya Verma,Ecom Express,3,4.9,1050,990,48.53,0,2142
+62,Jaipur,Rajasthan,North,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,NONE,0%,0,18,3000,540,UPI,Delivered,Website,Online Self,Ecom Express,7,2.6,1800,1200,40,0,3540
+23,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,SAVE20,20%,2800,18,11200,2016,Credit Card,Delivered,Website,Online Self,Shadowfax,4,4.5,8400,2800,25,0,13216
+50,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,NONE,0%,0,12,4000,480,Debit Card,Cancelled,Mobile App,Online Self,XpressBees,3,,1900,2100,52.5,0,4480
+62,Kolkata,West Bengal,East,Beauty,Face Serum,SKU-BT-401,4,650,2600,FESTIVE15,15%,390,18,2210,397.8,Net Banking,Returned,Flipkart,Rahul Sharma,BlueDart,3,,1000,1210,54.75,0,2607.8
+21,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,NONE,0%,0,18,14000,2520,Credit Card,Delivered,Flipkart,Rahul Sharma,Ecom Express,3,3.6,8400,5600,40,0,16520
+27,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,FESTIVE15,15%,600,5,3400,170,COD,Returned,Website,Online Self,Delhivery,7,,1750,1650,48.53,0,3570
+47,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,NONE,0%,0,18,1500,270,Debit Card,Delivered,Mobile App,Online Self,Delhivery,2,3.1,900,600,40,0,1770
+42,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,FESTIVE15,15%,1575,18,8925,1606.5,COD,Cancelled,Website,Online Self,Ecom Express,6,,6300,2625,29.41,0,10531.5
+53,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,1,650,650,FESTIVE15,15%,97.5,18,552.5,99.45,Credit Card,Returned,Amazon,Rahul Sharma,Ecom Express,2,,250,302.5,54.75,50,701.95
+55,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,NONE,0%,0,12,8000,960,Credit Card,Delivered,Website,Online Self,XpressBees,3,3.6,3800,4200,52.5,0,8960
+32,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,2,650,1300,WELCOME10,10%,130,18,1170,210.6,Net Banking,Returned,Flipkart,Priya Verma,XpressBees,5,,500,670,57.26,0,1380.6
+21,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,NONE,0%,0,12,2000,240,Debit Card,Delivered,Website,Online Self,Shadowfax,1,3.5,950,1050,52.5,0,2240
+47,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,2,650,1300,SAVE20,20%,260,18,1040,187.2,UPI,Delivered,Mobile App,Online Self,Shadowfax,7,4.2,500,540,51.92,0,1227.2
+61,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,SAVE20,20%,1400,18,5600,1008,Debit Card,Cancelled,Website,Online Self,Shadowfax,7,,4200,1400,25,0,6608
+28,Chennai,Tamil Nadu,South,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,SAVE20,20%,320,5,1280,64,Net Banking,Returned,Mobile App,Online Self,Delhivery,6,,700,580,45.31,0,1344
+49,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,SAVE20,20%,480,5,1920,96,Net Banking,Delivered,Mobile App,Online Self,Ecom Express,8,4,1050,870,45.31,0,2016
+48,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,SAVE20,20%,480,5,1920,96,Debit Card,Cancelled,Amazon,Rahul Sharma,Shadowfax,1,,1050,870,45.31,0,2016
+34,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,WELCOME10,10%,700,18,6300,1134,Credit Card,Delivered,Flipkart,Priya Verma,Delhivery,5,4,4200,2100,33.33,0,7434
+57,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,2,650,1300,FESTIVE15,15%,195,18,1105,198.9,Net Banking,Delivered,Website,Online Self,Ecom Express,7,2.9,500,605,54.75,0,1303.9
+62,Delhi,Delhi,North,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,NONE,0%,0,5,1600,80,COD,Delivered,Website,Online Self,XpressBees,3,4.8,700,900,56.25,0,1680
+57,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,NONE,0%,0,18,16800,3024,UPI,Delivered,Mobile App,Online Self,Delhivery,8,3.6,10400,6400,38.1,0,19824
+25,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,NONE,0%,0,18,10500,1890,Credit Card,Delivered,Website,Online Self,XpressBees,4,4.3,6300,4200,40,0,12390
+61,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,WELCOME10,10%,1050,18,9450,1701,UPI,Returned,Amazon,Rahul Sharma,XpressBees,6,,6300,3150,33.33,0,11151
+63,Delhi,Delhi,North,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,SAVE20,20%,480,5,1920,96,Credit Card,Delivered,Flipkart,Sneha Nair,Shadowfax,4,3.6,1050,870,45.31,0,2016
+41,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,FESTIVE15,15%,600,12,3400,408,COD,Returned,Flipkart,Amit Singh,Delhivery,6,,1900,1500,44.12,0,3808
+34,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,3,650,1950,NONE,0%,0,18,1950,351,Debit Card,Returned,Amazon,Amit Singh,XpressBees,6,,750,1200,61.54,0,2301
+49,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,WELCOME10,10%,320,5,2880,144,Credit Card,Delivered,Website,Online Self,BlueDart,8,4.4,1400,1480,51.39,0,3024
+64,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,1,650,650,SAVE20,20%,130,18,520,93.6,Debit Card,Delivered,Amazon,Amit Singh,Ecom Express,2,4.6,250,270,51.92,50,663.6
+29,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,WELCOME10,10%,750,18,6750,1215,Debit Card,Delivered,Amazon,Sneha Nair,Delhivery,5,4.3,4500,2250,33.33,0,7965
+25,Chennai,Tamil Nadu,South,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,NONE,0%,0,5,4000,200,Debit Card,Delivered,Flipkart,Amit Singh,Ecom Express,2,4.8,1750,2250,56.25,0,4200
+21,Chennai,Tamil Nadu,South,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,WELCOME10,10%,750,18,6750,1215,Net Banking,Delivered,Website,Online Self,Delhivery,8,3.3,4500,2250,33.33,0,7965
+64,Mumbai,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,FESTIVE15,15%,3150,18,17850,3213,UPI,Cancelled,Mobile App,Online Self,Delhivery,5,,13000,4850,27.17,0,21063
+31,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,WELCOME10,10%,400,12,3600,432,COD,Cancelled,Mobile App,Online Self,Delhivery,2,,1900,1700,47.22,0,4032
+23,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,Net Banking,Returned,Mobile App,Online Self,Shadowfax,6,,3800,3400,47.22,0,8064
+43,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,WELCOME10,10%,1050,18,9450,1701,Debit Card,Returned,Amazon,Amit Singh,Delhivery,6,,6300,3150,33.33,0,11151
+65,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,FESTIVE15,15%,480,5,2720,136,Debit Card,Cancelled,Flipkart,Amit Singh,XpressBees,6,,1400,1320,48.53,0,2856
+43,Kolkata,West Bengal,East,Beauty,Face Serum,SKU-BT-401,5,650,3250,NONE,0%,0,18,3250,585,Debit Card,Delivered,Mobile App,Online Self,Delhivery,8,3.7,1250,2000,61.54,0,3835
+25,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,FESTIVE15,15%,1200,12,6800,816,Credit Card,Returned,Mobile App,Online Self,Delhivery,7,,3800,3000,44.12,0,7616
+33,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,2,650,1300,WELCOME10,10%,130,18,1170,210.6,COD,Cancelled,Flipkart,Sneha Nair,Shadowfax,6,,500,670,57.26,0,1380.6
+36,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,SAVE20,20%,3360,18,13440,2419.2,Debit Card,Cancelled,Website,Online Self,BlueDart,6,,10400,3040,22.62,0,15859.2
+42,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,2,650,1300,NONE,0%,0,18,1300,234,Credit Card,Delivered,Mobile App,Online Self,BlueDart,2,3.7,500,800,61.54,0,1534
+43,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,1,650,650,WELCOME10,10%,65,18,585,105.3,Debit Card,Delivered,Amazon,Amit Singh,BlueDart,5,4.6,250,335,57.26,50,740.3
+36,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,FESTIVE15,15%,600,12,3400,408,UPI,Delivered,Amazon,Sneha Nair,Delhivery,6,3.8,1900,1500,44.12,0,3808
+23,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,SAVE20,20%,2100,18,8400,1512,Net Banking,Returned,Website,Online Self,Ecom Express,2,,6300,2100,25,0,9912
+62,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,1,650,650,WELCOME10,10%,65,18,585,105.3,Net Banking,Cancelled,Mobile App,Online Self,Ecom Express,1,,250,335,57.26,50,740.3
+35,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,4,650,2600,SAVE20,20%,520,18,2080,374.4,Debit Card,Delivered,Flipkart,Amit Singh,Delhivery,2,4.1,1000,1080,51.92,0,2454.4
+56,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,NONE,0%,0,18,4500,810,Net Banking,Delivered,Mobile App,Online Self,BlueDart,5,3,2700,1800,40,0,5310
+57,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,FESTIVE15,15%,675,18,3825,688.5,Credit Card,Delivered,Flipkart,Sneha Nair,Delhivery,3,3,2700,1125,29.41,0,4513.5
+26,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,FESTIVE15,15%,900,18,5100,918,Debit Card,Delivered,Mobile App,Online Self,BlueDart,3,3,3600,1500,29.41,0,6018
+38,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,1,650,650,FESTIVE15,15%,97.5,18,552.5,99.45,Net Banking,Delivered,Flipkart,Priya Verma,Delhivery,3,3.5,250,302.5,54.75,50,701.95
+64,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,WELCOME10,10%,700,18,6300,1134,Debit Card,Cancelled,Flipkart,Sneha Nair,Shadowfax,4,,4200,2100,33.33,0,7434
+59,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,NONE,0%,0,18,10500,1890,Credit Card,Cancelled,Flipkart,Amit Singh,XpressBees,4,,6300,4200,40,0,12390
+23,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,SAVE20,20%,160,5,640,32,COD,Delivered,Website,Online Self,BlueDart,3,4.7,350,290,45.31,50,722
+27,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,NONE,0%,0,12,8000,960,UPI,Returned,Website,Online Self,Shadowfax,7,,3800,4200,52.5,0,8960
+31,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,FESTIVE15,15%,525,18,2975,535.5,Net Banking,Returned,Amazon,Rahul Sharma,Delhivery,8,,2100,875,29.41,0,3510.5
+57,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,FESTIVE15,15%,1125,18,6375,1147.5,Debit Card,Delivered,Amazon,Amit Singh,Shadowfax,4,4,4500,1875,29.41,0,7522.5
+23,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,1,650,650,NONE,0%,0,18,650,117,UPI,Returned,Amazon,Rahul Sharma,Ecom Express,7,,250,400,61.54,50,817
+25,Jaipur,Rajasthan,North,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,FESTIVE15,15%,480,5,2720,136,UPI,Returned,Website,Online Self,Ecom Express,1,,1400,1320,48.53,0,2856
+23,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,FESTIVE15,15%,360,5,2040,102,Credit Card,Delivered,Mobile App,Online Self,BlueDart,1,4.2,1050,990,48.53,0,2142
+30,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,WELCOME10,10%,600,18,5400,972,Debit Card,Cancelled,Mobile App,Online Self,Shadowfax,2,,3600,1800,33.33,0,6372
+58,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,NONE,0%,0,18,12600,2268,Net Banking,Delivered,Website,Online Self,Ecom Express,6,4.3,7800,4800,38.1,0,14868
+54,Mumbai,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,FESTIVE15,15%,120,5,680,34,UPI,Cancelled,Flipkart,Rahul Sharma,Delhivery,4,,350,330,48.53,50,764
+56,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,WELCOME10,10%,80,5,720,36,UPI,Cancelled,Website,Online Self,Shadowfax,2,,350,370,51.39,50,806
+54,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,SAVE20,20%,1200,18,4800,864,COD,Delivered,Mobile App,Online Self,Shadowfax,1,2.9,3600,1200,25,0,5664
+38,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,FESTIVE15,15%,2625,18,14875,2677.5,Credit Card,Delivered,Amazon,Rahul Sharma,XpressBees,3,3,10500,4375,29.41,0,17552.5
+18,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,FESTIVE15,15%,675,18,3825,688.5,Credit Card,Delivered,Flipkart,Amit Singh,Shadowfax,2,4,2700,1125,29.41,0,4513.5
+58,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,Credit Card,Returned,Flipkart,Rahul Sharma,XpressBees,5,,8400,4200,33.33,0,14868
+63,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,NONE,0%,0,18,4500,810,Credit Card,Delivered,Flipkart,Rahul Sharma,BlueDart,1,3.1,2700,1800,40,0,5310
+44,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,3,650,1950,SAVE20,20%,390,18,1560,280.8,Debit Card,Delivered,Mobile App,Online Self,Shadowfax,5,4.8,750,810,51.92,0,1840.8
+39,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,3,650,1950,WELCOME10,10%,195,18,1755,315.9,Credit Card,Delivered,Flipkart,Priya Verma,Ecom Express,5,3.9,750,1005,57.26,0,2070.9
+38,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,FESTIVE15,15%,2520,18,14280,2570.4,COD,Cancelled,Flipkart,Priya Verma,Shadowfax,1,,10400,3880,27.17,0,16850.4
+30,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,3,650,1950,WELCOME10,10%,195,18,1755,315.9,COD,Returned,Amazon,Sneha Nair,BlueDart,1,,750,1005,57.26,0,2070.9
+56,Kolkata,West Bengal,East,Beauty,Face Serum,SKU-BT-401,1,650,650,FESTIVE15,15%,97.5,18,552.5,99.45,UPI,Cancelled,Flipkart,Amit Singh,Shadowfax,4,,250,302.5,54.75,50,701.95
+62,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,1,650,650,FESTIVE15,15%,97.5,18,552.5,99.45,Net Banking,Delivered,Flipkart,Amit Singh,XpressBees,5,3.3,250,302.5,54.75,50,701.95
+48,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,WELCOME10,10%,320,5,2880,144,COD,Delivered,Mobile App,Online Self,Delhivery,6,3.9,1400,1480,51.39,0,3024
+20,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,NONE,0%,0,18,4500,810,Credit Card,Delivered,Amazon,Rahul Sharma,BlueDart,8,3.4,2700,1800,40,0,5310
+43,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,FESTIVE15,15%,600,5,3400,170,COD,Returned,Mobile App,Online Self,Ecom Express,8,,1750,1650,48.53,0,3570
+60,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,SAVE20,20%,800,12,3200,384,Debit Card,Delivered,Amazon,Priya Verma,XpressBees,2,3.6,1900,1300,40.62,0,3584
+21,Chennai,Tamil Nadu,South,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,WELCOME10,10%,160,5,1440,72,Credit Card,Delivered,Amazon,Priya Verma,Shadowfax,6,3,700,740,51.39,0,1512
+31,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,WELCOME10,10%,300,18,2700,486,Net Banking,Delivered,Flipkart,Priya Verma,Ecom Express,8,4.4,1800,900,33.33,0,3186
+39,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,WELCOME10,10%,2100,18,18900,3402,Debit Card,Cancelled,Website,Online Self,Shadowfax,8,,13000,5900,31.22,0,22302
+56,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,5,650,3250,FESTIVE15,15%,487.5,18,2762.5,497.25,Debit Card,Delivered,Website,Online Self,Shadowfax,6,3.2,1250,1512.5,54.75,0,3259.75
+36,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,Debit Card,Delivered,Website,Online Self,BlueDart,6,2.6,5200,1520,22.62,0,7929.6
+44,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,WELCOME10,10%,400,5,3600,180,Credit Card,Cancelled,Amazon,Rahul Sharma,Ecom Express,8,,1750,1850,51.39,0,3780
+23,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,FESTIVE15,15%,1200,12,6800,816,Credit Card,Delivered,Website,Online Self,BlueDart,3,2.7,3800,3000,44.12,0,7616
+40,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,FESTIVE15,15%,120,5,680,34,UPI,Delivered,Flipkart,Rahul Sharma,Shadowfax,5,2.7,350,330,48.53,50,764
+52,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,SAVE20,20%,1200,18,4800,864,Credit Card,Returned,Flipkart,Sneha Nair,XpressBees,4,,3600,1200,25,0,5664
+35,Mumbai,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,SAVE20,20%,480,5,1920,96,Credit Card,Returned,Amazon,Rahul Sharma,Shadowfax,3,,1050,870,45.31,0,2016
+31,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,WELCOME10,10%,1750,18,15750,2835,Debit Card,Delivered,Website,Online Self,Delhivery,7,3,10500,5250,33.33,0,18585
+51,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,NONE,0%,0,5,2400,120,Debit Card,Delivered,Mobile App,Online Self,XpressBees,7,4.4,1050,1350,56.25,0,2520
+24,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,NONE,0%,0,18,3500,630,Net Banking,Cancelled,Amazon,Amit Singh,BlueDart,4,,2100,1400,40,0,4130
+53,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,WELCOME10,10%,1050,18,9450,1701,COD,Cancelled,Flipkart,Sneha Nair,Ecom Express,7,,6300,3150,33.33,0,11151
+34,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,NONE,0%,0,12,10000,1200,COD,Cancelled,Mobile App,Online Self,Shadowfax,7,,4750,5250,52.5,0,11200
+50,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,WELCOME10,10%,600,12,5400,648,Debit Card,Delivered,Website,Online Self,Shadowfax,1,3.4,2850,2550,47.22,0,6048
+60,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,SAVE20,20%,2100,18,8400,1512,Debit Card,Returned,Website,Online Self,Ecom Express,8,,6300,2100,25,0,9912
+41,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,WELCOME10,10%,840,18,7560,1360.8,Debit Card,Delivered,Mobile App,Online Self,Ecom Express,1,4.3,5200,2360,31.22,0,8920.8
+31,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,3,650,1950,FESTIVE15,15%,292.5,18,1657.5,298.35,Net Banking,Delivered,Website,Online Self,Shadowfax,5,3.9,750,907.5,54.75,0,1955.85
+44,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,FESTIVE15,15%,120,5,680,34,Debit Card,Returned,Amazon,Priya Verma,Delhivery,5,,350,330,48.53,50,764
+25,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,FESTIVE15,15%,900,12,5100,612,COD,Returned,Website,Online Self,Shadowfax,1,,2850,2250,44.12,0,5712
+62,Chennai,Tamil Nadu,South,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,FESTIVE15,15%,225,18,1275,229.5,UPI,Cancelled,Website,Online Self,Ecom Express,8,,900,375,29.41,0,1504.5
+44,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,NONE,0%,0,12,6000,720,COD,Cancelled,Amazon,Sneha Nair,Ecom Express,5,,2850,3150,52.5,0,6720
+53,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,FESTIVE15,15%,2100,18,11900,2142,Net Banking,Returned,Website,Online Self,Shadowfax,2,,8400,3500,29.41,0,14042
+58,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,FESTIVE15,15%,2625,18,14875,2677.5,Net Banking,Returned,Mobile App,Online Self,BlueDart,1,,10500,4375,29.41,0,17552.5
+48,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,3,650,1950,WELCOME10,10%,195,18,1755,315.9,Credit Card,Delivered,Mobile App,Online Self,Delhivery,4,4.1,750,1005,57.26,0,2070.9
+29,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,WELCOME10,10%,840,18,7560,1360.8,Debit Card,Delivered,Website,Online Self,BlueDart,8,4.8,5200,2360,31.22,0,8920.8
+24,Kolkata,West Bengal,East,Beauty,Face Serum,SKU-BT-401,1,650,650,FESTIVE15,15%,97.5,18,552.5,99.45,UPI,Delivered,Flipkart,Sneha Nair,Delhivery,5,4.9,250,302.5,54.75,50,701.95
+26,Delhi,Delhi,North,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,NONE,0%,0,5,1600,80,UPI,Delivered,Website,Online Self,Delhivery,6,4.6,700,900,56.25,0,1680
+62,Kolkata,West Bengal,East,Beauty,Face Serum,SKU-BT-401,4,650,2600,NONE,0%,0,18,2600,468,Credit Card,Delivered,Mobile App,Online Self,XpressBees,6,4,1000,1600,61.54,0,3068
+34,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,NONE,0%,0,12,4000,480,Debit Card,Delivered,Website,Online Self,BlueDart,1,3.4,1900,2100,52.5,0,4480
+28,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,Debit Card,Delivered,Website,Online Self,Delhivery,8,4,3800,3400,47.22,0,8064
+25,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,1,650,650,WELCOME10,10%,65,18,585,105.3,Debit Card,Delivered,Amazon,Rahul Sharma,BlueDart,8,4.6,250,335,57.26,50,740.3
+61,Delhi,Delhi,North,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,FESTIVE15,15%,360,5,2040,102,Debit Card,Cancelled,Mobile App,Online Self,Ecom Express,7,,1050,990,48.53,0,2142
+41,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,FESTIVE15,15%,1500,12,8500,1020,Debit Card,Delivered,Flipkart,Amit Singh,Shadowfax,4,3.8,4750,3750,44.12,0,9520
+45,Pune,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,NONE,0%,0,12,2000,240,COD,Delivered,Amazon,Sneha Nair,Shadowfax,8,3.9,950,1050,52.5,0,2240
+22,Pune,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,NONE,0%,0,12,4000,480,Debit Card,Returned,Amazon,Rahul Sharma,Shadowfax,8,,1900,2100,52.5,0,4480
+48,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,SAVE20,20%,800,12,3200,384,Credit Card,Returned,Mobile App,Online Self,Ecom Express,6,,1900,1300,40.62,0,3584
+49,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,SAVE20,20%,800,12,3200,384,UPI,Delivered,Flipkart,Priya Verma,Ecom Express,8,4.5,1900,1300,40.62,0,3584
+62,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,SAVE20,20%,2800,18,11200,2016,COD,Delivered,Website,Online Self,BlueDart,6,2.8,8400,2800,25,0,13216
+46,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,4,650,2600,NONE,0%,0,18,2600,468,COD,Delivered,Website,Online Self,XpressBees,7,4.4,1000,1600,61.54,0,3068
+32,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,FESTIVE15,15%,120,5,680,34,Net Banking,Returned,Amazon,Sneha Nair,BlueDart,4,,350,330,48.53,50,764
+60,Pune,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,NONE,0%,0,12,10000,1200,Net Banking,Returned,Flipkart,Amit Singh,Delhivery,3,,4750,5250,52.5,0,11200
+53,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,Net Banking,Cancelled,Website,Online Self,Ecom Express,2,,3800,3400,47.22,0,8064
+30,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,WELCOME10,10%,840,18,7560,1360.8,Credit Card,Delivered,Flipkart,Amit Singh,Shadowfax,4,3,5200,2360,31.22,0,8920.8
+53,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,WELCOME10,10%,1680,18,15120,2721.6,Credit Card,Cancelled,Website,Online Self,BlueDart,2,,10400,4720,31.22,0,17841.6
+38,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,WELCOME10,10%,300,18,2700,486,UPI,Delivered,Flipkart,Amit Singh,XpressBees,4,2.5,1800,900,33.33,0,3186
+64,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,SAVE20,20%,3360,18,13440,2419.2,Net Banking,Delivered,Mobile App,Online Self,BlueDart,5,2.6,10400,3040,22.62,0,15859.2
+19,Mumbai,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,SAVE20,20%,2520,18,10080,1814.4,Net Banking,Delivered,Flipkart,Amit Singh,BlueDart,4,3.7,7800,2280,22.62,0,11894.4
+40,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,NONE,0%,0,18,10500,1890,Credit Card,Cancelled,Mobile App,Online Self,XpressBees,3,,6300,4200,40,0,12390
+63,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,NONE,0%,0,18,3500,630,UPI,Delivered,Mobile App,Online Self,Ecom Express,5,4.5,2100,1400,40,0,4130
+45,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,WELCOME10,10%,1050,18,9450,1701,Net Banking,Delivered,Flipkart,Priya Verma,XpressBees,7,4.6,6300,3150,33.33,0,11151
+55,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,WELCOME10,10%,240,5,2160,108,Debit Card,Delivered,Amazon,Priya Verma,Ecom Express,6,3.7,1050,1110,51.39,0,2268
+52,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,1,650,650,FESTIVE15,15%,97.5,18,552.5,99.45,Net Banking,Delivered,Flipkart,Rahul Sharma,Shadowfax,4,2.7,250,302.5,54.75,50,701.95
+50,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,NONE,0%,0,18,7000,1260,COD,Returned,Flipkart,Sneha Nair,BlueDart,2,,4200,2800,40,0,8260
+28,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,SAVE20,20%,800,12,3200,384,Debit Card,Delivered,Mobile App,Online Self,Shadowfax,7,3.9,1900,1300,40.62,0,3584
+27,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,WELCOME10,10%,1000,12,9000,1080,UPI,Cancelled,Amazon,Amit Singh,XpressBees,4,,4750,4250,47.22,0,10080
+21,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,SAVE20,20%,700,18,2800,504,Debit Card,Delivered,Flipkart,Sneha Nair,XpressBees,4,3.6,2100,700,25,0,3304
+61,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,NONE,0%,0,18,12600,2268,Net Banking,Delivered,Flipkart,Priya Verma,Delhivery,5,2.7,7800,4800,38.1,0,14868
+64,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,NONE,0%,0,18,16800,3024,UPI,Delivered,Mobile App,Online Self,Shadowfax,7,3.8,10400,6400,38.1,0,19824
+24,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,NONE,0%,0,18,3500,630,Credit Card,Delivered,Amazon,Rahul Sharma,Delhivery,3,2.8,2100,1400,40,0,4130
+38,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,SAVE20,20%,2520,18,10080,1814.4,UPI,Returned,Amazon,Amit Singh,Ecom Express,8,,7800,2280,22.62,0,11894.4
+52,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,SAVE20,20%,400,12,1600,192,COD,Delivered,Flipkart,Priya Verma,XpressBees,1,4.3,950,650,40.62,0,1792
+44,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,FESTIVE15,15%,900,18,5100,918,Debit Card,Delivered,Flipkart,Priya Verma,BlueDart,5,3.7,3600,1500,29.41,0,6018
+43,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,5,650,3250,WELCOME10,10%,325,18,2925,526.5,COD,Delivered,Amazon,Priya Verma,Ecom Express,1,2.7,1250,1675,57.26,0,3451.5
+34,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,5,650,3250,WELCOME10,10%,325,18,2925,526.5,UPI,Delivered,Amazon,Priya Verma,XpressBees,8,2.9,1250,1675,57.26,0,3451.5
+32,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,WELCOME10,10%,700,18,6300,1134,UPI,Cancelled,Mobile App,Online Self,Delhivery,7,,4200,2100,33.33,0,7434
+63,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,5,650,3250,FESTIVE15,15%,487.5,18,2762.5,497.25,COD,Delivered,Amazon,Amit Singh,Shadowfax,4,4,1250,1512.5,54.75,0,3259.75
+19,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,2,650,1300,NONE,0%,0,18,1300,234,COD,Cancelled,Amazon,Rahul Sharma,BlueDart,2,,500,800,61.54,0,1534
+53,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,FESTIVE15,15%,300,12,1700,204,Net Banking,Delivered,Amazon,Rahul Sharma,XpressBees,4,3.1,950,750,44.12,0,1904
+30,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,SAVE20,20%,2100,18,8400,1512,Credit Card,Returned,Amazon,Rahul Sharma,Ecom Express,2,,6300,2100,25,0,9912
+52,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,3,650,1950,SAVE20,20%,390,18,1560,280.8,Credit Card,Returned,Amazon,Sneha Nair,Delhivery,4,,750,810,51.92,0,1840.8
+37,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,FESTIVE15,15%,1125,18,6375,1147.5,UPI,Delivered,Flipkart,Sneha Nair,Ecom Express,5,4.7,4500,1875,29.41,0,7522.5
+39,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,NONE,0%,0,18,6000,1080,UPI,Cancelled,Website,Online Self,Delhivery,7,,3600,2400,40,0,7080
+55,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,FESTIVE15,15%,525,18,2975,535.5,COD,Returned,Amazon,Sneha Nair,BlueDart,2,,2100,875,29.41,0,3510.5
+52,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,FESTIVE15,15%,600,12,3400,408,UPI,Returned,Mobile App,Online Self,XpressBees,1,,1900,1500,44.12,0,3808
+53,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,FESTIVE15,15%,600,12,3400,408,Net Banking,Delivered,Website,Online Self,XpressBees,7,2.9,1900,1500,44.12,0,3808
+41,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,WELCOME10,10%,600,18,5400,972,UPI,Delivered,Website,Online Self,Delhivery,7,4.6,3600,1800,33.33,0,6372
+47,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,1,650,650,WELCOME10,10%,65,18,585,105.3,COD,Delivered,Mobile App,Online Self,Delhivery,4,3.9,250,335,57.26,50,740.3
+20,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,WELCOME10,10%,150,18,1350,243,UPI,Cancelled,Website,Online Self,Shadowfax,6,,900,450,33.33,0,1593
+32,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,2,650,1300,FESTIVE15,15%,195,18,1105,198.9,Debit Card,Cancelled,Website,Online Self,Ecom Express,8,,500,605,54.75,0,1303.9
+43,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,FESTIVE15,15%,1200,12,6800,816,Net Banking,Delivered,Amazon,Priya Verma,BlueDart,1,4.7,3800,3000,44.12,0,7616
+62,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,Net Banking,Delivered,Amazon,Sneha Nair,XpressBees,1,4.1,3800,3400,47.22,0,8064
+44,Chennai,Tamil Nadu,South,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,WELCOME10,10%,300,18,2700,486,COD,Returned,Flipkart,Sneha Nair,Ecom Express,2,,1800,900,33.33,0,3186
+24,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,FESTIVE15,15%,1260,18,7140,1285.2,Net Banking,Delivered,Flipkart,Amit Singh,Shadowfax,5,3.4,5200,1940,27.17,0,8425.2
+65,Jaipur,Rajasthan,North,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,SAVE20,20%,800,5,3200,160,COD,Cancelled,Amazon,Rahul Sharma,BlueDart,8,,1750,1450,45.31,0,3360
+20,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,WELCOME10,10%,420,18,3780,680.4,UPI,Cancelled,Mobile App,Online Self,Shadowfax,7,,2600,1180,31.22,0,4460.4
+59,Jaipur,Rajasthan,North,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,SAVE20,20%,800,5,3200,160,UPI,Delivered,Flipkart,Amit Singh,XpressBees,8,4.4,1750,1450,45.31,0,3360
+18,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,WELCOME10,10%,300,18,2700,486,UPI,Returned,Amazon,Rahul Sharma,Delhivery,6,,1800,900,33.33,0,3186
+38,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,3,650,1950,FESTIVE15,15%,292.5,18,1657.5,298.35,UPI,Returned,Mobile App,Online Self,XpressBees,8,,750,907.5,54.75,0,1955.85
+31,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,5,650,3250,NONE,0%,0,18,3250,585,Credit Card,Returned,Website,Online Self,Shadowfax,8,,1250,2000,61.54,0,3835
+49,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,SAVE20,20%,1200,18,4800,864,Net Banking,Delivered,Flipkart,Priya Verma,XpressBees,2,3.1,3600,1200,25,0,5664
+58,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,FESTIVE15,15%,1890,18,10710,1927.8,Debit Card,Returned,Mobile App,Online Self,BlueDart,1,,7800,2910,27.17,0,12637.8
+56,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,5,650,3250,WELCOME10,10%,325,18,2925,526.5,UPI,Delivered,Website,Online Self,Shadowfax,7,4.3,1250,1675,57.26,0,3451.5
+54,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,SAVE20,20%,900,18,3600,648,Net Banking,Delivered,Amazon,Priya Verma,BlueDart,7,3.5,2700,900,25,0,4248
+22,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,FESTIVE15,15%,300,12,1700,204,UPI,Delivered,Mobile App,Online Self,Ecom Express,5,3,950,750,44.12,0,1904
+20,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,5,650,3250,NONE,0%,0,18,3250,585,Credit Card,Delivered,Flipkart,Amit Singh,Shadowfax,1,4.4,1250,2000,61.54,0,3835
+35,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,FESTIVE15,15%,225,18,1275,229.5,Credit Card,Returned,Flipkart,Rahul Sharma,Shadowfax,1,,900,375,29.41,0,1504.5
+47,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,FESTIVE15,15%,675,18,3825,688.5,UPI,Cancelled,Amazon,Rahul Sharma,Shadowfax,7,,2700,1125,29.41,0,4513.5
+40,Jaipur,Rajasthan,North,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,SAVE20,20%,800,5,3200,160,Credit Card,Delivered,Website,Online Self,XpressBees,3,3.2,1750,1450,45.31,0,3360
+24,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,FESTIVE15,15%,225,18,1275,229.5,COD,Delivered,Website,Online Self,XpressBees,8,4.6,900,375,29.41,0,1504.5
+29,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,FESTIVE15,15%,1260,18,7140,1285.2,UPI,Cancelled,Website,Online Self,BlueDart,8,,5200,1940,27.17,0,8425.2
+35,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,WELCOME10,10%,300,18,2700,486,Credit Card,Delivered,Website,Online Self,Shadowfax,3,3.4,1800,900,33.33,0,3186
+33,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,5,650,3250,FESTIVE15,15%,487.5,18,2762.5,497.25,Net Banking,Cancelled,Flipkart,Sneha Nair,Ecom Express,3,,1250,1512.5,54.75,0,3259.75
+25,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,Debit Card,Cancelled,Amazon,Amit Singh,BlueDart,3,,5200,1520,22.62,0,7929.6
+61,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,FESTIVE15,15%,1575,18,8925,1606.5,Credit Card,Delivered,Amazon,Rahul Sharma,BlueDart,4,2.7,6300,2625,29.41,0,10531.5
+38,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,SAVE20,20%,2100,18,8400,1512,Net Banking,Delivered,Website,Online Self,Delhivery,5,3.4,6300,2100,25,0,9912
+55,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,WELCOME10,10%,1680,18,15120,2721.6,UPI,Cancelled,Amazon,Priya Verma,BlueDart,7,,10400,4720,31.22,0,17841.6
+47,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,SAVE20,20%,640,5,2560,128,COD,Cancelled,Flipkart,Amit Singh,BlueDart,7,,1400,1160,45.31,0,2688
+20,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,NONE,0%,0,18,7000,1260,UPI,Delivered,Flipkart,Amit Singh,Delhivery,8,4.2,4200,2800,40,0,8260
+36,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,SAVE20,20%,1400,18,5600,1008,COD,Delivered,Amazon,Amit Singh,Shadowfax,5,4.4,4200,1400,25,0,6608
+39,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,WELCOME10,10%,80,5,720,36,Credit Card,Returned,Flipkart,Sneha Nair,Delhivery,7,,350,370,51.39,50,806
+30,Chennai,Tamil Nadu,South,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,NONE,0%,0,18,7500,1350,COD,Delivered,Mobile App,Online Self,XpressBees,3,4.9,4500,3000,40,0,8850
+28,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,SAVE20,20%,2800,18,11200,2016,Credit Card,Delivered,Amazon,Rahul Sharma,Ecom Express,1,4.9,8400,2800,25,0,13216
+64,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,FESTIVE15,15%,1050,18,5950,1071,Debit Card,Delivered,Flipkart,Sneha Nair,BlueDart,3,4.2,4200,1750,29.41,0,7021
+27,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,WELCOME10,10%,800,12,7200,864,Net Banking,Delivered,Flipkart,Sneha Nair,XpressBees,8,4.8,3800,3400,47.22,0,8064
+32,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,FESTIVE15,15%,120,5,680,34,Debit Card,Returned,Website,Online Self,Shadowfax,4,,350,330,48.53,50,764
+44,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,SAVE20,20%,300,18,1200,216,UPI,Returned,Website,Online Self,Delhivery,5,,900,300,25,0,1416
+36,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,1,650,650,WELCOME10,10%,65,18,585,105.3,COD,Cancelled,Website,Online Self,BlueDart,8,,250,335,57.26,50,740.3
+38,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,WELCOME10,10%,1750,18,15750,2835,Credit Card,Delivered,Flipkart,Sneha Nair,BlueDart,7,3.9,10500,5250,33.33,0,18585
+20,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,5,650,3250,SAVE20,20%,650,18,2600,468,Net Banking,Delivered,Website,Online Self,BlueDart,8,4.7,1250,1350,51.92,0,3068
+23,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,SAVE20,20%,1200,12,4800,576,UPI,Cancelled,Flipkart,Priya Verma,Shadowfax,2,,2850,1950,40.62,0,5376
+41,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,SAVE20,20%,2520,18,10080,1814.4,Credit Card,Delivered,Mobile App,Online Self,Delhivery,5,4.8,7800,2280,22.62,0,11894.4
+26,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,1,650,650,SAVE20,20%,130,18,520,93.6,UPI,Returned,Website,Online Self,Delhivery,6,,250,270,51.92,50,663.6
+49,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,1,650,650,NONE,0%,0,18,650,117,UPI,Delivered,Mobile App,Online Self,XpressBees,2,5,250,400,61.54,50,817
+51,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,4,650,2600,FESTIVE15,15%,390,18,2210,397.8,UPI,Delivered,Flipkart,Sneha Nair,Ecom Express,8,3.5,1000,1210,54.75,0,2607.8
+57,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,SAVE20,20%,1200,18,4800,864,Debit Card,Returned,Flipkart,Priya Verma,Shadowfax,4,,3600,1200,25,0,5664
+45,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,FESTIVE15,15%,1200,12,6800,816,Net Banking,Returned,Flipkart,Rahul Sharma,BlueDart,1,,3800,3000,44.12,0,7616
+45,Bengaluru,Karnataka,South,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,NONE,0%,0,5,3200,160,Credit Card,Delivered,Amazon,Sneha Nair,Delhivery,3,5,1400,1800,56.25,0,3360
+22,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,WELCOME10,10%,450,18,4050,729,COD,Delivered,Flipkart,Sneha Nair,Shadowfax,7,4.5,2700,1350,33.33,0,4779
+40,Pune,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,NONE,0%,0,12,8000,960,Debit Card,Cancelled,Mobile App,Online Self,BlueDart,1,,3800,4200,52.5,0,8960
+27,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,SAVE20,20%,840,18,3360,604.8,Credit Card,Delivered,Mobile App,Online Self,Delhivery,8,2.7,2600,760,22.62,0,3964.8
+55,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,NONE,0%,0,12,8000,960,Debit Card,Cancelled,Website,Online Self,Shadowfax,3,,3800,4200,52.5,0,8960
+41,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,1,650,650,FESTIVE15,15%,97.5,18,552.5,99.45,Credit Card,Delivered,Amazon,Amit Singh,Delhivery,8,3.1,250,302.5,54.75,50,701.95
+55,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,NONE,0%,0,5,800,40,Credit Card,Delivered,Amazon,Sneha Nair,Ecom Express,1,4.8,350,450,56.25,50,890
+62,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,FESTIVE15,15%,525,18,2975,535.5,Net Banking,Cancelled,Flipkart,Sneha Nair,Ecom Express,5,,2100,875,29.41,0,3510.5
+34,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,1,650,650,NONE,0%,0,18,650,117,Debit Card,Returned,Flipkart,Rahul Sharma,Delhivery,5,,250,400,61.54,50,817
+63,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,NONE,0%,0,18,12600,2268,Net Banking,Delivered,Flipkart,Amit Singh,Delhivery,5,4.6,7800,4800,38.1,0,14868
+51,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,FESTIVE15,15%,1500,12,8500,1020,Net Banking,Returned,Amazon,Rahul Sharma,Delhivery,4,,4750,3750,44.12,0,9520
+50,Delhi,Delhi,North,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,FESTIVE15,15%,120,5,680,34,COD,Delivered,Flipkart,Sneha Nair,BlueDart,8,3.4,350,330,48.53,50,764
+44,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,WELCOME10,10%,1680,18,15120,2721.6,Credit Card,Delivered,Amazon,Sneha Nair,BlueDart,5,4.7,10400,4720,31.22,0,17841.6
+29,Pune,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,SAVE20,20%,320,5,1280,64,Debit Card,Delivered,Flipkart,Amit Singh,Ecom Express,7,3.1,700,580,45.31,0,1344
+46,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,FESTIVE15,15%,525,18,2975,535.5,Credit Card,Returned,Amazon,Rahul Sharma,BlueDart,5,,2100,875,29.41,0,3510.5
+47,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,WELCOME10,10%,320,5,2880,144,UPI,Cancelled,Flipkart,Amit Singh,Ecom Express,2,,1400,1480,51.39,0,3024
+53,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,FESTIVE15,15%,525,18,2975,535.5,COD,Delivered,Website,Online Self,Delhivery,7,4.6,2100,875,29.41,0,3510.5
+33,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,NONE,0%,0,18,16800,3024,Debit Card,Cancelled,Website,Online Self,BlueDart,1,,10400,6400,38.1,0,19824
+27,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,Debit Card,Delivered,Flipkart,Priya Verma,Shadowfax,2,3.1,8400,4200,33.33,0,14868
+31,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,SAVE20,20%,2800,18,11200,2016,Net Banking,Returned,Amazon,Sneha Nair,BlueDart,8,,8400,2800,25,0,13216
+29,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,4,650,2600,NONE,0%,0,18,2600,468,Debit Card,Delivered,Website,Online Self,XpressBees,1,4.9,1000,1600,61.54,0,3068
+60,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,SAVE20,20%,1500,18,6000,1080,UPI,Delivered,Mobile App,Online Self,Shadowfax,5,2.6,4500,1500,25,0,7080
+37,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,5,650,3250,NONE,0%,0,18,3250,585,COD,Delivered,Mobile App,Online Self,XpressBees,2,4.1,1250,2000,61.54,0,3835
+51,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,SAVE20,20%,3360,18,13440,2419.2,COD,Returned,Flipkart,Priya Verma,Ecom Express,5,,10400,3040,22.62,0,15859.2
+65,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,Debit Card,Delivered,Mobile App,Online Self,Delhivery,6,3.2,5200,1520,22.62,0,7929.6
+37,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,Net Banking,Delivered,Amazon,Sneha Nair,Ecom Express,1,4.4,5200,1520,22.62,0,7929.6
+32,Jaipur,Rajasthan,North,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,FESTIVE15,15%,450,18,2550,459,COD,Cancelled,Mobile App,Online Self,Shadowfax,7,,1800,750,29.41,0,3009
+55,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,Net Banking,Delivered,Website,Online Self,Delhivery,5,3.8,8400,4200,33.33,0,14868
+40,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,SAVE20,20%,1200,12,4800,576,Debit Card,Returned,Website,Online Self,BlueDart,1,,2850,1950,40.62,0,5376
+32,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,SAVE20,20%,1600,12,6400,768,COD,Delivered,Amazon,Rahul Sharma,BlueDart,2,3.6,3800,2600,40.62,0,7168
+36,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,5,650,3250,SAVE20,20%,650,18,2600,468,COD,Delivered,Mobile App,Online Self,XpressBees,5,3.7,1250,1350,51.92,0,3068
+50,Mumbai,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,FESTIVE15,15%,360,5,2040,102,Credit Card,Cancelled,Website,Online Self,XpressBees,1,,1050,990,48.53,0,2142
+43,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,3,2000,6000,SAVE20,20%,1200,12,4800,576,COD,Delivered,Website,Online Self,XpressBees,1,4.4,2850,1950,40.62,0,5376
+48,Jaipur,Rajasthan,North,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,WELCOME10,10%,240,5,2160,108,UPI,Delivered,Website,Online Self,Ecom Express,5,4.5,1050,1110,51.39,0,2268
+23,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,WELCOME10,10%,700,18,6300,1134,UPI,Returned,Flipkart,Amit Singh,XpressBees,5,,4200,2100,33.33,0,7434
+26,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,NONE,0%,0,18,10500,1890,Net Banking,Returned,Website,Online Self,Shadowfax,8,,6300,4200,40,0,12390
+59,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,WELCOME10,10%,840,18,7560,1360.8,UPI,Delivered,Flipkart,Priya Verma,Ecom Express,1,4.4,5200,2360,31.22,0,8920.8
+24,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,NONE,0%,0,12,10000,1200,Net Banking,Cancelled,Flipkart,Sneha Nair,Ecom Express,5,,4750,5250,52.5,0,11200
+36,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,FESTIVE15,15%,900,18,5100,918,UPI,Delivered,Website,Online Self,BlueDart,6,4.7,3600,1500,29.41,0,6018
+27,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,NONE,0%,0,12,2000,240,COD,Returned,Flipkart,Rahul Sharma,Ecom Express,8,,950,1050,52.5,0,2240
+55,Mumbai,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,SAVE20,20%,840,18,3360,604.8,Net Banking,Delivered,Mobile App,Online Self,XpressBees,3,4.4,2600,760,22.62,0,3964.8
+28,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,WELCOME10,10%,2100,18,18900,3402,Net Banking,Cancelled,Flipkart,Priya Verma,Ecom Express,7,,13000,5900,31.22,0,22302
+44,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,SAVE20,20%,3360,18,13440,2419.2,Debit Card,Delivered,Flipkart,Rahul Sharma,Ecom Express,7,2.7,10400,3040,22.62,0,15859.2
+28,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,FESTIVE15,15%,525,18,2975,535.5,Debit Card,Cancelled,Website,Online Self,BlueDart,2,,2100,875,29.41,0,3510.5
+58,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,FESTIVE15,15%,1500,12,8500,1020,Credit Card,Cancelled,Amazon,Rahul Sharma,Delhivery,4,,4750,3750,44.12,0,9520
+42,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,5,650,3250,SAVE20,20%,650,18,2600,468,Credit Card,Cancelled,Amazon,Priya Verma,XpressBees,6,,1250,1350,51.92,0,3068
+19,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,FESTIVE15,15%,2100,18,11900,2142,COD,Delivered,Mobile App,Online Self,BlueDart,7,4.1,8400,3500,29.41,0,14042
+48,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,NONE,0%,0,18,7000,1260,Debit Card,Cancelled,Amazon,Rahul Sharma,BlueDart,3,,4200,2800,40,0,8260
+56,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,SAVE20,20%,400,12,1600,192,Credit Card,Delivered,Flipkart,Priya Verma,Ecom Express,8,4.8,950,650,40.62,0,1792
+22,Mumbai,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,NONE,0%,0,5,800,40,Credit Card,Delivered,Mobile App,Online Self,Delhivery,4,4.5,350,450,56.25,50,890
+29,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,SAVE20,20%,1680,18,6720,1209.6,Net Banking,Delivered,Website,Online Self,Ecom Express,5,3.7,5200,1520,22.62,0,7929.6
+21,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,3,650,1950,NONE,0%,0,18,1950,351,Debit Card,Returned,Flipkart,Sneha Nair,Ecom Express,4,,750,1200,61.54,0,2301
+56,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,FESTIVE15,15%,600,12,3400,408,Debit Card,Delivered,Mobile App,Online Self,Delhivery,6,3.9,1900,1500,44.12,0,3808
+46,Jaipur,Rajasthan,North,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,WELCOME10,10%,240,5,2160,108,Credit Card,Delivered,Website,Online Self,Shadowfax,7,4.6,1050,1110,51.39,0,2268
+50,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,SAVE20,20%,4200,18,16800,3024,Credit Card,Cancelled,Flipkart,Priya Verma,Ecom Express,7,,13000,3800,22.62,0,19824
+27,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,NONE,0%,0,18,6000,1080,COD,Delivered,Amazon,Rahul Sharma,XpressBees,1,4.6,3600,2400,40,0,7080
+54,Mumbai,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,SAVE20,20%,4200,18,16800,3024,UPI,Returned,Mobile App,Online Self,Ecom Express,4,,13000,3800,22.62,0,19824
+18,Jaipur,Rajasthan,North,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,SAVE20,20%,1500,18,6000,1080,Net Banking,Delivered,Flipkart,Rahul Sharma,BlueDart,4,3,4500,1500,25,0,7080
+27,Chennai,Tamil Nadu,South,Clothing,Cotton T-Shirt,SKU-CL-201,3,800,2400,FESTIVE15,15%,360,5,2040,102,Credit Card,Returned,Flipkart,Amit Singh,XpressBees,8,,1050,990,48.53,0,2142
+53,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,5,4200,21000,FESTIVE15,15%,3150,18,17850,3213,Credit Card,Delivered,Website,Online Self,BlueDart,7,3,13000,4850,27.17,0,21063
+45,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,2,650,1300,SAVE20,20%,260,18,1040,187.2,Debit Card,Delivered,Mobile App,Online Self,Delhivery,3,3,500,540,51.92,0,1227.2
+29,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,FESTIVE15,15%,2625,18,14875,2677.5,Debit Card,Delivered,Website,Online Self,Shadowfax,4,3,10500,4375,29.41,0,17552.5
+42,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,1,650,650,WELCOME10,10%,65,18,585,105.3,Debit Card,Cancelled,Amazon,Sneha Nair,Delhivery,4,,250,335,57.26,50,740.3
+42,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,NONE,0%,0,12,8000,960,COD,Delivered,Amazon,Priya Verma,Delhivery,2,3.9,3800,4200,52.5,0,8960
+64,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,WELCOME10,10%,840,18,7560,1360.8,Credit Card,Returned,Amazon,Sneha Nair,BlueDart,1,,5200,2360,31.22,0,8920.8
+20,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,FESTIVE15,15%,1500,12,8500,1020,Debit Card,Delivered,Website,Online Self,Delhivery,7,4.2,4750,3750,44.12,0,9520
+55,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,NONE,0%,0,18,6000,1080,COD,Cancelled,Mobile App,Online Self,Ecom Express,2,,3600,2400,40,0,7080
+30,Pune,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,NONE,0%,0,12,10000,1200,Credit Card,Returned,Mobile App,Online Self,Shadowfax,3,,4750,5250,52.5,0,11200
+60,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,SAVE20,20%,1400,18,5600,1008,Net Banking,Delivered,Mobile App,Online Self,XpressBees,8,4.8,4200,1400,25,0,6608
+63,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,1,650,650,WELCOME10,10%,65,18,585,105.3,Net Banking,Delivered,Mobile App,Online Self,XpressBees,1,2.8,250,335,57.26,50,740.3
+59,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,NONE,0%,0,18,14000,2520,UPI,Delivered,Amazon,Sneha Nair,XpressBees,6,2.7,8400,5600,40,0,16520
+28,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,NONE,0%,0,18,8400,1512,Net Banking,Delivered,Website,Online Self,XpressBees,8,2.8,5200,3200,38.1,0,9912
+19,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,SAVE20,20%,800,12,3200,384,UPI,Delivered,Website,Online Self,XpressBees,6,3,1900,1300,40.62,0,3584
+48,Delhi,Delhi,North,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,FESTIVE15,15%,630,18,3570,642.6,COD,Returned,Amazon,Priya Verma,Ecom Express,8,,2600,970,27.17,0,4212.6
+63,Pune,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,FESTIVE15,15%,1575,18,8925,1606.5,UPI,Cancelled,Mobile App,Online Self,XpressBees,5,,6300,2625,29.41,0,10531.5
+54,Kolkata,West Bengal,East,Beauty,Face Serum,SKU-BT-401,5,650,3250,SAVE20,20%,650,18,2600,468,COD,Returned,Website,Online Self,Delhivery,6,,1250,1350,51.92,0,3068
+50,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,3,650,1950,SAVE20,20%,390,18,1560,280.8,UPI,Cancelled,Website,Online Self,BlueDart,3,,750,810,51.92,0,1840.8
+39,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,WELCOME10,10%,1260,18,11340,2041.2,COD,Delivered,Mobile App,Online Self,Shadowfax,4,3.3,7800,3540,31.22,0,13381.2
+30,Delhi,Delhi,North,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,WELCOME10,10%,350,18,3150,567,COD,Delivered,Mobile App,Online Self,Ecom Express,1,3.3,2100,1050,33.33,0,3717
+34,Mumbai,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,WELCOME10,10%,1260,18,11340,2041.2,COD,Returned,Mobile App,Online Self,BlueDart,4,,7800,3540,31.22,0,13381.2
+26,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,WELCOME10,10%,420,18,3780,680.4,COD,Cancelled,Mobile App,Online Self,Delhivery,2,,2600,1180,31.22,0,4460.4
+65,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,3,650,1950,FESTIVE15,15%,292.5,18,1657.5,298.35,Credit Card,Cancelled,Flipkart,Amit Singh,Delhivery,1,,750,907.5,54.75,0,1955.85
+27,Mumbai,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,NONE,0%,0,18,4200,756,Debit Card,Returned,Mobile App,Online Self,Ecom Express,7,,2600,1600,38.1,0,4956
+37,Jaipur,Rajasthan,North,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,NONE,0%,0,5,800,40,Net Banking,Delivered,Website,Online Self,Ecom Express,4,4.3,350,450,56.25,50,890
+64,Jaipur,Rajasthan,North,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,WELCOME10,10%,450,18,4050,729,UPI,Delivered,Flipkart,Priya Verma,Shadowfax,5,3.9,2700,1350,33.33,0,4779
+33,Chennai,Tamil Nadu,South,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,FESTIVE15,15%,120,5,680,34,Debit Card,Delivered,Website,Online Self,Ecom Express,6,3.2,350,330,48.53,50,764
+21,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,3,1500,4500,NONE,0%,0,18,4500,810,Net Banking,Delivered,Website,Online Self,Delhivery,1,3.5,2700,1800,40,0,5310
+35,Mumbai,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,NONE,0%,0,18,3000,540,UPI,Delivered,Website,Online Self,Ecom Express,6,4.9,1800,1200,40,0,3540
+43,Bengaluru,Karnataka,South,Beauty,Face Serum,SKU-BT-401,2,650,1300,NONE,0%,0,18,1300,234,UPI,Returned,Mobile App,Online Self,Delhivery,2,,500,800,61.54,0,1534
+37,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,WELCOME10,10%,750,18,6750,1215,COD,Delivered,Flipkart,Amit Singh,XpressBees,2,3.1,4500,2250,33.33,0,7965
+49,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,NONE,0%,0,5,800,40,Net Banking,Delivered,Website,Online Self,XpressBees,1,3,350,450,56.25,50,890
+47,Pune,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,5,650,3250,NONE,0%,0,18,3250,585,UPI,Delivered,Mobile App,Online Self,Delhivery,6,4,1250,2000,61.54,0,3835
+57,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,5,650,3250,NONE,0%,0,18,3250,585,COD,Returned,Flipkart,Rahul Sharma,XpressBees,4,,1250,2000,61.54,0,3835
+30,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,WELCOME10,10%,420,18,3780,680.4,Net Banking,Returned,Mobile App,Online Self,XpressBees,1,,2600,1180,31.22,0,4460.4
+19,Mumbai,Maharashtra,West,Beauty,Face Serum,SKU-BT-401,3,650,1950,SAVE20,20%,390,18,1560,280.8,UPI,Delivered,Mobile App,Online Self,Ecom Express,5,2.9,750,810,51.92,0,1840.8
+33,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,2,650,1300,SAVE20,20%,260,18,1040,187.2,Credit Card,Delivered,Flipkart,Rahul Sharma,XpressBees,1,4.6,500,540,51.92,0,1227.2
+29,Mumbai,Maharashtra,West,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,SAVE20,20%,800,5,3200,160,Credit Card,Returned,Flipkart,Sneha Nair,Ecom Express,3,,1750,1450,45.31,0,3360
+56,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,5,650,3250,WELCOME10,10%,325,18,2925,526.5,Debit Card,Delivered,Website,Online Self,Shadowfax,4,3.9,1250,1675,57.26,0,3451.5
+32,Kolkata,West Bengal,East,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,FESTIVE15,15%,225,18,1275,229.5,Debit Card,Cancelled,Mobile App,Online Self,Ecom Express,6,,900,375,29.41,0,1504.5
+62,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,FESTIVE15,15%,525,18,2975,535.5,Credit Card,Delivered,Amazon,Amit Singh,Delhivery,4,4.3,2100,875,29.41,0,3510.5
+53,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,FESTIVE15,15%,2520,18,14280,2570.4,Debit Card,Delivered,Flipkart,Rahul Sharma,BlueDart,2,4,10400,3880,27.17,0,16850.4
+28,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,4,2000,8000,NONE,0%,0,12,8000,960,Net Banking,Delivered,Flipkart,Sneha Nair,Ecom Express,2,3.7,3800,4200,52.5,0,8960
+33,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,Debit Card,Cancelled,Website,Online Self,BlueDart,3,,8400,4200,33.33,0,14868
+59,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,SAVE20,20%,300,18,1200,216,Net Banking,Delivered,Mobile App,Online Self,Shadowfax,1,3.5,900,300,25,0,1416
+64,Pune,Maharashtra,West,Electronics,Wireless Earbuds,SKU-EL-101,2,1500,3000,WELCOME10,10%,300,18,2700,486,Net Banking,Delivered,Website,Online Self,Ecom Express,7,3.5,1800,900,33.33,0,3186
+61,Jaipur,Rajasthan,North,Electronics,Smart Watch,SKU-EL-102,1,3500,3500,FESTIVE15,15%,525,18,2975,535.5,UPI,Delivered,Amazon,Sneha Nair,Delhivery,1,2.9,2100,875,29.41,0,3510.5
+49,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,WELCOME10,10%,840,18,7560,1360.8,Credit Card,Cancelled,Website,Online Self,Ecom Express,2,,5200,2360,31.22,0,8920.8
+46,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,5,3500,17500,NONE,0%,0,18,17500,3150,UPI,Delivered,Website,Online Self,Ecom Express,7,2.8,10500,7000,40,0,20650
+55,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,1,4200,4200,SAVE20,20%,840,18,3360,604.8,Debit Card,Delivered,Flipkart,Sneha Nair,Shadowfax,2,2.6,2600,760,22.62,0,3964.8
+30,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,FESTIVE15,15%,300,12,1700,204,COD,Delivered,Amazon,Priya Verma,Delhivery,2,4.7,950,750,44.12,0,1904
+26,Bhopal,Madhya Pradesh,Central,Electronics,Smart Watch,SKU-EL-102,3,3500,10500,FESTIVE15,15%,1575,18,8925,1606.5,Credit Card,Delivered,Amazon,Sneha Nair,Delhivery,4,3.7,6300,2625,29.41,0,10531.5
+18,Kolkata,West Bengal,East,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,SAVE20,20%,2000,12,8000,960,COD,Delivered,Mobile App,Online Self,BlueDart,5,2.9,4750,3250,40.62,0,8960
+22,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,FESTIVE15,15%,300,12,1700,204,Debit Card,Cancelled,Flipkart,Sneha Nair,Shadowfax,8,,950,750,44.12,0,1904
+56,Jaipur,Rajasthan,North,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,WELCOME10,10%,1000,12,9000,1080,Debit Card,Delivered,Mobile App,Online Self,Ecom Express,8,3.5,4750,4250,47.22,0,10080
+26,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,5,650,3250,SAVE20,20%,650,18,2600,468,Debit Card,Delivered,Website,Online Self,Ecom Express,1,3.7,1250,1350,51.92,0,3068
+22,Delhi,Delhi,North,Beauty,Face Serum,SKU-BT-401,4,650,2600,FESTIVE15,15%,390,18,2210,397.8,Debit Card,Delivered,Flipkart,Amit Singh,Ecom Express,2,3.9,1000,1210,54.75,0,2607.8
+63,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,2,4200,8400,NONE,0%,0,18,8400,1512,UPI,Cancelled,Flipkart,Priya Verma,XpressBees,5,,5200,3200,38.1,0,9912
+61,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,WELCOME10,10%,80,5,720,36,Debit Card,Returned,Flipkart,Amit Singh,Ecom Express,5,,350,370,51.39,50,806
+21,Jaipur,Rajasthan,North,Beauty,Face Serum,SKU-BT-401,5,650,3250,SAVE20,20%,650,18,2600,468,COD,Cancelled,Website,Online Self,XpressBees,3,,1250,1350,51.92,0,3068
+63,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,2,2000,4000,SAVE20,20%,800,12,3200,384,COD,Delivered,Mobile App,Online Self,BlueDart,8,4.5,1900,1300,40.62,0,3584
+60,Bengaluru,Karnataka,South,Electronics,Smart Watch,SKU-EL-102,2,3500,7000,SAVE20,20%,1400,18,5600,1008,Credit Card,Delivered,Flipkart,Priya Verma,Shadowfax,5,2.6,4200,1400,25,0,6608
+43,Bhopal,Madhya Pradesh,Central,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,WELCOME10,10%,1000,12,9000,1080,UPI,Delivered,Flipkart,Sneha Nair,BlueDart,5,2.8,4750,4250,47.22,0,10080
+49,Jaipur,Rajasthan,North,Clothing,Cotton T-Shirt,SKU-CL-201,5,800,4000,WELCOME10,10%,400,5,3600,180,UPI,Delivered,Website,Online Self,BlueDart,6,3,1750,1850,51.39,0,3780
+53,Delhi,Delhi,North,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,SAVE20,20%,1200,18,4800,864,Debit Card,Cancelled,Mobile App,Online Self,XpressBees,6,,3600,1200,25,0,5664
+55,Delhi,Delhi,North,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,WELCOME10,10%,200,12,1800,216,Net Banking,Delivered,Flipkart,Sneha Nair,XpressBees,8,2.5,950,850,47.22,0,2016
+31,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,WELCOME10,10%,80,5,720,36,Credit Card,Delivered,Website,Online Self,XpressBees,6,4.6,350,370,51.39,50,806
+29,Mumbai,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,NONE,0%,0,18,12600,2268,UPI,Cancelled,Website,Online Self,Delhivery,5,,7800,4800,38.1,0,14868
+45,Chennai,Tamil Nadu,South,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,COD,Returned,Mobile App,Online Self,Shadowfax,8,,8400,4200,33.33,0,14868
+40,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,2,650,1300,FESTIVE15,15%,195,18,1105,198.9,Credit Card,Delivered,Flipkart,Sneha Nair,Shadowfax,4,2.8,500,605,54.75,0,1303.9
+44,Bengaluru,Karnataka,South,Home & Kitchen,Mixer Grinder,SKU-HK-301,3,4200,12600,SAVE20,20%,2520,18,10080,1814.4,Credit Card,Delivered,Amazon,Rahul Sharma,Shadowfax,1,2.9,7800,2280,22.62,0,11894.4
+35,Bhopal,Madhya Pradesh,Central,Electronics,Wireless Earbuds,SKU-EL-101,4,1500,6000,WELCOME10,10%,600,18,5400,972,Credit Card,Cancelled,Mobile App,Online Self,BlueDart,8,,3600,1800,33.33,0,6372
+25,Bhopal,Madhya Pradesh,Central,Clothing,Cotton T-Shirt,SKU-CL-201,1,800,800,WELCOME10,10%,80,5,720,36,Credit Card,Returned,Amazon,Sneha Nair,Shadowfax,8,,350,370,51.39,50,806
+39,Kolkata,West Bengal,East,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,WELCOME10,10%,1400,18,12600,2268,Net Banking,Delivered,Amazon,Rahul Sharma,XpressBees,3,4.3,8400,4200,33.33,0,14868
+63,Chennai,Tamil Nadu,South,Beauty,Face Serum,SKU-BT-401,1,650,650,NONE,0%,0,18,650,117,Credit Card,Cancelled,Website,Online Self,Delhivery,6,,250,400,61.54,50,817
+45,Chennai,Tamil Nadu,South,Clothing,Denim Jeans,SKU-CL-202,5,2000,10000,NONE,0%,0,12,10000,1200,COD,Delivered,Amazon,Priya Verma,Ecom Express,6,4.8,4750,5250,52.5,0,11200
+40,Bhopal,Madhya Pradesh,Central,Beauty,Face Serum,SKU-BT-401,2,650,1300,FESTIVE15,15%,195,18,1105,198.9,UPI,Delivered,Mobile App,Online Self,Shadowfax,6,3.2,500,605,54.75,0,1303.9
+40,Mumbai,Maharashtra,West,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,SAVE20,20%,400,12,1600,192,UPI,Cancelled,Mobile App,Online Self,Delhivery,7,,950,650,40.62,0,1792
+46,Jaipur,Rajasthan,North,Electronics,Wireless Earbuds,SKU-EL-101,5,1500,7500,SAVE20,20%,1500,18,6000,1080,Credit Card,Delivered,Website,Online Self,Ecom Express,5,4,4500,1500,25,0,7080
+55,Jaipur,Rajasthan,North,Clothing,Cotton T-Shirt,SKU-CL-201,2,800,1600,NONE,0%,0,5,1600,80,UPI,Returned,Amazon,Amit Singh,BlueDart,7,,700,900,56.25,0,1680
+34,Mumbai,Maharashtra,West,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,SAVE20,20%,3360,18,13440,2419.2,UPI,Delivered,Amazon,Priya Verma,Shadowfax,7,3.4,10400,3040,22.62,0,15859.2
+51,Bhopal,Madhya Pradesh,Central,Home & Kitchen,Mixer Grinder,SKU-HK-301,4,4200,16800,SAVE20,20%,3360,18,13440,2419.2,Credit Card,Cancelled,Mobile App,Online Self,BlueDart,7,,10400,3040,22.62,0,15859.2
+61,Kolkata,West Bengal,East,Clothing,Cotton T-Shirt,SKU-CL-201,4,800,3200,WELCOME10,10%,320,5,2880,144,UPI,Delivered,Amazon,Priya Verma,Shadowfax,1,4.6,1400,1480,51.39,0,3024
+53,Mumbai,Maharashtra,West,Electronics,Smart Watch,SKU-EL-102,4,3500,14000,NONE,0%,0,18,14000,2520,Credit Card,Delivered,Amazon,Priya Verma,XpressBees,1,3.8,8400,5600,40,0,16520
+45,Bengaluru,Karnataka,South,Electronics,Wireless Earbuds,SKU-EL-101,1,1500,1500,SAVE20,20%,300,18,1200,216,COD,Delivered,Flipkart,Sneha Nair,Shadowfax,5,2.7,900,300,25,0,1416
+53,Bengaluru,Karnataka,South,Clothing,Denim Jeans,SKU-CL-202,1,2000,2000,SAVE20,20%,400,12,1600,192,Credit Card,Cancelled,Flipkart,Amit Singh,Shadowfax,4,,950,650,40.62,0,1792
